@@ -1,0 +1,28 @@
+.flex-container 
+{
+    display: flex;
+
+    width: 200px;
+    height: 300px;
+    flex-flow: row wrap;
+    border: 1px lightgrey solid;
+    /**/
+}
+
+.flex-item-gadget
+{
+
+    font-size: 0.7em;
+    flex: 1 100%;
+    text-align: center;
+    line-height: 0.7em;
+     
+    
+    bottom: 0;
+}
+
+.flex-item-gadget-photo
+{
+    clip-path: ellipse(40% 40% at 50% 50%);
+
+}
