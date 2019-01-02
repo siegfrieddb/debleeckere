@@ -21,7 +21,7 @@ import PaginatedContent from "../components/PaginatedContent/PaginatedContent";
 import SocialMediaIcons from "../components/SocialMediaIcons/SocialMediaIcons";
 import Layout from "../components/layout";
 
-class IndexTemplate extends React.Component {
+class DocTemplate extends React.Component {
   state = {
     menuOpen: false
   };
@@ -104,7 +104,7 @@ class IndexTemplate extends React.Component {
                 </Link>
               </MainHeader>
               <PageSection>
-              {"Welkom op de site van familie Vital De Bleeckere - Octavia Versluys. De rubriek Familie handelt over de drie generaties van de familie. Onder de rubriek Documenten staan officië le documenten. De rubriek Onderzoek bouwt een forum uit voor onderzoek naar de familie. De rubriek Bakermat bevat thema's die de historische, geografische en maatschappelijke context belichten."}
+              {"Documenten over de familie."}
               </PageSection>
               <PaginatedContent
                 page={page}
@@ -133,7 +133,7 @@ class IndexTemplate extends React.Component {
 
 /* eslint no-undef: "off" */
 export const pageQuery = graphql`
-  query IndexQuery {
+  query Index4Query {
     # posts data comes from the context
     # authors
     authors: allAuthorsJson {
@@ -150,4 +150,4 @@ export const pageQuery = graphql`
   }
 `;
 
-export default IndexTemplate;
+export default DocTemplate;

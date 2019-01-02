@@ -6,7 +6,7 @@ module.exports = {
   siteTitle: "De Bleeckere", // Site title.
   siteTitleAlt: "Familienaam De Bleeckere Site", // Alternative site title for SEO.
   siteLogo:
-    "logo/debleeckere.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
+    "images/debleeckere-logo.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
   siteUrl: "https://debleeckere.be", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:

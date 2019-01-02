@@ -9,8 +9,6 @@ geboren: "2012-01-08"
 overleden: ""
 vader: "1978-siegfried-de-bleeckere"
 moeder: "1980-karen-hollants"   
-verblijfplaatsen:
-  - Landen
 ---
 # Dante De Bleeckere
 We can here in words put anything we like

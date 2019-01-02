@@ -48,6 +48,7 @@ exports.createPages = ({ graphql, actions }) => {
 
   return new Promise((resolve, reject) => {
     const indexPage = path.resolve("src/templates/index.jsx");
+    const docPage = path.resolve("src/templates/documenten.jsx");
     const postPage = path.resolve("src/templates/post.jsx");
     const tagPage = path.resolve("src/templates/tag.jsx");
     const categoryPage = path.resolve("src/templates/category.jsx");
@@ -100,16 +101,29 @@ exports.createPages = ({ graphql, actions }) => {
           console.log(result.errors);
           reject(result.errors);
         }
-		
+        
+
+        let docEdges = _.filter(result.data.allMarkdownRemark.edges, edge=> edge.node.frontmatter.category == "documenten")
+
+
+        // Creates document Index page
+        createPaginationPages({
+          createPage,
+          edges: docEdges,
+          component: docPage,
+          limit: siteConfig.sitePaginationLimit,
+          pathFormatter: path => `/documenten/${path}`
+        });
+    
         // Creates Index page
         createPaginationPages({
           createPage,
           edges: result.data.allMarkdownRemark.edges,
           component: indexPage,
-          limit: siteConfig.sitePaginationLimit
+          limit: siteConfig.sitePaginationLimit,
+          
         });
-		
-
+          
         // Creates Posts
         createLinkedPages({
           createPage,
