@@ -1,5 +1,5 @@
 .page-section {
-  margin: 10em;
+  margin: 1em;
   font-size: 2rem;
   line-height: 1.5em;
   font-weight: 400;
@@ -11,7 +11,7 @@
 
 @media only screen and (max-width: 1000px) {
   .page-section {
-      margin: 4em;
+      margin: 0.5em;
       
   }
 }
@@ -22,7 +22,7 @@
     
    @media only screen and (max-width: 500px) {
     .page-section {
-        margin: 1em;
+        margin: 0.25em;
         font-size: 1.5rem
     }
 }

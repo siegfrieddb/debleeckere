@@ -9,7 +9,7 @@ class Gallery extends Component {
     return (
         <div>
             <div className="flex-container-gallery">
-            { _.map(zipped, e => {return ( <Link to={e[1]} ><Img  className="flex-item-gallery" fixed={e[0].fixed}> </Img></Link>) } ) }
+            { _.map(zipped, e => {return ( <Link  key={e[1]} to={e[1]} ><Img  className="flex-item-gallery" fixed={e[0].fixed}> </Img></Link>) } ) }
             </div>
         </div>
     );

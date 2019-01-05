@@ -2,6 +2,7 @@ import { graphql } from "gatsby";
 import React from "react";
 import Helmet from "react-helmet";
 import { Link } from "react-scroll";
+import { Link as GatsbyLink } from "gatsby"
 import PostListing from "../components/PostListing/PostListing";
 import SEO from "../components/SEO/SEO";
 import config from "../../data/SiteConfig";
@@ -20,6 +21,7 @@ import PageDescription from "../components/PageDescription/PageDescription";
 import PaginatedContent from "../components/PaginatedContent/PaginatedContent";
 import SocialMediaIcons from "../components/SocialMediaIcons/SocialMediaIcons";
 import Layout from "../components/layout";
+import Gallery from "../components/Gallery/Gallery";
 
 class IndexTemplate extends React.Component {
   state = {
@@ -73,8 +75,8 @@ class IndexTemplate extends React.Component {
             {/* All the main content gets inserted here */}
             <div className="home-template">
               {/* The big featured header */}
-              <MainHeader cover={config.siteCover}>
-                <MainNav overlay={config.siteCover}>
+              <MainHeader cover="/images/FamilieDB0.jpg">
+                <MainNav overlay="/images/FamilieDB0.jpg">
                   <BlogLogo logo={config.siteLogo} title={config.siteTitle} />
                   <MenuButton
                     navigation={config.siteNavigation}
@@ -83,7 +85,7 @@ class IndexTemplate extends React.Component {
                 </MainNav>
                 <div className="vertical">
                   <div className="main-header-content inner">
-                    {/* <PageTitle text={config.siteTitle} />
+                    { <PageTitle text="Documenten" /> /*
                     <PageDescription text={config.siteDescription} />
                     <SocialMediaIcons
                       urls={config.siteSocialUrls}
@@ -95,7 +97,7 @@ class IndexTemplate extends React.Component {
                 <Link
                   className="scroll-down icon-arrow-left"
                   to="content"
-                  data-offset="+1000"
+                  data-offset="-45"
                   spy
                   smooth
                   duration={500}
@@ -103,10 +105,12 @@ class IndexTemplate extends React.Component {
                   <span className="hidden">Scroll Down</span>
                 </Link>
               </MainHeader>
-              <PageSection >
-              <div id="content">
-              {"Welkom op de site van familie Vital De Bleeckere - Octavia Versluys. De rubriek Familie handelt over de drie generaties van de familie. Onder de rubriek Documenten staan officië le documenten. De rubriek Onderzoek bouwt een forum uit voor onderzoek naar de familie. De rubriek Bakermat bevat thema's die de historische, geografische en maatschappelijke context belichten."}
-              </div>
+              <PageSection>
+              tekst voor documenten
+              </PageSection>
+              <PageSection>
+                <Gallery images={_.map(this.props.data.voorgrond.edges, e => e.node.childImageSharp)} 
+                         links= {_.map(this.props.data.voorgrond.edges, e => e.node.relativePath.slice(0,-14))} ></Gallery>
               </PageSection>
               
             </div>
@@ -125,7 +129,7 @@ class IndexTemplate extends React.Component {
 
 /* eslint no-undef: "off" */
 export const pageQuery = graphql`
-  query IndexQuery {
+  query IndexDocumentenQuery {
     # posts data comes from the context
     # authors
     authors: allAuthorsJson {
@@ -136,6 +140,21 @@ export const pageQuery = graphql`
           image
           url
           bio
+        }
+      }
+    }
+    voorgrond : allFile (filter: {absolutePath: {regex: "/documenten.*voorgrond\\.jpg/"}} )
+    {
+      edges {
+        node{
+          absolutePath 
+          relativePath
+          childImageSharp {
+            
+            fixed(width: 250, height: 250) {
+              ...GatsbyImageSharpFixed
+            } 
+          }
         }
       }
     }

@@ -1,18 +1,18 @@
 ---
-voornaam: "Karen"
-achternaam: "Hollants"
-persoon: "1980-karen-hollants"
+voornaam: "Julia"
+achternaam: "Hooft"
+persoon: "1800-julia-hooft"
 geslacht: "vrouw"
+geboren: "19XX-XX-XX"
+overleden: "19XX-XX-XX"
+vader: ""
+moeder: ""   
 author: sylvain
-geboren: "1980-12-02"
-overleden: ""
-vader: "19xx-leo-hollants"
-moeder: "19xx-monique-van-gijsel"   
 ---
 # Karen Hollants
 We can here in words put anything we like
 with different sections for the person
-![voorgrond](./voorgrond.jpg)
+![](index.png)
 
 ## More info
 We can probably use linked names 

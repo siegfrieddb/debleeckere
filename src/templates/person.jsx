@@ -75,17 +75,8 @@ class PostTemplate extends React.Component {
       author,
       config.blogAuthorId
     );
-    console.log("slug = " + slug)
-    console.log("vader = " + vader)
-    console.log("moeder = " + moeder)
-    console.log("voorgrond = " + voorgrond)
-    console.log("achtergrond = " + achtergrond)
-
-    console.log(data.vader ? "vader known":"no vader")
-    console.log(data.moeder ? "moeder known":"no moeder")
-    console.log(data.backImg ? "achtergrond known":"no background")
-    console.log(moeder);
-
+    console.log(this.props.data.foreImg.edges[0].node.childImageSharp.fluid)
+    var foregroundWidth =  250 * this.props.data.foreImg.edges[0].node.childImageSharp.fluid.aspectRatio 
     
 
     return (
@@ -102,7 +93,6 @@ class PostTemplate extends React.Component {
         <SiteWrapper>
           <MainHeaderImg className="post-head" fluid={this.props.data.backImg.edges[0].node.childImageSharp.fluid} >
             <MainNav>
-              <BlogLogo logo={config.siteLogo} title={config.siteTitle} />
               <MenuButton
                 navigation={config.siteNavigation}
                 onClick={this.handleOnClick}
@@ -126,23 +116,16 @@ class PostTemplate extends React.Component {
                 left: "50%",
                 transform: "translate(-50%,0)"
               }} >
-                      <Img fixed={this.props.data.foreImg.edges[0].node.childImageSharp.fixed}> </Img>
-              </div>
+              <div >
+                      <Img  style={{height: "250px",width: foregroundWidth}}  fluid={this.props.data.foreImg.edges[0].node.childImageSharp.fluid}> </Img>
+              
+                      </div></div>
             </div>
             
           </MainHeaderImg>
           <MainContent>
             <PostFormatting className={className}>
-              <PostHeader>
-                <h1 className="post-title">{voornaam} {achternaam}</h1>
-                <section className="post-meta">
-                  <PostDate date={geboorte} />
-                  {/*<PostTags prefix=" on " tags={tags} /> */}
-                </section>
-              </PostHeader>
-              <section>
               
-              </section>
               <PageSection>
                 <section  className="post-content"
                 dangerouslySetInnerHTML={{ __html: persoon.html }}></section>

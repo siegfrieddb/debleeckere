@@ -41,6 +41,27 @@ module.exports = {
         path: `${__dirname}/content/${config.personDir}`
       }
     },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "bakermat",
+        path: `${__dirname}/content/bakermat`
+      }
+    },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "onderzoek",
+        path: `${__dirname}/content/onderzoek`
+      }
+    },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "documenten",
+        path: `${__dirname}/content/documenten`
+      }
+    },
     "gatsby-transformer-sharp",
     "gatsby-transformer-json",
     {
