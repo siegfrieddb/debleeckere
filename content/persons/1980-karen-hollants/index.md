@@ -16,7 +16,7 @@ verblijfplaatsen:
 # Karen Hollants
 We can here in words put anything we like
 with different sections for the person
-![](index.png)
+![](voorgrond.jpg)
 
 ## More info
 We can probably use linked names 
