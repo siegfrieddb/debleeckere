@@ -30,19 +30,24 @@ module.exports = {
   userLinks: [
     {
       label: "Familie",
-      url: "/familie/",
+      url: "/familie  ",
       iconClassName: "fa fa-github" // Disabled, see Navigation.jsx
     },
     {
-      label: "Documenten",
-      url: "/1980-karen-hollants",
-      iconClassName: "fa fa-twitter" // Disabled, see Navigation.jsx
+      label: "Bakermat",
+      url: "/bakermat",
+      iconClassName: "fa fa-envelope" // Disabled, see Navigation.jsx
     },
     {
       label: "Onderzoek",
-      url: "/1980-karen-hollants",
+      url: "/onderzoek",
       iconClassName: "fa fa-envelope" // Disabled, see Navigation.jsx
-    }
+    },
+    {
+      label: "Documenten",
+      url: "/documenten",
+      iconClassName: "fa fa-twitter" // Disabled, see Navigation.jsx
+    },
   ],
   // Copyright string for the footer of the website and RSS feed.
   copyright: {

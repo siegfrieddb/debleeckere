@@ -19,6 +19,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     )
     {
       slug = `/${_.kebabCase(node.frontmatter.slug)}`;
+      console.log("6")
     } 
     else if (
       Object.prototype.hasOwnProperty.call(node, "frontmatter") &&
@@ -26,20 +27,24 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     ) 
     {
       slug = `/${_.kebabCase(node.frontmatter.persoon)}`;
-    }  
-    else if (
-      Object.prototype.hasOwnProperty.call(node, "frontmatter") &&
-      Object.prototype.hasOwnProperty.call(node.frontmatter, "title")
-    ) {
-      slug = `/${_.kebabCase(node.frontmatter.title)}`;
+      console.log("5")
     } else if (parsedFilePath.name !== "index" && parsedFilePath.dir !== "") {
-      slug = `/${parsedFilePath.dir}/${parsedFilePath.name}/`;
+      slug = `/${parsedFilePath.dir}/${parsedFilePath.name}`;
+      console.log("3")
     } else if (parsedFilePath.dir === "") {
-      slug = `/${parsedFilePath.name}/`;
+      slug = `/${parsedFilePath.name}`;
+      console.log("2")
     } else {
-      slug = `/${parsedFilePath.dir}/`;
+      slug = `/${parsedFilePath.dir}`;
+      console.log("1")
     }
+    console.log(slug)
+    //TODO: add logic to intercept local links on the page
+    
+    
+    
     createNodeField({ node, name: "slug", value: slug });
+    //createNodeField({ node: fileNode, name: "content_type", value:  fileNode.sourceInstanceName});
   }
 };
 
@@ -47,6 +52,7 @@ exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions;
 
   return new Promise((resolve, reject) => {
+
     const indexPage = path.resolve("src/templates/index.jsx");
     const docPage = path.resolve("src/templates/documenten.jsx");
     const postPage = path.resolve("src/templates/post.jsx");
@@ -54,6 +60,10 @@ exports.createPages = ({ graphql, actions }) => {
     const categoryPage = path.resolve("src/templates/category.jsx");
     const authorPage = path.resolve("src/templates/author.jsx");
     const personPage = path.resolve("src/templates/person.jsx");
+    const bakermatPage = path.resolve("src/templates/documenten.jsx");
+    const onderzoekPage = path.resolve("src/templates/documenten.jsx");
+    const documentenPage = path.resolve("src/templates/documenten.jsx");
+      
     //const personIndexPage = path.resolve("src/templates/personIndex.jsx");
 
     if (
@@ -65,9 +75,7 @@ exports.createPages = ({ graphql, actions }) => {
         "The 'authors' folder is missing within the 'blogAuthorDir' folder."
       );
     }
-
-    resolve(
-      graphql(
+    var postQuery = graphql(
         `
           {
             allMarkdownRemark(
@@ -96,6 +104,7 @@ exports.createPages = ({ graphql, actions }) => {
           }
         `
       ).then(result => {
+        
         if (result.errors) {
           /* eslint no-console: "off" */
           console.log(result.errors);
@@ -202,28 +211,247 @@ exports.createPages = ({ graphql, actions }) => {
             }
           });
         });
-      })
-    );
+      });
+    
+    var queryTemplate =  (e,fields) => {return `
+        {
+          allMarkdownRemark(
+              sort: { fields: [frontmatter___date], order: DESC },
+              filter: {fileAbsolutePath: {regex: "/` + e + `/.*\\\\.md$/"}}
+          ) {
+            totalCount
+            edges {
+              node {
+                frontmatter {` + fields + `
+                }
+                fields {
+                  slug
+                }
+                excerpt
+                timeToRead
+              }
+            }
+          }
+          voorgrond : allFile (filter: {absolutePath: {regex: "/` + e + `.*voorgrond.jpg/"}} )
+          {
+            edges {
+              node{
+                absolutePath 
+                relativePath
+                childImageSharp {
+                  
+                  fixed(width: 200, height:255) {
+                    base64
+                    width
+                    height
+                    src
+                    srcSet
+                  } 
+                }
+              }
+            }
+          }
+        }
+      `};
+      var personFields = `
+      persoon
+      achternaam
+      voornaam
+      vader
+      moeder
+      geboren
+      overleden 
+    `;
+    var otherFields = ` 
+      author
+      date
+    `;
+    
+    
+    var personQuery = graphql(queryTemplate("persons", personFields));
+    var bakermatQuery = graphql(queryTemplate("bakermat",otherFields));
+    var onderzoekQuery = graphql(queryTemplate("onderzoek",otherFields));
+    var documentenQuery = graphql(queryTemplate("documenten",otherFields));
+    
+    
+    
+    resolve(Promise.all([postQuery, personQuery, bakermatQuery, onderzoekQuery, documentenQuery]).then(  values  => {
+        result = values[0]
+        personResult = values[1]
+        bakermatResult = values[2]
+        onderzoekResult = values[3]
+        documentenResult = values[4]
+
+
+        console.log("Creating person pages")
+        //image fragments are not available, check them at
+        //https://github.com/gatsbyjs/gatsby/blob/master/packages/gatsby-transformer-sharp/src/fragments.js
+
+        if (personResult.errors) {
+          /* eslint no-console: "off" */
+          console.log(personResult.errors);
+          reject(personResult.errors);
+        }
+        /*
+        // Creates Index page
+        createPaginationPages({
+          createPage,
+          edges: personResult.data.allMarkdownRemark.edges,
+          component: indexPage,
+          limit: siteConfig.sitePaginationLimit
+        });
+        */
+        //scan related
+        var relatedDb = {}
+        var addToDb = (entries) =>
+        {
+          _.forOwn(entries,(value,key) => {
+            if(!(key in relatedDb))
+            {
+              relatedDb[key] = {}
+            }
+            _.forOwn(value, (subValue,subKey) => {
+              if (!(subKey in relatedDb[key]))
+              {
+                relatedDb[key][subKey] = subValue
+              }
+            })
+            
+          })
+          
+
+        }
+        
+        _.forEach(personResult.data.allMarkdownRemark.edges, e => {
+          var persoon = e.node.frontmatter.persoon
+          var moeder = e.node.frontmatter.moeder
+          var vader = e.node.frontmatter.vader
+          var entries = {}
+          entries[persoon] = {  }
+          entries[persoon][ vader] = "vader"
+          entries[persoon][ moeder] = "moeder"
+          entries[vader] =  {  }
+          entries[vader][persoon] = "kind"
+          entries[vader][moeder] = "vrouw"
+          entries[moeder] = {} 
+          entries[moeder][persoon]= "kind"
+          entries[moeder][vader] =  "man" 
+          addToDb(entries)
+          
+
+
+        });
+        console.log(JSON.stringify(relatedDb))
+
+
+        if (!personResult.data.voorgrond)
+        {
+          console.log("voorgrond null")
+        }
+        voorgrondjes = _.map(personResult.data.voorgrond.edges, e =>  {return {
+          voorgrond: e.node.childImageSharp,
+          person: e.node.relativePath.slice(0,-14),
+        }});
+        vgImgByPerson = _.chain(voorgrondjes)
+            .keyBy('person')
+            .mapValues('voorgrond')
+            .value();
+        var infoByPerson = {};
+        _.forEach(personResult.data.allMarkdownRemark.edges, e => {
+            infoByPerson[e.node.frontmatter.persoon] = e.node.frontmatter;
+        });
+        var getPersonInfo = e => {
+          var voorgrond =  null
+          if (e in vgImgByPerson)
+          {
+            voorgrond = vgImgByPerson[e]
+          }
+          var info = null;
+          if (e in infoByPerson)
+          {
+            info = infoByPerson[e];
+          }
+          return  {person : e, voorgrond , info, slug: "/" + e};
+        };
+        var getRelated = (persoon) =>
+        {
+           if (!(persoon in relatedDb))
+           {
+              return []
+           }
+           var ret = []
+           _.forOwn(relatedDb[persoon], (value,key) => {
+             if (key.length > 0)
+             {
+              ret.push(key + "/voorgrond.jpg")
+             }   
+           })
+           console.log("related for " + persoon + ": "+JSON.stringify(ret))
+           return ret
+        }
+
+        // Creates all pages
+        createLinkedPages({
+          createPage,
+          edges: personResult.data.allMarkdownRemark.edges,
+          component: personPage,
+          edgeParser: edge => ({
+            path: edge.node.fields.slug,
+            context: {
+              slug: edge.node.fields.slug,
+              moeder: getPersonInfo( edge.node.frontmatter.moeder),
+              vader: getPersonInfo(edge.node.frontmatter.vader),
+              moeder_slug: "/" + edge.node.frontmatter.moeder, //+ getPersonInfo( edge.node.frontmatter.moeder).slug,
+              vader_slug: "/" + edge.node.frontmatter.vader, //+ getPersonInfo(edge.node.frontmatter.vader).slug,
+              children: [],
+              achtergrond: edge.node.fields.slug.slice(1) + "/achtergrond.jpg",
+              voorgrond: edge.node.fields.slug.slice(1) + "/voorgrond.jpg",
+              related: getRelated(edge.node.frontmatter.persoon)
+            }
+          }),
+          circular: true
+        });
+
+        console.log("creating other pages")
+        console.log(bakermatResult.data.allMarkdownRemark.edges[0].node.fields.slug.slice(1) + "/achtergrond.jpg")
+        var createOtherPages= (edges, page) =>
+          createLinkedPages({
+            createPage,
+            edges: edges,
+            component: page,
+            edgeParser: edge => ({
+              path: edge.node.fields.slug,
+              context: {
+                slug: edge.node.fields.slug,
+
+                achtergrond: edge.node.fields.slug.slice(1) + "/achtergrond.jpg",
+                voorgrond: edge.node.fields.slug.slice(1) + "/voorgrond.jpg",
+                related: []
+              }
+            }),
+            circular: true
+          });
+          console.log(JSON.stringify(bakermatResult.data.allMarkdownRemark.edges))
+          createOtherPages(bakermatResult.data.allMarkdownRemark.edges, bakermatPage)
+          createOtherPages(onderzoekResult.data.allMarkdownRemark.edges, onderzoekPage)
+          createOtherPages(documentenResult.data.allMarkdownRemark.edges, documentenPage)
+          
+      }));
+  });
+    /*
     resolve(
       graphql(
         `
           {
             allMarkdownRemark(
                 sort: { fields: [frontmatter___date], order: DESC },
-                filter: {fileAbsolutePath: {regex: "/persons/.*\\\\.md$/"}}
+                filter: {fileAbsolutePath: {regex: "/onderzoek/.*\\\\.md$/"}}
             ) {
               totalCount
               edges {
                 node {
                   frontmatter {
-                    persoon
-                    achternaam
-                    voornaam
-                    vader
-                    moeder
-                    geboren
-                    overleden 
-
+                    title
                   }
                   fields {
                     slug
@@ -233,7 +461,7 @@ exports.createPages = ({ graphql, actions }) => {
                 }
               }
             }
-            voorgrond : allFile (filter: {absolutePath: {regex: "/persons.*voorgrond.jpg/"}} )
+            voorgrond : allFile (filter: {absolutePath: {regex: "/onderzoek.*voorgrond.jpg/"}} )
             {
               edges {
                 node{
@@ -259,63 +487,50 @@ exports.createPages = ({ graphql, actions }) => {
 //https://github.com/gatsbyjs/gatsby/blob/master/packages/gatsby-transformer-sharp/src/fragments.js
 
         if (result.errors) {
-          /* eslint no-console: "off" */
+         
           console.log(result.errors);
           reject(result.errors);
         }
-        /*
-        // Creates Index page
-        createPaginationPages({
-          createPage,
-          edges: result.data.allMarkdownRemark.edges,
-          component: indexPage,
-          limit: siteConfig.sitePaginationLimit
-        });
-        */
+       
         if (!result.data.voorgrond)
         {
           console.log("voorgrond null")
         }
         voorgrondjes = _.map(result.data.voorgrond.edges, e =>  {return {
           voorgrond: e.node.childImageSharp,
-          person: e.node.relativePath.slice(0,-14),
+          key: e.node.relativePath.slice(0,-14),
         }});
-        vgImgByPerson = _.chain(voorgrondjes)
-            .keyBy('person')
+        vgImgByKey = _.chain(voorgrondjes)
+            .keyBy('key')
             .mapValues('voorgrond')
             .value();
-        var infoByPerson = {};
+        var infoByKey = {};
         _.forEach(result.data.allMarkdownRemark.edges, e => {
-            infoByPerson[e.node.frontmatter.persoon] = e.node.frontmatter;
+            infoByKey[e.node.frontmatter.title] = e.node.frontmatter;
             console.log(e.node.frontmatter);
         });
-        var getPersonInfo = e => {
+        var getPostInfo = e => {
           var voorgrond =  null
-          if (e in vgImgByPerson)
+          if (e in vgImgByKey)
           {
-            voorgrond = vgImgByPerson[e]
+            voorgrond = vgImgByKey[e]
           }
           var info = null;
-          if (e in infoByPerson)
+          if (e in infoByKey)
           {
-            info = infoByPerson[e];
+            info = infoByKey[e];
           }
-          return  {person : e, voorgrond , info, slug: "/" + e};
+          return  {post : e, voorgrond , info, slug: "/" + e};
         };
         // Creates all pages
         createLinkedPages({
           createPage,
           edges: result.data.allMarkdownRemark.edges,
-          component: personPage,
+          component: onderzoekPage,
           edgeParser: edge => ({
             path: edge.node.fields.slug,
             context: {
               slug: edge.node.fields.slug,
-              moeder: getPersonInfo( edge.node.frontmatter.moeder),
-              vader: getPersonInfo(edge.node.frontmatter.vader),
-              moeder_slug: "/" + edge.node.frontmatter.moeder, //+ getPersonInfo( edge.node.frontmatter.moeder).slug,
-              vader_slug: "/" + edge.node.frontmatter.vader, //+ getPersonInfo(edge.node.frontmatter.vader).slug,
-              children: [],
               achtergrond: edge.node.fields.slug.slice(1) + "/achtergrond.jpg",
               voorgrond: edge.node.fields.slug.slice(1) + "/voorgrond.jpg"
             }
@@ -323,7 +538,6 @@ exports.createPages = ({ graphql, actions }) => {
           circular: true
         });
       })
-    );
-
-  });
+    );*/
+  
 };

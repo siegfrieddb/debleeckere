@@ -8,15 +8,11 @@ geboren: "1980-12-02"
 overleden: ""
 vader: "19xx-leo-hollants"
 moeder: "19xx-monique-van-gijsel"   
-verblijfplaatsen:
-  - Hasselt
-  - Leuven
-  - Landen
 ---
 # Karen Hollants
 We can here in words put anything we like
 with different sections for the person
-![](voorgrond.jpg)
+![voorgrond](./voorgrond.jpg)
 
 ## More info
 We can probably use linked names 
