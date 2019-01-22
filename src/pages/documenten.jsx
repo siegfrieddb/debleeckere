@@ -77,7 +77,6 @@ class IndexTemplate extends React.Component {
               {/* The big featured header */}
               <MainHeader cover="/images/FamilieDB0.jpg">
                 <MainNav overlay="/images/FamilieDB0.jpg">
-                  <BlogLogo logo={config.siteLogo} title={config.siteTitle} />
                   <MenuButton
                     navigation={config.siteNavigation}
                     onClick={this.handleOnClick}
@@ -106,7 +105,9 @@ class IndexTemplate extends React.Component {
                 </Link>
               </MainHeader>
               <PageSection>
+              <div name="content">
               tekst voor documenten
+              </div>
               </PageSection>
               <PageSection>
                 <Gallery images={_.map(this.props.data.voorgrond.edges, e => e.node.childImageSharp)} 

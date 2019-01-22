@@ -75,7 +75,6 @@ class IndexTemplate extends React.Component {
               {/* The big featured header */}
               <MainHeader cover={config.siteCover}>
                 <MainNav overlay={config.siteCover}>
-                  <BlogLogo logo={config.siteLogo} title={config.siteTitle} />
                   <MenuButton
                     navigation={config.siteNavigation}
                     onClick={this.handleOnClick}
@@ -106,6 +105,11 @@ class IndexTemplate extends React.Component {
               <PageSection >
               <div id="content">
               {"Welkom op de site van familie Vital De Bleeckere - Octavia Versluys. De rubriek Familie handelt over de drie generaties van de familie. Onder de rubriek Documenten staan officië le documenten. De rubriek Onderzoek bouwt een forum uit voor onderzoek naar de familie. De rubriek Bakermat bevat thema's die de historische, geografische en maatschappelijke context belichten."}
+              <ul><li><a href=".\familie">Familie</a></li>
+              <li><a href=".\bakermat">Bakermat</a></li>
+              <li><a href=".\documenten">Documents</a></li>
+              <li><a href=".\onderzoek">Onderzoek</a></li>
+              </ul>
               </div>
               </PageSection>
               

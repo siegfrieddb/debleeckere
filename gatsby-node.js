@@ -282,6 +282,7 @@ exports.createPages = ({ graphql, actions }) => {
         onderzoekResult = values[3]
         documentenResult = values[4]
 
+
         console.log("Creating person pages")
         //image fragments are not available, check them at
         //https://github.com/gatsbyjs/gatsby/blob/master/packages/gatsby-transformer-sharp/src/fragments.js
@@ -300,6 +301,49 @@ exports.createPages = ({ graphql, actions }) => {
           limit: siteConfig.sitePaginationLimit
         });
         */
+        //scan related
+        var relatedDb = {}
+        var addToDb = (entries) =>
+        {
+          _.forOwn(entries,(value,key) => {
+            if(!(key in relatedDb))
+            {
+              relatedDb[key] = {}
+            }
+            _.forOwn(value, (subValue,subKey) => {
+              if (!(subKey in relatedDb[key]))
+              {
+                relatedDb[key][subKey] = subValue
+              }
+            })
+            
+          })
+          
+
+        }
+        
+        _.forEach(personResult.data.allMarkdownRemark.edges, e => {
+          var persoon = e.node.frontmatter.persoon
+          var moeder = e.node.frontmatter.moeder
+          var vader = e.node.frontmatter.vader
+          var entries = {}
+          entries[persoon] = {  }
+          entries[persoon][ vader] = "vader"
+          entries[persoon][ moeder] = "moeder"
+          entries[vader] =  {  }
+          entries[vader][persoon] = "kind"
+          entries[vader][moeder] = "vrouw"
+          entries[moeder] = {} 
+          entries[moeder][persoon]= "kind"
+          entries[moeder][vader] =  "man" 
+          addToDb(entries)
+          
+
+
+        });
+        console.log(JSON.stringify(relatedDb))
+
+
         if (!personResult.data.voorgrond)
         {
           console.log("voorgrond null")
@@ -315,7 +359,6 @@ exports.createPages = ({ graphql, actions }) => {
         var infoByPerson = {};
         _.forEach(personResult.data.allMarkdownRemark.edges, e => {
             infoByPerson[e.node.frontmatter.persoon] = e.node.frontmatter;
-            console.log(e.node.frontmatter);
         });
         var getPersonInfo = e => {
           var voorgrond =  null
@@ -330,6 +373,23 @@ exports.createPages = ({ graphql, actions }) => {
           }
           return  {person : e, voorgrond , info, slug: "/" + e};
         };
+        var getRelated = (persoon) =>
+        {
+           if (!(persoon in relatedDb))
+           {
+              return []
+           }
+           var ret = []
+           _.forOwn(relatedDb[persoon], (value,key) => {
+             if (key.length > 0)
+             {
+              ret.push(key + "/voorgrond.jpg")
+             }   
+           })
+           console.log("related for " + persoon + ": "+JSON.stringify(ret))
+           return ret
+        }
+
         // Creates all pages
         createLinkedPages({
           createPage,
@@ -345,7 +405,8 @@ exports.createPages = ({ graphql, actions }) => {
               vader_slug: "/" + edge.node.frontmatter.vader, //+ getPersonInfo(edge.node.frontmatter.vader).slug,
               children: [],
               achtergrond: edge.node.fields.slug.slice(1) + "/achtergrond.jpg",
-              voorgrond: edge.node.fields.slug.slice(1) + "/voorgrond.jpg"
+              voorgrond: edge.node.fields.slug.slice(1) + "/voorgrond.jpg",
+              related: getRelated(edge.node.frontmatter.persoon)
             }
           }),
           circular: true
@@ -364,7 +425,8 @@ exports.createPages = ({ graphql, actions }) => {
                 slug: edge.node.fields.slug,
 
                 achtergrond: edge.node.fields.slug.slice(1) + "/achtergrond.jpg",
-                voorgrond: edge.node.fields.slug.slice(1) + "/voorgrond.jpg"
+                voorgrond: edge.node.fields.slug.slice(1) + "/voorgrond.jpg",
+                related: []
               }
             }),
             circular: true

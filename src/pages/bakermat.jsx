@@ -75,9 +75,8 @@ class IndexTemplate extends React.Component {
             {/* All the main content gets inserted here */}
             <div className="home-template">
               {/* The big featured header */}
-              <MainHeader cover="/images/FamilieDB0.jpg">
-                <MainNav overlay="/images/FamilieDB0.jpg">
-                  <BlogLogo logo={config.siteLogo} title={config.siteTitle} />
+              <MainHeader cover="/images/knesselare_zuiver.jpg">
+                <MainNav overlay="/images/knesselare_zuiver.jpg">
                   <MenuButton
                     navigation={config.siteNavigation}
                     onClick={this.handleOnClick}
@@ -106,7 +105,10 @@ class IndexTemplate extends React.Component {
                 </Link>
               </MainHeader>
               <PageSection>
-              tekst voor Bakermat
+              <div name="content">
+                  sdfklskf;lks;flks;l fk;lfk voor Bakermat
+                  <h1>title</h1>
+              </div>
               </PageSection>
               <PageSection>
                 <Gallery images={_.map(this.props.data.voorgrond.edges, e => e.node.childImageSharp)} 

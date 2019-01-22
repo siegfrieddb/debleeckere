@@ -28,6 +28,7 @@ import AuthorModel from "../models/author-model";
 import Disqus from "../components/Disqus/Disqus";
 import Layout from "../components/layout";
 import Img from "gatsby-image"
+import Gallery from "../components/Gallery/Gallery";
 
 
 const formatReadPersoon = value => ({
@@ -78,6 +79,16 @@ class PostTemplate extends React.Component {
     console.log(this.props.data.foreImg.edges[0].node.childImageSharp.fluid)
     var foregroundWidth =  250 * this.props.data.foreImg.edges[0].node.childImageSharp.fluid.aspectRatio 
     
+    var relatedSection = ""
+    if (this.props.data.related)
+    { relatedSection = (
+      <PageSection>
+          <h1>Related</h1>
+          
+          <Gallery images={_.map(this.props.data.related.edges, e => e.node.childImageSharp)} 
+                  links= {_.map(this.props.data.related.edges, e => e.node.relativePath.slice(0,-14))} ></Gallery> 
+      </PageSection>)
+    }
 
     return (
 	<Layout location={this.props.location}>
@@ -131,10 +142,8 @@ class PostTemplate extends React.Component {
                 dangerouslySetInnerHTML={{ __html: persoon.html }}></section>
               </PageSection>
                
-              
-               <PageSection>
-                <ReadParents vader={vader} moeder={moeder} />
-              </PageSection>
+              {relatedSection}
+               
               <PostFooter>
                 {/*
                 <AuthorImage author={authorData} />
@@ -166,7 +175,7 @@ class PostTemplate extends React.Component {
 
 /* eslint no-undef: "off" */
 export const pageQuery = graphql`
-  query PersoonBySlug($slug: String!, $vader_slug: String, $moeder_slug: String, $voorgrond: String, $achtergrond : String) {
+  query PersoonBySlug($slug: String!, $vader_slug: String, $moeder_slug: String, $voorgrond: String, $achtergrond : String, $related: [String]) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
       timeToRead
@@ -253,6 +262,23 @@ export const pageQuery = graphql`
         }
       }
     }
+    related:  allFile (filter:{relativePath : {in : $related}})
+    {
+      edges {
+        node {
+          relativePath
+          childImageSharp {
+            fixed(width: 250, height: 250, cropFocus: ATTENTION, duotone: { highlight: "#9ACCCD", shadow: "#000000",opacity: 50}) {
+              ...GatsbyImageSharpFixed
+            } 
+            fluid(maxWidth: 1000) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+      }
+    } 
+    
   }
 `;
 

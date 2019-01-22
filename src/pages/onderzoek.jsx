@@ -73,11 +73,10 @@ class IndexTemplate extends React.Component {
 
           <SiteWrapper>
             {/* All the main content gets inserted here */}
-            <div className="home-template">
+            <div className="home-template"> 
               {/* The big featured header */}
-              <MainHeader cover="/images/FamilieDB0.jpg">
-                <MainNav overlay="/images/FamilieDB0.jpg">
-                  <BlogLogo logo={config.siteLogo} title={config.siteTitle} />
+              <MainHeader cover="/images/onderzoek.jpg">
+                <MainNav overlay="/images/onderzoek.jpg">
                   <MenuButton
                     navigation={config.siteNavigation}
                     onClick={this.handleOnClick}
@@ -105,8 +104,9 @@ class IndexTemplate extends React.Component {
                   <span className="hidden">Scroll Down</span>
                 </Link>
               </MainHeader>
-              <PageSection>
-              tekst voor onderzoek
+              <PageSection> <div name="content">
+              Het domein Onderzoek bestaat uit verschillende items die de gezinsbiografie van Vitalis De Bleeckere-Octavia Versluys typeren. Ieder item bestaat uit een onderzoeksvraag. De onderzoeksvragen reiken veel verder dan die van de klassieke stamboom. Stambomen kennen enkel een droge opsomming van namen en data. Ze kennen geen gezichten, geen verhalen. In het domein Onderzoek krijgt ieder item met zijn specifieke onderzoeksvraag via de geijkte, wetenschappelijk methode van kritisch bronnenonderzoek behandeld. 
+              </div>
               </PageSection>
               <PageSection>
                 <Gallery images={_.map(this.props.data.voorgrond.edges, e => e.node.childImageSharp)} 

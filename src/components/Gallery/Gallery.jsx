@@ -5,6 +5,9 @@ import {Link} from "gatsby"
 
 class Gallery extends Component {
   render() {
+    console.log(JSON.stringify(this.props.images))
+
+    console.log(JSON.stringify(this.props.links))
     var zipped = _.zip(this.props.images,this.props.links)
     return (
         <div>
