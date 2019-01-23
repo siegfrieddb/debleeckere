@@ -104,11 +104,15 @@ class IndexTemplate extends React.Component {
               </MainHeader>
               <PageSection >
               <div id="content">
-              {"Welkom op de site van familie Vital De Bleeckere - Octavia Versluys. De rubriek Familie handelt over de drie generaties van de familie. Onder de rubriek Documenten staan officië le documenten. De rubriek Onderzoek bouwt een forum uit voor onderzoek naar de familie. De rubriek Bakermat bevat thema's die de historische, geografische en maatschappelijke context belichten."}
+              {"Welkom op de site van familie Vitalis De Bleeckere - Octavia Versluys. De rubriek Familie handelt over de drie generaties van de familie. Onder de rubriek Documenten staan officië le documenten. De rubriek Onderzoek bouwt een forum uit voor onderzoek naar de familie. De rubriek Bakermat bevat thema's die de historische, geografische en maatschappelijke context belichten."}
               <div style={{"text-align": "center"}}>Citaat</div>
               <br></br>
+              <br>
+              <I>I tell, therefore you are. (M. Atwood)</I></br>
               <br></br>
-              <br></br>
+              <br>
+              <I></I>Generaties komen en gaan</I></br>
+              <br>als de golven van ons bestaan. (Sylvain De Bleeckere</br>
               <ul><li><a href=".\familie">Familie</a></li>
               <li><a href=".\bakermat">Bakermat</a></li>
               <li><a href=".\documenten">Documents</a></li>
