@@ -109,8 +109,8 @@ class IndexTemplate extends React.Component {
               <br></br>
               <br><I>I tell, therefore you are. (M. Atwood)</I></br>
               <br></br>
-              <br>Generaties komen en gaan 
-              <br>als de golven van ons bestaan. (Sylvain De Bleeckere)</br>
+              <br><I><Generaties komen en gaan 
+              als de golven van ons bestaan. (Sylvain De Bleeckere)</I></br>
 
               <ul><li><a href=".\familie">Familie</a></li>
               <li><a href=".\bakermat">Bakermat</a></li>
