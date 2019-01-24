@@ -1,8 +1,8 @@
 ---
 author: "sylvain"
 date: "2018-09-15"
-title: "Werken in de sigaren fabriek"
-gallerij-title: "Cogitama"
+titel: "Werken in de sigaren fabriek"
+gallerij-titel: "Cogitama"
 ---
 # Inleiding
 ## Kleine title

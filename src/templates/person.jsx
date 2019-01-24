@@ -15,7 +15,7 @@ import PostHeader from "../components/PostHeader/PostHeader";
 import PostFormatting from "../components/PostFormatting/PostFormatting";
 import PostDate from "../components/PostDate/PostDate";
 import PostFooter from "../components/PostFooter/PostFooter";
-import PageSection from "../components/PageSection/PageSection"
+import PageDocSection from "../components/PageDocSection/PageDocSection"
 import AuthorImage from "../components/AuthorImage/AuthorImage";
 import AuthorInfo from "../components/AuthorInfo/AuthorInfo";
 import PostShare from "../components/PostShare/PostShare";
@@ -82,12 +82,12 @@ class PostTemplate extends React.Component {
     var relatedSection = ""
     if (this.props.data.related)
     { relatedSection = (
-      <PageSection>
+      <PageDocSection>
           <h1>Related</h1>
           
           <Gallery images={_.map(this.props.data.related.edges, e => e.node.childImageSharp)} 
                   links= {_.map(this.props.data.related.edges, e => e.node.relativePath.slice(0,-14))} ></Gallery> 
-      </PageSection>)
+      </PageDocSection>)
     }
 
     return (
@@ -136,12 +136,10 @@ class PostTemplate extends React.Component {
           </MainHeaderImg>
           <MainContent>
             <PostFormatting className={className}>
-              
-              <PageSection>
+              <PageDocSection>
                 <section  className="post-content"
                 dangerouslySetInnerHTML={{ __html: persoon.html }}></section>
-              </PageSection>
-               
+               </PageDocSection >
               {relatedSection}
                
               <PostFooter>

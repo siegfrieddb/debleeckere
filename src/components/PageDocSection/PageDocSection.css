@@ -1,9 +1,9 @@
-.page-section {
+.page-doc-section {
   margin: 1em;
   font-size: 1.5em;
   line-height: 1.2em;
   font-weight: 400;
-  font-family: 'IM Fell DW Pica SC',  serif;
+  font-family: 'BioRhyme',  serif;
   letter-spacing: 0.01rem;
   color: rgb(0, 0,0);
   margin-left: 6em;
@@ -12,7 +12,7 @@
 
 
 @media only screen and (max-width: 1000px) {
-  .page-section {
+  .page-doc-section {
       margin: 1em;
       
   }
@@ -23,7 +23,7 @@
    ========================================================================== */
     
    @media only screen and (max-width: 500px) {
-    .page-section {
+    .page-doc-section {
         margin: 0.25em;
         font-size: 1.5rem
     }
