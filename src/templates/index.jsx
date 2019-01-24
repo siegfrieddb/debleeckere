@@ -106,10 +106,10 @@ class IndexTemplate extends React.Component {
               <div id="content">
               {"Welkom op de site van familie Vitalis De Bleeckere - Octavia Versluys. De rubriek Familie handelt over de drie generaties van de familie. Onder de rubriek Documenten staan officië le documenten. De rubriek Onderzoek bouwt een forum uit voor onderzoek naar de familie. De rubriek Bakermat bevat thema's die de historische, geografische en maatschappelijke context belichten."}
               <div style={{"text-align": "center"}}>Citaat</div>
-              <br></br>
-              <br><i>I tell, therefore you are. (Margeret Atwood)</i></br>
-              <br></br>
-              <br><i>Generaties komen en gaan als golven van ons bestaan. (Sylvain De Bleeckere)</i></br>
+              <br/>
+              <i>I tell, therefore you are. (Margeret Atwood)</i>
+              <br/>
+              <i>Generaties komen en gaan als golven van ons bestaan. (Sylvain De Bleeckere)</i>
 
 
               <ul><li><a href=".\familie">Familie</a></li>
