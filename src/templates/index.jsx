@@ -105,15 +105,19 @@ class IndexTemplate extends React.Component {
               <PageSection >
               <div id="content">
               Welkom op de site van familie Vitalis De Bleeckere - Octavia Versluys. 
-              De rubriek <GatsbyLink to="./familie">Familie</GatsbyLink> handelt over de drie generaties van de familie. Onder de rubriek Documenten staan officië le documenten. De rubriek Onderzoek bouwt een forum uit voor onderzoek naar de familie. 
+              De rubriek <GatsbyLink to="./familie">Familie</GatsbyLink> handelt over de drie generaties van de familie. 
+              Onder de rubriek Documenten staan officië le documenten. 
+              De rubriek Onderzoek bouwt een forum uit voor onderzoek naar de familie. 
               De rubriek Bakermat bevat thema's die de historische, geografische en maatschappelijke context belichten.
-              <div style={{"textAlign": "center"}}>Citaat</div>
-              <br></br>
-              <br></br><i>I tell, therefore you are. (M. Atwood)</i><br></br>
-              <br></br>
-              <br></br><i>&lt;Generaties komen en gaan 
-              als de golven van ons bestaan. (Sylvain De Bleeckere) </i><br></br>
+              <br/><br/>
+              <div style={{"textAlign": "center"}}>Citaat
+                <br/>
+                
+                <i>I tell, therefore you are. (Margeret Atwood)</i>
+                <br/>
+                <i>Generaties komen en gaan als golven van ons bestaan. (Sylvain De Bleeckere)</i>
 
+                </div>
               <ul><li><a href=".\familie">Familie</a></li>
               <li><a href=".\bakermat">Bakermat</a></li>
               <li><a href=".\documenten">Documents</a></li>
