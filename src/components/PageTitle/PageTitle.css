@@ -2,13 +2,14 @@
 .page-title {
     margin: 10px 0;
     font-size: 8rem;
-    letter-spacing: -1px;
-    font-weight: 700;
-    font-family:  'IM Fell DW Pica SC', sans-serif;
+    font-weight: 400;
+    font-family:  'BioRhyme', sans-serif;
     color: #fff;
     text-shadow: 0.1em 0.1em 0.2em black
 }
-
+.page-title-collored {
+    color: #9ACCCD;
+}
 .no-cover .page-title {
     color: rgba(0, 0, 0, 0.8);
 }

@@ -20,7 +20,7 @@ import PageDescription from "../components/PageDescription/PageDescription";
 import PaginatedContent from "../components/PaginatedContent/PaginatedContent";
 import SocialMediaIcons from "../components/SocialMediaIcons/SocialMediaIcons";
 import Layout from "../components/layout";
-
+import "./index.css"
 class IndexTemplate extends React.Component {
   state = {
     menuOpen: false
@@ -105,7 +105,7 @@ class IndexTemplate extends React.Component {
               <PageSection >
               <div id="content">
               Welkom op de site van familie Vitalis De Bleeckere - Octavia Versluys. 
-              De rubriek <GatsbyLink to="./familie">Familie</GatsbyLink> handelt over de drie generaties van de familie. 
+              De rubriek Familie handelt over de drie generaties van de familie. 
               Onder de rubriek Documenten staan officië le documenten. 
               De rubriek Onderzoek bouwt een forum uit voor onderzoek naar de familie. 
               De rubriek Bakermat bevat thema's die de historische, geografische en maatschappelijke context belichten.
@@ -115,15 +115,16 @@ class IndexTemplate extends React.Component {
                 
                 <i>I tell, therefore you are. (Margeret Atwood)</i>
                 <br/>
-                <i>Generaties komen en gaan als golven van ons bestaan. (Sylvain De Bleeckere)</i>
-
+                <i>Generaties komen en gaan<br/> als golven van ons bestaan. (Sylvain De Bleeckere)</i>
+                <br/><br/>
                 </div>
-              <ul><li><a href=".\familie">Familie</a></li>
-              <li><a href=".\bakermat">Bakermat</a></li>
-              <li><a href=".\documenten">Documents</a></li>
-              <li><a href=".\onderzoek">Onderzoek</a></li>
-              </ul>
-              </div>
+                <div className="menu-bar">
+                  <span><GatsbyLink to=".\familie">Familie</GatsbyLink></span>
+                  <span><GatsbyLink to=".\bakermat">Bakermat</GatsbyLink></span>
+                  <span><GatsbyLink to=".\documenten">Documents</GatsbyLink></span>
+                  <span><GatsbyLink to=".\onderzoek">Onderzoek</GatsbyLink></span>
+                </div>
+                </div>
               </PageSection>
               
             </div>
