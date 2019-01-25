@@ -84,13 +84,9 @@ class IndexTemplate extends React.Component {
                 </MainNav>
                 <div className="vertical">
                   <div className="main-header-content inner">
-                    { <PageTitle text="Bakermat" /> /*
-                    <PageDescription text={config.siteDescription} />
-                    <SocialMediaIcons
-                      urls={config.siteSocialUrls}
-                      color="currentColor"
-                    /> */
-                      }
+                     <PageTitle text="Bakermat" /> 
+                  
+                      
                   </div>
                 </div>
                 <Link

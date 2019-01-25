@@ -28,6 +28,7 @@ import AuthorModel from "../models/author-model";
 import Disqus from "../components/Disqus/Disqus";
 import Layout from "../components/layout";
 import Img from "gatsby-image"
+import PageTitleInline from "../components/PageTitle/PageTitle";
 
 
 class DocTemplate extends React.Component {
@@ -88,7 +89,14 @@ class DocTemplate extends React.Component {
                 onClick={this.handleOnClick}
               />
             </MainNav>
-            
+           
+                  <div className="main-header-content inner">
+                  <div className="vertical">`
+                     <PageTitleInline text="Bakermat" /> 
+                  
+                      
+                  </div>
+                </div>
             
           </MainHeaderImg>
           <MainContent>
