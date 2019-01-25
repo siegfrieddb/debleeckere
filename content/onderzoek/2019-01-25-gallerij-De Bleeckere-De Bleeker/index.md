@@ -2,9 +2,9 @@
 author: "sylvain"
 date: "2019-01-25"
 ---
-# Knesselare
+# De Bleeckere - De Bleeker
 
 ![](./achtergrond.jpg)
 
-In Knesselare heeft zich het grootste deel van het leven van Vitalis en Octavia afgespeelde, alsook dat van hun kinderen. Deze zeer oude prentkaart toont de Kerkstraat, een weg die, zoals de naam zegt, recht naar de kerk leidt. Die weg is ontelbare keren afgelegd door het gezin De Bleeckere. Ze woonden immers in Hoekestraat die rechtstreeks richting het dorp leidt via de kerkstraat.   
+Het was in Torhout, in ... Na de lezing die hij er had gegeven, kwam er iemand naar hem toe. Een oudere dame. Ze stelde zich voor als zuster....Ze vertelde dat ze er heilig van overtuigd was dat wij familie waren van elkaar. De Bleeker zou verwant zijn aan De Bleeckere.     
 
