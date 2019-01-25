@@ -114,6 +114,7 @@ class IndexTemplate extends React.Component {
                   het Oost-Vlaamse Zuid-Meetjesland, met de vroegere dorpskernen Knesselare
                    en Sint-Maria-Aalter ― vandaag allebei behorend tot de fusiegemeente Aalter.
                    <br/>
+                   <br/>
                    In deze unieke streek situeert zich de familie Vitalis De Bleeckere-Octavia Versluys.
                     Vitalis is geboren en opgegroeid in Sint-Joris-ten-Distel, 
                     terwijl het leven van Octavia Versluys zich van geboorte
@@ -127,6 +128,7 @@ class IndexTemplate extends React.Component {
                            Albert woonden elk na hun huwelijk eerst enige tijd in 
                            Knesselare, daarna vestigden ze zich definitief aan de rand van Sint-Maria-Aalter, 
                            direct aan de grens met Zuid-Knesselare.
+                           <br/>
                            <br/>
                            Allen waren ze gewone mensen wier leven sterk werd bepaald door hun directe omgeving.
                             Het sociale en culturele leven, 
