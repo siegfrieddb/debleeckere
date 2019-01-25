@@ -1,7 +1,8 @@
 ---
 author: "sylvain"
 date: "2019-01-25"
-title":
+titel: "Knesselare"
+gallerij_titel: "Knesselare"
 ---
 # Knesselare
 

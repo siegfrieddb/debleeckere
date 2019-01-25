@@ -13,7 +13,7 @@ class MainHeader extends React.Component {
 
 
     return (
-      <header>
+      <header className={classes} >
         
           <Img  fluid={fluid}  style={{maxHeight: "400px"}}>
         

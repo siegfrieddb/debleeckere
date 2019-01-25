@@ -29,7 +29,7 @@ import Disqus from "../components/Disqus/Disqus";
 import Layout from "../components/layout";
 import Img from "gatsby-image"
 import PageTitleInline from "../components/PageTitle/PageTitle";
-
+import "./Documenten.css";
 
 class DocTemplate extends React.Component {
   state = {
@@ -62,8 +62,10 @@ class DocTemplate extends React.Component {
     const { location, data } = this.props;
 	  const { slug, voorgrond,achtergrond } = this.props.pageContext;
     const doc = this.props.data.markdownRemark;
-    const { date, author } = doc;
-
+    const { date, author} = doc;
+    const titel = doc.frontmatter.titel
+    console.log("markdown")
+    console.log(this.props.data.markdownRemark)
     const authorData = AuthorModel.getAuthor(
       this.props.data.authors.edges,
       author,
@@ -83,20 +85,18 @@ class DocTemplate extends React.Component {
         
         <SiteWrapper>
           <MainHeaderImg className="post-head" fluid={this.props.data.backImg.edges[0].node.childImageSharp.fluid} >
-            <MainNav>
+           
+                  <div className="title-box">
+                  <div className="title-cell">
+                        {titel }
+                  </div>
+                  </div>
+                  <MainNav>
               <MenuButton
                 navigation={config.siteNavigation}
                 onClick={this.handleOnClick}
               />
             </MainNav>
-           
-                  <div className="main-header-content inner">
-                  <div className="vertical">`
-                     <PageTitleInline text="Bakermat" /> 
-                  
-                      
-                  </div>
-                </div>
             
           </MainHeaderImg>
           <MainContent>
@@ -144,6 +144,8 @@ export const pageQuery = graphql`
       frontmatter {
         date
         author
+        titel
+        gallerij_titel
       }
       fields {
         slug

@@ -1,0 +1,15 @@
+.title-box {
+position: absolute;
+top: 0px;
+bottom: 0px;
+left: 0px;
+right: 0px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.title-cell {
+    font-size:  4em;
+
+}
