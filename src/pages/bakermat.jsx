@@ -112,7 +112,8 @@ class IndexTemplate extends React.Component {
                 ervan met de vroegere dorpskernen Sint-Joris-ten-Distel,
                  Oedelem en Beernem ― vandaag de fusiegemeente Beernem ― en
                   het Oost-Vlaamse Zuid-Meetjesland, met de vroegere dorpskernen Knesselare
-                   en Sint-Maria-Aalter ― vandaag allebei behorend tot de fusiegemeente Aalter. 
+                   en Sint-Maria-Aalter ― vandaag allebei behorend tot de fusiegemeente Aalter.
+                    
                    In deze unieke streek situeert zich de familie Vitalis De Bleeckere-Octavia Versluys.
                     Vitalis is geboren en opgegroeid in Sint-Joris-ten-Distel, 
                     terwijl het leven van Octavia Versluys zich van geboorte
@@ -123,9 +124,10 @@ class IndexTemplate extends React.Component {
                          Dat geldt voor Jozef, Maria, Alfons, Omer, 
                          Irma en Berta; Jules woonde in Buntelare waar
                           Knesselare grenst aan Aalter-Brug; Maurits en
-                           Albert woonden elk na hun huwelijk eerste enige tijd in 
+                           Albert woonden elk na hun huwelijk eerst enige tijd in 
                            Knesselare, daarna vestigden ze zich definitief aan de rand van Sint-Maria-Aalter, 
-                           direct aan de grens met Zuid-Knesselare. 
+                           direct aan de grens met Zuid-Knesselare.
+
                            Allen waren ze gewone mensen wier leven sterk werd bepaald door hun directe omgeving.
                             Het sociale en culturele leven, 
                             de taal, de geschiedenis en de geografie van de streek kleurden
@@ -133,7 +135,7 @@ class IndexTemplate extends React.Component {
                              In het domein Bakermat passeren diverse facetten van 
                              die streek de revue, telkens belicht vanuit de familie
                               en het gezin van Vitalis en Octavia. 
-                  <h1>title</h1>
+                  <h1></h1>
               </div>
               </PageSection>
               <PageSection>
