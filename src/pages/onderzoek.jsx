@@ -105,7 +105,14 @@ class IndexTemplate extends React.Component {
                 </Link>
               </MainHeader>
               <PageSection> <div name="content">
-              Het domein Onderzoek bestaat uit verschillende items die de gezinsbiografie van Vitalis De Bleeckere-Octavia Versluys typeren. Ieder item bestaat uit een onderzoeksvraag. De onderzoeksvragen reiken veel verder dan die van de klassieke stamboom. Stambomen kennen enkel een droge opsomming van namen en data. Ze kennen geen gezichten, geen verhalen. In het domein Onderzoek krijgt ieder item met zijn specifieke onderzoeksvraag via de geijkte, wetenschappelijk methode van kritisch bronnenonderzoek behandeld. 
+              Het domein Onderzoek bestaat uit verschillende items 
+              die betrekkin hebben op de gezinsbiografie van Vitalis De Bleeckere-Octavia Versluys.
+              Ieder item bestaat uit een onderzoeksvraag. 
+              De onderzoeksvragen reiken veel verder dan die van de klassieke stamboom. 
+              Stambomen kennen enkel een droge opsomming van namen en data. 
+              Ze kennen geen gezichten, geen verhalen. Hier primeren de gezichten en de verhalen.
+              In het domein Onderzoek krijgt ieder item met zijn specifieke onderzoeksvraag een antwoord
+              dat soms beperkt is of soms verder kritisch onderzoek van beschikbare bronnen vereist.  
               </div>
               </PageSection>
               <PageSection>
