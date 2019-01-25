@@ -75,8 +75,8 @@ class IndexTemplate extends React.Component {
             {/* All the main content gets inserted here */}
             <div className="home-template">
               {/* The big featured header */}
-              <MainHeader cover="/images/knz.jpg">
-                <MainNav overlay="/images/knz.jpg">
+              <MainHeader cover="/images/knesselare_zuiver.jpg">
+                <MainNav overlay="/images/knesselare_zuiver.jpg">
                   <MenuButton
                     navigation={config.siteNavigation}
                     onClick={this.handleOnClick}
