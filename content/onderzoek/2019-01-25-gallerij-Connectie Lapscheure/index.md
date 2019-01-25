@@ -2,9 +2,10 @@
 author: "sylvain"
 date: "2019-01-25"
 ---
-# Knesselare
+# Connectie Lapscheure
 
 ![](./achtergrond.jpg)
 
-In Knesselare heeft zich het grootste deel van het leven van Vitalis en Octavia afgespeelde, alsook dat van hun kinderen. Deze zeer oude prentkaart toont de Kerkstraat, een weg die, zoals de naam zegt, recht naar de kerk leidt. Die weg is ontelbare keren afgelegd door het gezin De Bleeckere. Ze woonden immers in Hoekestraat die rechtstreeks richting het dorp leidt via de kerkstraat.   
+Bij een bezoek aan het dorp Lapscheure dat heden deel uitmaakt van de gemeente Damme en langs de Knokkebaan ligt, 
+ontdekte Sylvain op het kerkhof verschillende oude graven van overledenen die de naam De Bleeckere hadden. Dat was een toevallige ontdekking want de eerste reden van het bezoek was het feit dat de familie van zijn grootmoeder aan moeders kant de familienaam Martens heette en dat ze afkomstig waren van Lapscheure. In het dorp Lapscheure komen zo twee aparte verhalen van de familie De Bleeckere via Maurits en Flora Verscheure samen. De onderzoeksvraag luidt of er een connectie bestaat tussen de familie De Bleeckere uit Lapscheure en die van Sint-Joris-ten-Distel en Knesselare.   
 

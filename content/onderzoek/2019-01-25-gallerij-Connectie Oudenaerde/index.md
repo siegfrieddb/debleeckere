@@ -2,9 +2,9 @@
 author: "sylvain"
 date: "2019-01-25"
 ---
-# Knesselare
+# Connectie Oudenaarde
 
 ![](./achtergrond.jpg)
 
-In Knesselare heeft zich het grootste deel van het leven van Vitalis en Octavia afgespeelde, alsook dat van hun kinderen. Deze zeer oude prentkaart toont de Kerkstraat, een weg die, zoals de naam zegt, recht naar de kerk leidt. Die weg is ontelbare keren afgelegd door het gezin De Bleeckere. Ze woonden immers in Hoekestraat die rechtstreeks richting het dorp leidt via de kerkstraat.   
+Als je als lid van de familie De Bleeckere-Verluys  iemand tegenkomt aan wie je je voor de eerste keer voorstelt met de naam De Bleeckere, dan reageert die meestal met de vraag of je familie bent van de scheidsrechter Frank De Bleeckere. Het eerste antwoord is neen. De scheidsrechter behoort immers tot de grote groep De Bleeckere die zich in en rond Oudenaarde situeert, terwijl de kleinere groep De Bleeckere-Versluys Sint-Joris-ten-Distel en Knesselare als bakermat heeft. De onderzoeksvraag is of de twee groepen een genealogische connectie hebben.
 
