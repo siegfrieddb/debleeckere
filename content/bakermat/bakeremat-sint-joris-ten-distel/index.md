@@ -1,8 +1,8 @@
 ---
 author: "sylvain"
 date: "2019-01-25"
-titel: " Sint-Joris-ten-Distel"
-gallerij_titel : " Sint-Joris-ten-Distel"
+titel: "Sint-Joris-ten-Distel"
+gallerij_titel : "Sint-Joris-ten-Distel"
 ---
 # Sint-Joris-ten-Distel
 
