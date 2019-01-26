@@ -1,29 +1,23 @@
 ---
-voornaam: "Sylvain"
-achternaam: "De Bleeckere"
-persoon: "1950-sylvain-de-bleeckere"
-geslacht: "man"
-cover: "https://unsplash.it/1280/200/?random?BoldMage"
+voornaam: "Octavie"
+achternaam: "Versluys"
+persoon: "1800-octavie-versluys"
+geslacht: "vrouw"
+geboren: "18XX-XX-XX"
+overleden: "19XX-XX-XX"
+vader: ""
+moeder: ""   
 author: sylvain
-geboren: "1950-09-2X"
-overleden: ""
-kinderen:
-    - "1978-siegfried-de-bleeckere"
-    - "1982-dorothea-de-bleeckere"
-vader: "19XX-maurice-de-bleeckere"
-moeder: "19XX-flora-X"
-verblijfplaatsen:
-  - Knesselare
-  - Leuven
-  - Hasselt
 ---
-# Sylvain De Bleeckere
+# Karen Hollants
 We can here in words put anything we like
 with different sections for the person
+![](voorgrond .png)
 
 ## More info
 We can probably use linked names 
 We can autogenerate some info from the frontmatter,
+example all known ancestors in line with their dates
 
 
 
