@@ -114,7 +114,7 @@ class IndexTemplate extends React.Component {
               een platform op bepaalde aspecten van de familie dieper in te gaan. Dat domein is nauw verwant
               aan het domein <Bakermat></Bakermat>. Dat belicht thema's die de historische, geografische en maatschappelijke
                context van de familie. 
-               <br/
+               <br/>
                De site kan relevant zijn voor derden want alle domeinen
                ontspringen aan de wil om hulde te brengen aan een familie van gewonen, eenvoudige Vlaamse mensen,
                die door hard en eerlijk werken stand hebben gehouden doorheen de hevige stormen van het leven en de tijd.
