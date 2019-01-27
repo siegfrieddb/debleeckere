@@ -8,8 +8,8 @@ author: sylvain
 geboren: "1982-04-14"
 overleden: ""
 kinderen:   
-vader: "1950-sylvain-de-bleeckere"
-moeder: "1952-nicole-van-de-kerkhove"   
+vader: "1907-jozef-de-bleeckere"
+moeder: "1909-maria-van-hulle"   
 verblijfplaatsen:
   - Hasselt
   - Leuven
