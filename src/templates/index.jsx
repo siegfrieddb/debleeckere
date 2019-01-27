@@ -106,11 +106,11 @@ class IndexTemplate extends React.Component {
               <div id="content">
               Welkom op de site van familie Vitalis De Bleeckere - Octavia Versluys. 
               De rubriek Familie handelt over de drie generaties van de familie. 
-              Onder de rubriek Documenten staan officië le documenten. 
+              Onder de rubriek Documenten staan officiële documenten. 
               De rubriek Onderzoek bouwt een forum uit voor onderzoek naar de familie. 
               De rubriek Bakermat bevat thema's die de historische, geografische en maatschappelijke context belichten.
               <br/><br/>
-              <div style={{"textAlign": "center"}}>Citaat
+              <div style={{"textAlign": "center"}}>
                 <br/>
                 
                 <i>I tell, therefore you are. (Margeret Atwood)</i>
