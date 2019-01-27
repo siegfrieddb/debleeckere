@@ -1,29 +1,25 @@
 ---
-voornaam: "Dorothea"
+voornaam: "Frans"
 achternaam: "De Bleeckere"
-persoon: "1982-dorothea-de-bleeckere"
-geslacht: "vrouw"
+persoon: "19xx-frans-de-bleeckere"
+geslacht: "man"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "1982-04-14"
+geboren: "19xx-xx-xx"
 overleden: ""
 kinderen:
-    - "2014-arne-vermeire"
-    - "2017-tuur-vermeire"
-vader: "1950-sylvain-de-bleeckere"
-moeder: "1952-nicole-van-de-kerkhove"   
+    - ""
+    - ""
+vader: "1920-jules-de-bleeckere"
+moeder: "1923-alina-hooft"   
 verblijfplaatsen:
-  - Hasselt
-  - Leuven
+  
 ---
-# Dorothea De Bleeckere
-We can here in words put anything we like
-with different sections for the person
+# Frans De Bleeckere
+Frans is de eerste en enige zoon van [Jules](1920-jules-de-bleeckere) en Alina.
 
-## More info
-We can probably use linked names 
-We can autogenerate some info from the frontmatter,
-example all known ancestors in line with their dates
+## Getuigenis
+
 
 
 
