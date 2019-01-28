@@ -10,15 +10,16 @@ class MainHeader extends React.Component {
     const classes = classNames("main-header", this.props.className, {
       "no-cover": !fluid
     });
-
+    var imgHeader = (<div></div>)
+    if (fluid != null)
+    {
+      imgHeader = (<Img  fluid={fluid}  style={{maxHeight: "400px"}  }></Img>)
+    }
+  
 
     return (
       <header className={classes} >
-        
-          <Img  fluid={fluid}  style={{maxHeight: "400px"}}>
-        
-        </Img>
-        
+        {imgHeader}
         {children}
       </header>
     );
