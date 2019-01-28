@@ -1,7 +1,7 @@
 ---
 voornaam: "Frans"
 achternaam: "De Bleeckere"
-persoon: "19xx-frans-de-bleeckere"
+persoon: "1952-frans-de-bleeckere"
 geslacht: "man"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
