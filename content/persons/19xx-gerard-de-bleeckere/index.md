@@ -1,29 +1,25 @@
 ---
-voornaam: "Dorothea"
+voornaam: "Gerard"
 achternaam: "De Bleeckere"
-persoon: "1982-dorothea-de-bleeckere"
-geslacht: "vrouw"
+persoon: "19xx-gerard-de-bleeckere"
+geslacht: "man"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "1982-04-14"
+geboren: "19xx-xx-xx"
 overleden: ""
 kinderen:
-    - "2014-arne-vermeire"
-    - "2017-tuur-vermeire"
-vader: "1950-sylvain-de-bleeckere"
-moeder: "1952-nicole-van-de-kerkhove"   
+    - ""
+    - ""
+vader: "1907-jozef-de-bleeckere"
+moeder: "1909-maria-martha-van-hulle"   
 verblijfplaatsen:
-  - Hasselt
-  - Leuven
+  - 
 ---
-# Dorothea De Bleeckere
-We can here in words put anything we like
-with different sections for the person
+# Gerard De Bleeckere
+Gerard is de zoon van [Jozef](1907-jozef-de-bleeckere) en Maria Van Hulle.
 
-## More info
-We can probably use linked names 
-We can autogenerate some info from the frontmatter,
-example all known ancestors in line with their dates
+## Getuigenis
+
 
 
 
