@@ -1,29 +1,24 @@
 ---
-voornaam: "Dorothea"
-achternaam: "De Bleeckere"
-persoon: "1982-dorothea-de-bleeckere"
-geslacht: "vrouw"
+voornaam: "Hubert"
+achternaam: "Haeck"
+persoon: "19xx-hubert-haeck"
+geslacht: "man"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "1982-04-14"
+geboren: "194x-xx-xx"
 overleden: ""
 kinderen:
-    - "2014-arne-vermeire"
-    - "2017-tuur-vermeire"
-vader: "1950-sylvain-de-bleeckere"
-moeder: "1952-nicole-van-de-kerkhove"   
+    - ""
+vader: "1922-gaston-haeck"
+moeder: "1922-lea-de-bleeckere"   
 verblijfplaatsen:
-  - Hasselt
-  - Leuven
+  - 
 ---
-# Dorothea De Bleeckere
-We can here in words put anything we like
-with different sections for the person
+# Hubert Haeck
+Hubert is het eerst geboren kind en zoon van [Lea](1922-lea-de-bleeckere) en Gaston Haeck.
 
-## More info
-We can probably use linked names 
-We can autogenerate some info from the frontmatter,
-example all known ancestors in line with their dates
+## Getuigenis
+
 
 
 
