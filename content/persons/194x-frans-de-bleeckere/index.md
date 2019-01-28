@@ -5,7 +5,7 @@ persoon: "19xx-frans-de-bleeckere"
 geslacht: "man"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "19xx-xx-xx"
+geboren: "1952-05-04"
 overleden: ""
 kinderen:
     - ""
