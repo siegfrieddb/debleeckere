@@ -5,7 +5,7 @@ persoon: "19xx-goddelieve-de-bleeckere"
 geslacht: "vrouw"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "19xx-xx-xx"
+geboren: "1944-02-25"
 overleden: ""
 kinderen:
     - ""
