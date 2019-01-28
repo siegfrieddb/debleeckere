@@ -76,8 +76,7 @@ class PostTemplate extends React.Component {
       author,
       config.blogAuthorId
     );
-    console.log(this.props.data.foreImg.edges[0].node.childImageSharp.fluid)
-    var foregroundWidth =  250 * this.props.data.foreImg.edges[0].node.childImageSharp.fluid.aspectRatio 
+    
     
     var relatedSection = ""
     if (this.props.data.related)
@@ -89,7 +88,18 @@ class PostTemplate extends React.Component {
                   links= {_.map(this.props.data.related.edges, e => e.node.relativePath.slice(0,-14))} ></Gallery> 
       </PageDocSection>)
     }
-
+    var foreImg = (<div></div>)
+    if (this.props.data.foreImg != null)
+    {
+      var foregroundWidth =  250 * this.props.data.foreImg.edges[0].node.childImageSharp.fluid.aspectRatio 
+      foreImg = (<Img  style={{height: "250px",width: foregroundWidth}}  fluid={this.props.data.foreImg.edges[0].node.childImageSharp.fluid}> </Img>)
+                    
+    }
+    var bckImg = null
+    if (this.props.data.backImg != null)
+    {
+      this.props.data.backImg.edges[0].node.childImageSharp.fluid
+    }
     return (
 	<Layout location={this.props.location}>
       <Drawer className="post-template" isOpen={this.state.menuOpen}>
@@ -102,7 +112,7 @@ class PostTemplate extends React.Component {
         <Navigation config={config} onClose={this.handleOnClose} />
 
         <SiteWrapper>
-          <MainHeaderImg className="post-head" fluid={this.props.data.backImg.edges[0].node.childImageSharp.fluid} >
+          <MainHeaderImg className="post-head" fluid={bckImg} >
             <MainNav>
               <MenuButton
                 navigation={config.siteNavigation}
@@ -128,8 +138,8 @@ class PostTemplate extends React.Component {
                 transform: "translate(-50%,0)"
               }} >
               <div >
-                      <Img  style={{height: "250px",width: foregroundWidth}}  fluid={this.props.data.foreImg.edges[0].node.childImageSharp.fluid}> </Img>
-              
+                {foreImg}
+                      
                       </div></div>
             </div>
             
