@@ -1,29 +1,21 @@
 ---
-voornaam: "Dorothea"
+voornaam: "alfons"
 achternaam: "De Bleeckere"
-persoon: "1982-dorothea-de-bleeckere"
+persoon: "1911-alfons-de-bleeckere"
 geslacht: "vrouw"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "1982-04-14"
-overleden: ""
+geboren: "1911-01-23"
+overleden: "1984-10-22"
 kinderen:
-    - "2014-arne-vermeire"
-    - "2017-tuur-vermeire"
-vader: "1950-sylvain-de-bleeckere"
-moeder: "1952-nicole-van-de-kerkhove"   
-verblijfplaatsen:
-  - Hasselt
-  - Leuven
+vader: "1879-vitalis-de-bleeckere"
+moeder: "1878-octavia-versluys"   
+verblijfplaatsen: Knesselare 
 ---
-# Dorothea De Bleeckere
-We can here in words put anything we like
-with different sections for the person
+# Alfons De Bleeckere
+Alfons is de derde zoon van [Vitalis](1879-vitalis-de-bleeckere) en [Octavia](1878-octavia-versluys). Hij woonde gans zijn leven in het ouderlijk huis in de Molenweg, Hoekestraat, en is ongehuwd gebleven.
 
-## More info
-We can probably use linked names 
-We can autogenerate some info from the frontmatter,
-example all known ancestors in line with their dates
+
 
 
 

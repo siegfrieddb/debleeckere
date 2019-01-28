@@ -1,29 +1,27 @@
 ---
-voornaam: "Dorothea"
+voornaam: "Jozef"
 achternaam: "De Bleeckere"
-persoon: "1982-dorothea-de-bleeckere"
-geslacht: "vrouw"
+persoon: "1907-jozef-de-bleeckere"
+geslacht: "man"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "1982-04-14"
-overleden: ""
+geboren: "1907-05-01"
+overleden: "1963-07-14"
 kinderen:
-    - "2014-arne-vermeire"
-    - "2017-tuur-vermeire"
-vader: "1950-sylvain-de-bleeckere"
-moeder: "1952-nicole-van-de-kerkhove"   
+    - "194x-simone-de-bleeckere"
+    - "194x-noël-de-bleeckere"
+    - "194x-gabriël-de-bleeckere"
+    - "194x-gerard-de-bleeckere"
+    - "194x-edgard-de-bleeckere"
+vader: "1879-vital-de-bleeckere"
+moeder: "1878-octovia-versluys"   
 verblijfplaatsen:
-  - Hasselt
-  - Leuven
+  - Knesselare
 ---
-# Dorothea De Bleeckere
-We can here in words put anything we like
-with different sections for the person
+# Jozef De Bleeckere
+Jozef is het eerste kind van [Vitalis](1879-vital-de-bleeckere) en [Ocatavia](1879-vital-de-bleeckere).
 
-## More info
-We can probably use linked names 
-We can autogenerate some info from the frontmatter,
-example all known ancestors in line with their dates
+
 
 
 

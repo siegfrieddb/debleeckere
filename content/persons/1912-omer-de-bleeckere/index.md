@@ -1,29 +1,23 @@
 ---
-voornaam: "Dorothea"
+voornaam: "omer"
 achternaam: "De Bleeckere"
-persoon: "1982-dorothea-de-bleeckere"
-geslacht: "vrouw"
+persoon: "1912-omer-de-bleeckere"
+geslacht: "man"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "1982-04-14"
-overleden: ""
+geboren: "1912-07-02"
+overleden: "1973-10-25"
 kinderen:
-    - "2014-arne-vermeire"
-    - "2017-tuur-vermeire"
-vader: "1950-sylvain-de-bleeckere"
-moeder: "1952-nicole-van-de-kerkhove"   
+vader: "1879-vitalis-de-bleeckere"
+moeder: "1878-octavia-versluys"   
 verblijfplaatsen:
-  - Hasselt
-  - Leuven
+  - Knesselare
+  - Gent
 ---
-# Dorothea De Bleeckere
-We can here in words put anything we like
-with different sections for the person
+# Omer De Bleeckere
+Omer is de vierde zoon van [Vitalis](1879-vitalis-de-bleeckere) en [Octavia](1879-vitalis-de-bleeckere). Hij is ongehuwd gebleven. Zijnde laatste levensjaren bracht door in Gent, waar hij in het historisch hospitaal van de Bijloke is overleden.
 
-## More info
-We can probably use linked names 
-We can autogenerate some info from the frontmatter,
-example all known ancestors in line with their dates
+
 
 
 

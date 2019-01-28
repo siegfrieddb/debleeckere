@@ -1,29 +1,24 @@
 ---
-voornaam: "Dorothea"
+voornaam: "Irma"
 achternaam: "De Bleeckere"
-persoon: "1982-dorothea-de-bleeckere"
+persoon: "1913-irma-de-bleeckere"
 geslacht: "vrouw"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "1982-04-14"
-overleden: ""
-kinderen:
-    - "2014-arne-vermeire"
-    - "2017-tuur-vermeire"
-vader: "1950-sylvain-de-bleeckere"
-moeder: "1952-nicole-van-de-kerkhove"   
+geboren: "1913-07-08"
+overleden: "1969-09-08"
+kinderen:    
+vader: "1879-vitalis-de-bleeckere"
+moeder: "1878-octavia-versluys"   
 verblijfplaatsen:
-  - Hasselt
-  - Leuven
----
-# Dorothea De Bleeckere
-We can here in words put anything we like
-with different sections for the person
+  - Knesselare
+  
+  ---
 
-## More info
-We can probably use linked names 
-We can autogenerate some info from the frontmatter,
-example all known ancestors in line with their dates
+# Irma De Bleeckere
+Irma is het tweede meisje van [Vitalis](1879-vitalis-de-bleeckere) en [Octiavia](1879-vitalis-de-bleeckere). Ze was gehuwd met Gerard Corvelyn. Het echtpaar bleef kinderloos.
+
+
 
 
 
