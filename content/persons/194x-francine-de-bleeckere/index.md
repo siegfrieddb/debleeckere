@@ -5,7 +5,7 @@ persoon: "19xx-francine-de-bleeckere"
 geslacht: "vrouw"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "1982-04-14"
+geboren: "1947-07-09"
 overleden: ""
 kinderen:
     - ""
