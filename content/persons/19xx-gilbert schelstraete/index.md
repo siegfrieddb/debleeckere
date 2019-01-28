@@ -1,29 +1,24 @@
 ---
-voornaam: "Dorothea"
-achternaam: "De Bleeckere"
-persoon: "1982-dorothea-de-bleeckere"
-geslacht: "vrouw"
+voornaam: "Gilbert"
+achternaam: "Schelstraete"
+persoon: "19xx-gilbert-schelstraete"
+geslacht: "man"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "1982-04-14"
+geboren: "19xx-xx-xx"
 overleden: ""
 kinderen:
-    - "2014-arne-vermeire"
-    - "2017-tuur-vermeire"
-vader: "1950-sylvain-de-bleeckere"
-moeder: "1952-nicole-van-de-kerkhove"   
+    - ""
+vader: "19xx-albert-schelstraete"
+moeder: "1914-berta-de-bleeckere"   
 verblijfplaatsen:
-  - Hasselt
-  - Leuven
+  -
 ---
-# Dorothea De Bleeckere
-We can here in words put anything we like
-with different sections for the person
+# Gilbert Schelstraete
+Gilbert is de zoon van [Berta](1914-berta-de-bleeckere) en Albert Schelstraete.
 
-## More info
-We can probably use linked names 
-We can autogenerate some info from the frontmatter,
-example all known ancestors in line with their dates
+## Getuigenis
+
 
 
 
