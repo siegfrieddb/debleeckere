@@ -1,29 +1,23 @@
 ---
-voornaam: "Dorothea"
+voornaam: "Berta"
 achternaam: "De Bleeckere"
-persoon: "1982-dorothea-de-bleeckere"
+persoon: "1914-berta-de-bleeckere"
 geslacht: "vrouw"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "1982-04-14"
-overleden: ""
+geboren: "1914-10-12"
+overleden: "1956-11-05"
 kinderen:
-    - "2014-arne-vermeire"
-    - "2017-tuur-vermeire"
-vader: "1950-sylvain-de-bleeckere"
-moeder: "1952-nicole-van-de-kerkhove"   
-verblijfplaatsen:
-  - Hasselt
-  - Leuven
+    - "194x-gilbert-schelstraete"
+   
+vader: "1879-vitalis-de-bleeckere"
+moeder: "1878-octavia-versluys"   
+verblijfplaatsen: Knesselare
+  - 
 ---
-# Dorothea De Bleeckere
-We can here in words put anything we like
-with different sections for the person
+# Berta De Bleeckere
+Berta was de derde dochter van [Vitalis](1879-vitalis-de-bleeckere) en [Octavia](1878-octavia-versluys). 
 
-## More info
-We can probably use linked names 
-We can autogenerate some info from the frontmatter,
-example all known ancestors in line with their dates
 
 
 
