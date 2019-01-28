@@ -1,7 +1,7 @@
 ---
 voornaam: "Francine"
 achternaam: "De Bleeckere"
-persoon: "19xx-francine-de-bleeckere"
+persoon: "1947-francine-de-bleeckere"
 geslacht: "vrouw"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
