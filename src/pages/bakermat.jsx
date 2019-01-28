@@ -75,8 +75,8 @@ class IndexTemplate extends React.Component {
             {/* All the main content gets inserted here */}
             <div className="home-template">
               {/* The big featured header */}
-              <MainHeader cover="/images/knesselare_zuiver.jpg">
-                <MainNav overlay="/images/knesselare_zuiver.jpg">
+              <MainHeader cover="/images/bakermat.jpg">
+                <MainNav overlay="/images/bakermat.jpg">
                   <MenuButton
                     navigation={config.siteNavigation}
                     onClick={this.handleOnClick}
@@ -138,7 +138,7 @@ class IndexTemplate extends React.Component {
               </PageSection>
               <PageSection>
                 <Gallery images={_.map(this.props.data.voorgrond.edges, e => e.node.childImageSharp)} 
-                         links= {_.map(this.props.data.voorgrond.edges, e => e.node.relativePath.slice(0,-14))} ></Gallery>
+                         links= {_.map(this.props.data.voorgrond.edges, e => e.node.relativePath.slice(0,-9))} ></Gallery>
               </PageSection>
               
             </div>
@@ -171,7 +171,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    voorgrond : allFile (filter: {absolutePath: {regex: "/bakermat.*voorgrond\\.jpg/"}} )
+    voorgrond : allFile (filter: {absolutePath: {regex: "/bakermat.*moza\\.jpg/"}} )
     {
       edges {
         node{

@@ -106,13 +106,13 @@ class IndexTemplate extends React.Component {
               <div id="content">
               Welkom op de site van familie Vitalis De Bleeckere - Octavia Versluys.
               Ze is online sinds februari 2019 en bevat vier domeinen.
-              Het domein <Familie></Familie> stelt alle personen voor die samen de drie generaties van de familie vormen. In de tijd gezien,
+              Het domein <b>Familie</b> stelt alle personen voor die samen de drie generaties van de familie vormen. In de tijd gezien,
               situeren ze zich nog juist op het einde negentiende eeuw, hoofdzakelijk in de twintigste eeuw 
               en tevens in de eerste helft van de eenentwintigste eeuw. 
-              Officiële stukken, beelden en teksten, zijn samengebracht in het domein <Documenten></Documenten>. 
-              Er gebeurt ook onderzoek naar de familie. Dat gebeurt in het domein <Onderzoek></Onderzoek>. Het biedt
+              Officiële stukken, beelden en teksten, zijn samengebracht in het domein <b>Documenten</b>. 
+              Er gebeurt ook onderzoek naar de familie. Dat gebeurt in het domein <b>Onderzoek</b>. Het biedt
               een platform op bepaalde aspecten van de familie dieper in te gaan. Dat domein is nauw verwant
-              aan het domein <Bakermat></Bakermat>. Dat belicht thema's die de historische, geografische en maatschappelijke
+              aan het domein <b>Bakermat</b>. Dat belicht thema's die de historische, geografische en maatschappelijke
                context van de familie. 
                <br/>
                De site kan relevant zijn voor derden want alle domeinen

@@ -48,6 +48,11 @@ module.exports = {
       url: "/documenten",
       iconClassName: "fa fa-twitter" // Disabled, see Navigation.jsx
     },
+    {
+      label: "Contact",
+      url: "/about/",
+      iconClassName: "fa fa-twitter" // Disabled, see Navigation.jsx
+    },
   ],
   // Copyright string for the footer of the website and RSS feed.
   copyright: {

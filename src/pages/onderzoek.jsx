@@ -75,8 +75,8 @@ class IndexTemplate extends React.Component {
             {/* All the main content gets inserted here */}
             <div className="home-template"> 
               {/* The big featured header */}
-              <MainHeader cover="/images/onderzoek.jpg">
-                <MainNav overlay="/images/onderzoek.jpg">
+              <MainHeader cover="/images/onderzoek2.jpg">
+                <MainNav overlay="/images/onderzoek2.jpg">
                   <MenuButton
                     navigation={config.siteNavigation}
                     onClick={this.handleOnClick}
@@ -150,7 +150,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    voorgrond : allFile (filter: {absolutePath: {regex: "/onderzoek.*voorgrond\\.jpg/"}} )
+    voorgrond : allFile (filter: {absolutePath: {regex: "/onderzoek.*moza\\.jpg/"}} )
     {
       edges {
         node{
