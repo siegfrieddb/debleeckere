@@ -1,29 +1,27 @@
 ---
-voornaam: "Dorothea"
+voornaam: "Maria"
 achternaam: "De Bleeckere"
-persoon: "1982-dorothea-de-bleeckere"
+persoon: "1908-maria-de-bleeckere"
 geslacht: "vrouw"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "1982-04-14"
+geboren: "1908-07-07"
 overleden: ""
 kinderen:
-    - "2014-arne-vermeire"
-    - "2017-tuur-vermeire"
-vader: "1950-sylvain-de-bleeckere"
-moeder: "1952-nicole-van-de-kerkhove"   
+    - "19xx-jozef-van-paemele"
+    - "19xx-godelieve-van-paemele"
+    - "19xx-daniël-van-paemele"
+vader: "1879-vitalis-de-bleeckere"
+moeder: "1878-octavia-versluys"   
 verblijfplaatsen:
-  - Hasselt
-  - Leuven
+  - Knesselare
+  
 ---
-# Dorothea De Bleeckere
-We can here in words put anything we like
-with different sections for the person
+# Maria De Bleeckere
+Maria is de eerst geboren dochter en het tweede kind van [Vitalis](1879-vitalis-de-bleeckere) en [Octavia](1878-octavia-versluys).
 
-## More info
-We can probably use linked names 
-We can autogenerate some info from the frontmatter,
-example all known ancestors in line with their dates
+## Getuigenis
+
 
 
 
