@@ -104,7 +104,7 @@ class DocTemplate extends React.Component {
               <PageSection>
                 <section  className="post-content"
                 dangerouslySetInnerHTML={{ __html: doc.html }}></section>
-              </PageSection>
+                </PageSection>
                
               <PostFooter>
                 {/*

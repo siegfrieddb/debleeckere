@@ -29,7 +29,7 @@ import Disqus from "../components/Disqus/Disqus";
 import Layout from "../components/layout";
 import Img from "gatsby-image"
 import Gallery from "../components/Gallery/Gallery";
-
+import "./documenten.css"
 
 const formatReadPersoon = value => ({
   path: value.fields.slug,
