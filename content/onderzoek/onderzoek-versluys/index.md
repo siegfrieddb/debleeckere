@@ -6,5 +6,5 @@ date: "2019-01-25"
 
 ![](./achtergrond.jpg)
 
-In de koekendoos met familiefoto's van zijn ouders, vond Sylvain deze foto die ook in het domein Documenten wordt besproken. Hier luidt de onderzoeksvraag wie de personen op de oude familiefoto Versluys zijn.    
+In de koekendoos met familiefoto's van zijn ouders, vond [Sylvain](1950-sylvain-de-bleeckere) deze foto die ook in het domein [Documenten]() wordt besproken. Hier luidt de onderzoeksvraag: **Wie zijnde personen op de oude familiefoto Versluys**?    
 
