@@ -110,25 +110,30 @@ class IndexTemplate extends React.Component {
               In de tijd gezien, situeren ze zich in het laatste kwart van de negentiende eeuw, de volledige twintigste eeuw 
               en in de eerste helft van de eenentwintigste eeuw. 
               <br/>
+              <br/>
               Officiële stukken, beelden en teksten, zijn samengebracht in het domein <b>Documenten</b>. 
               Er gebeurt ook onderzoek naar de familie. Dat gebeurt in het domein <b>Onderzoek</b>. Het biedt
               een platform om op bepaalde aspecten van de familie dieper in te gaan. Dat domein is nauw verwant
               aan het domein <b>Bakermat</b>. Dat belicht thema's die betrekking hebben op de historische, 
               geografische en maatschappelijke context van de familie. 
                <br/>
+               <br/>
                De site kan relevant zijn voor derden want alle domeinen
                ontspringen aan de wil om hulde te brengen aan een familie van gewone, eenvoudige Vlaamse mensen,
                die door hard en eerlijk werken stand hebben gehouden doorheen de hevige stormen van het leven en de tijd.
                De site benadert de familie De Bleeckere-Versluys als een tijdspiegel en een levensspiegel.       
-               
+               <br/>
               <br/><br/>
               <div style={{"textAlign": "center"}}>
                 <br/>
-                
-                <i>I tell, therefore you are. (Margeret Atwood)</i>
+               <i>I tell, therefore you are. (Margeret Atwood)</i>
+                <br/>
                 <br/>
                 <i>Generaties - ze verschijnen en verdwijnen.<br/> 
-                Vormen ze niet de rijmen van ons menselijk bestaan? (Sylvain De Bleeckere)</i>
+                Vormen ze niet de rijmen
+                <br/> 
+                van ons menselijk bestaan en zijn geheimen? (Sylvain De Bleeckere)</i>
+                <br/><br/>
                 <br/><br/>
                 </div>
                 <div className="menu-bar">
