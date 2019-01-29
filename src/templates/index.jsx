@@ -127,7 +127,8 @@ class IndexTemplate extends React.Component {
                 
                 <i>I tell, therefore you are. (Margeret Atwood)</i>
                 <br/>
-                <i>Generaties komen en gaan<br/> als golven van ons bestaan. (Sylvain De Bleeckere)</i>
+                <i>Generaties - ze verschijnen en verdwijnen.<br/> 
+                Vormen ze niet de rijmen van ons menselijk bestaan? (Sylvain De Bleeckere)</i>
                 <br/><br/>
                 </div>
                 <div className="menu-bar">
