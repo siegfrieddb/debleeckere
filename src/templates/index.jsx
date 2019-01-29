@@ -112,8 +112,8 @@ class IndexTemplate extends React.Component {
               <br/>
               <br/>
               Officiële stukken, beelden en teksten, zijn samengebracht in het domein <b>Documenten</b>. 
-              Er gebeurt ook onderzoek naar de familie. Dat gebeurt in het domein <b>Onderzoek</b>. Het biedt
-              een platform om op bepaalde aspecten van de familie dieper in te gaan. Dat domein is nauw verwant
+              Er gebeurt ook onderzoek naar de familie en haar omgeving in tijd en ruimte. Dat gebeurt in het domein <b>Onderzoek</b>. Het biedt
+              een platform om op bepaalde aspecten van de familie en haar omgeving dieper in te gaan. Dat domein is nauw verwant
               aan het domein <b>Bakermat</b>. Dat belicht thema's die betrekking hebben op de historische, 
               geografische en maatschappelijke context van de familie. 
                <br/>
@@ -121,7 +121,7 @@ class IndexTemplate extends React.Component {
                De site kan relevant zijn voor derden want alle domeinen
                ontspringen aan de wil om hulde te brengen aan een familie van gewone, eenvoudige Vlaamse mensen,
                die door hard en eerlijk werken stand hebben gehouden doorheen de hevige stormen van het leven en de tijd.
-               De site benadert de familie De Bleeckere-Versluys als een tijdspiegel en een levensspiegel.       
+               De site benadert de familie De Bleeckere-Versluys ook als een concrete tijdspiegel en levensspiegel.       
                <br/>
               <br/><br/>
               <div style={{"textAlign": "center"}}>
