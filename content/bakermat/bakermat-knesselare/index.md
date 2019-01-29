@@ -8,5 +8,5 @@ gallerij_titel: "Knesselare"
 
 ![](./achtergrond.jpg)
 
-In Knesselare heeft zich het grootste deel van het leven van Vitalis en Octavia afgespeelde, alsook dat van hun kinderen. Deze zeer oude prentkaart toont de Kerkstraat, een weg die, zoals de naam zegt, recht naar de kerk leidt. Die weg is ontelbare keren afgelegd door het gezin De Bleeckere. Ze woonden immers in Hoekestraat die rechtstreeks richting het dorp leidt via de kerkstraat.   
+In Knesselare heeft zich het grootste deel van het leven van [Vitalis](1879-vitalis-de-bleeckere) en [Octavia](1878-octavia-versluys) afgespeelde, alsook dat van hun kinderen en de meeste van hun kleinkinderen. Deze zeer oude prentkaart toont de Kerkstraat, een weg die, zoals de naam zegt, recht naar de kerk leidt. Die weg is ontelbare keren afgelegd door het gezin De Bleeckere. Ze woonden immers in Hoekestraat die rechtstreeks richting het dorp leidt via de kerkstraat.   
 
