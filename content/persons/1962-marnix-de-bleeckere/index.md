@@ -1,29 +1,22 @@
 ---
-voornaam: "Dorothea"
+voornaam: "Marnix"
 achternaam: "De Bleeckere"
-persoon: "1982-dorothea-de-bleeckere"
-geslacht: "vrouw"
+persoon: "1962-marnix-de-bleeckere"
+geslacht: "man"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "1982-04-14"
-overleden: ""
+geboren: "1962-03-06"
+overleden: "2011-11-25"
 kinderen:
-    - "2014-arne-vermeire"
-    - "2017-tuur-vermeire"
-vader: "1950-sylvain-de-bleeckere"
-moeder: "1952-nicole-van-de-kerkhove"   
-verblijfplaatsen:
-  - Hasselt
-  - Leuven
----
-# Dorothea De Bleeckere
-We can here in words put anything we like
-with different sections for the person
+vader: "1918-albert-de-bleeckere"
+moeder: "1923-julia-hooft"   
+verblijfplaatsen: 
+- Sint-Maria-Aalter
+-
 
-## More info
-We can probably use linked names 
-We can autogenerate some info from the frontmatter,
-example all known ancestors in line with their dates
+---
+# Marnix De Bleeckere
+Marnix is het laatst geboren kleinkind van [Vitalis](1879-vitalis-de-bleeckere) en [Octavia](1878-octavia-versluys), en de jongste van de drie kinderen van [Albert](1918-albert-de-bleeckere) en Julia Hooft.
 
 
 
