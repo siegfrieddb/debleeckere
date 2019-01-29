@@ -5,18 +5,14 @@ persoon: "1950-sylvain-de-bleeckere"
 geslacht: "man"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "1950-09-2X"
+geboren: "1950-09-29"
 overleden: ""
-vader: "19XX-maurice-de-bleeckere"
-moeder: "19XX-flora-X"
+vader: "1916-maurice-de-bleeckere"
+moeder: "1920-flora-verscheure"
 ---
 # Sylvain De Bleeckere
-We can here in words put anything we like
-with different sections for the person
+Sylvain is de tweede zoon van [Maurits](1916-maurits-de-bleeckere) en Flora Verscheure.
 
-## More info
-We can probably use linked names 
-We can autogenerate some info from the frontmatter,
 
 
 
