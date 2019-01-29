@@ -110,7 +110,7 @@ class IndexTemplate extends React.Component {
               De verschillende items vormen onderzoeksvragen waarop een antwoord moet worden gevonden. Dat gebeurt 
               door op weg te gaan naar openbare archieven, beschikbare studies, levende getuigen en online data.
               De verschillende items met hun onderzoeksvragen hebben in de eerste plaats betrekking op 
-              de gezinsbiografie van 37 leden - de drie generaties - van de familie Vitalis De Bleeckere-Octavia Versluys.
+              de gezinsbiografie van de 37 leden - de drie generaties - van de familie Vitalis De Bleeckere-Octavia Versluys.
               <br></br>
               <br></br>
               De onderzoeksvragen reiken veel verder dan die van het opstellen van de klassieke stamboom. 

@@ -106,20 +106,20 @@ class IndexTemplate extends React.Component {
               <div id="content">
               Welkom op de site van familie Vitalis De Bleeckere - Octavia Versluys.
               Ze is online sinds februari 2019 en bevat vier domeinen.
-              Het domein <b>Familie</b> stelt alle personen voor die samen de drie generaties van de familie vormen. In de tijd gezien,
-              situeren ze zich nog juist op het einde negentiende eeuw, hoofdzakelijk in de twintigste eeuw 
-              en tevens in de eerste helft van de eenentwintigste eeuw. 
+              Het domein <b>Familie</b> stelt de 37 personen voor die samen de drie generaties van de familie vormen.
+              In de tijd gezien, situeren ze zich in het laatste kwart van de negentiende eeuw, de volledige twintigste eeuw 
+              en in de eerste helft van de eenentwintigste eeuw. 
+              <br/>
               Officiële stukken, beelden en teksten, zijn samengebracht in het domein <b>Documenten</b>. 
               Er gebeurt ook onderzoek naar de familie. Dat gebeurt in het domein <b>Onderzoek</b>. Het biedt
-              een platform op bepaalde aspecten van de familie dieper in te gaan. Dat domein is nauw verwant
-              aan het domein <b>Bakermat</b>. Dat belicht thema's die de historische, geografische en maatschappelijke
-               context van de familie. 
+              een platform om op bepaalde aspecten van de familie dieper in te gaan. Dat domein is nauw verwant
+              aan het domein <b>Bakermat</b>. Dat belicht thema's die betrekking hebben op de historische, 
+              geografische en maatschappelijke context van de familie. 
                <br/>
                De site kan relevant zijn voor derden want alle domeinen
-               ontspringen aan de wil om hulde te brengen aan een familie van gewonen, eenvoudige Vlaamse mensen,
+               ontspringen aan de wil om hulde te brengen aan een familie van gewone, eenvoudige Vlaamse mensen,
                die door hard en eerlijk werken stand hebben gehouden doorheen de hevige stormen van het leven en de tijd.
-                De site benadert de familie 
-               De Bleeckere-Versluys als een tijdspiegel en een levensspiegel.       
+               De site benadert de familie De Bleeckere-Versluys als een tijdspiegel en een levensspiegel.       
                
               <br/><br/>
               <div style={{"textAlign": "center"}}>
