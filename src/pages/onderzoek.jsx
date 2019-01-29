@@ -105,14 +105,19 @@ class IndexTemplate extends React.Component {
                 </Link>
               </MainHeader>
               <PageSection> <div name="content">
-              Het domein Onderzoek bestaat uit verschillende items 
-              die betrekkin hebben op de gezinsbiografie van Vitalis De Bleeckere-Octavia Versluys.
-              Ieder item bestaat uit een onderzoeksvraag. 
-              De onderzoeksvragen reiken veel verder dan die van de klassieke stamboom. 
+              De oude prentkaart van de Dorpsstraat in Sint-Joris-ten-Distel, het dorp waar de wieg stond van 
+              Vitalis, toont een eenzame fietser die onderweg is. Dat beeld begeleidt het werk aan het domein Onderzoek.
+              De verschillende items vormen onderzoeksvragen waarop een antwoord moet worden gevonden. Dat gebeurt 
+              door op weg te gaan naar openbare archieven, beschikbare studies, levende getuigen en online data.
+              De verschillende items met hun onderzoeksvragen hebben in de eerste plaats betrekking op 
+              de gezinsbiografie van 37 generatieleden van de familie Vitalis De Bleeckere-Octavia Versluys.
+              <br></br>
+              De onderzoeksvragen reiken veel verder dan die van het opstellen van de klassieke stamboom. 
               Stambomen kennen enkel een droge opsomming van namen en data. 
               Ze kennen geen gezichten, geen verhalen. Hier primeren de gezichten en de verhalen.
-              In het domein Onderzoek krijgt ieder item met zijn specifieke onderzoeksvraag een antwoord
-              dat soms beperkt is of soms verder kritisch onderzoek van beschikbare bronnen vereist.  
+              Het onderzoek is hier een middel om die gezichten en die verhalen te ontdekken,
+              ook al blijven de antwoorden op de gestelde vragen soms beperkt 
+              en is er verder kritisch onderzoek naar relevante bronnen vereist.  
               </div>
               </PageSection>
               <PageSection>
