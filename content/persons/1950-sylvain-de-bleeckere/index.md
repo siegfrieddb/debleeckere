@@ -7,7 +7,7 @@ cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
 geboren: "1950-09-29"
 overleden: ""
-vader: "1916-maurice-de-bleeckere"
+vader: "1916-maurits-de-bleeckere"
 moeder: "1920-flora-verscheure"
 ---
 # Sylvain De Bleeckere
