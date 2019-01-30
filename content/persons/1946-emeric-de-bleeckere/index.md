@@ -1,29 +1,19 @@
 ---
-voornaam: "Siegfried"
+voornaam: "Emeric"
 achternaam: "De Bleeckere"
-persoon: "1978-siegfried-de-bleeckere"
+persoon: "1946-emric-de-bleeckere"
 geslacht: "man"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "1978-12-29"
+geboren: "1946-04-19"
 overleden: ""
 kinderen:
-    - "2012-dante-de-bleeckere"
-    - "2014-elia-de-bleeckere"
-vader: "1950-sylvain-de-bleeckere"
-moeder: "1952-nicole-van-de-kerkhove"
+vader: "1918-albert-de-bleeckere"
+moeder: "1923-julia-hooft"
 verblijfplaatsen:
-  - Hasselt
-  - Leuven
-  - Landen
 ---
-# Siegfried De Bleeckere
-We can here in words put anything we like
-with different sections for the person
-
-## More info
-We can probably use linked names 
-We can autogenerate some info from the frontmatter,
+# Emeric De Bleeckere
+Emeric is het eerst geboren kind en zoon van [Albert](1918-albert-de-bleeckere) en Julia Hooft.
 
 
 
