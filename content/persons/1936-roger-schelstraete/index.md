@@ -14,7 +14,7 @@ verblijfplaatsen:
   -
 ---
 # Roger Schelstraete
-Gilbert is de eerste zoon van [Berta](1914-berta-de-bleeckere) en Albert Schelstraete.
+Roger is de eerste zoon van [Berta](1914-berta-de-bleeckere) en Albert Schelstraete.
 
 
 
