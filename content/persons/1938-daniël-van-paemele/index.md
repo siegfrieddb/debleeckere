@@ -13,7 +13,7 @@ moeder: "1908-maria-de-bleeckere"
 verblijfplaatsen:
   -
 ---
-# Gilbert Schelstraete
+# Daniël Van Paemele
 Daniël is de derde zoon van [Maria](1908-maria-de-bleeckere) en Jozef Van Paemele.
 
 
