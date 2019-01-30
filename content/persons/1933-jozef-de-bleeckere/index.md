@@ -15,7 +15,7 @@ verblijfplaatsen: Knesselare
   -
 ---
 # Jozef De Bleeckere
-Jozef is de eerste zoon van [Maria](1908-berta-de-bleeckere). De volksmond noemde een kind van een ongehuwde moeder die nadien trouwde,een 'voorkind'.
+Jozef is de eerste zoon van [Maria](1908-berta-de-bleeckere). Hij is geboren op tweede kerstdag, een week na de geboorte van het eerste kleinkind van [Vitalis](1879-vitalis-de-bleeckere) en [Octavia](1878-octovia-de-bleeckere), [Simone](1933-simone-de-bleeckere). 
 
 
 
