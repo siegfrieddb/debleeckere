@@ -11,7 +11,7 @@ kinderen:
     - ""
 vader: "1000-albert-schelstraete"
 moeder: "1914-berta-de-bleeckere"   
-verblijfplaatsen:
+verblijfplaatsen: Knesselare
   -
 ---
 # Robert Schelstraete
