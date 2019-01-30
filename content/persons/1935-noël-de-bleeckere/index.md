@@ -9,11 +9,11 @@ geboren: "1935-11-08"
 overleden: ""
 kinderen:    
 vader: "1907-jozef-de-bleeckere"
-moeder: "1909-maria-martha-van-hulle"   
+moeder: "1909-maria-van-hulle"   
 verblijfplaatsen: Knesselare
 ---
 # Noël De Bleeckere
-Noël is de zoon van [Jozef](1907-jozef-de-bleeckere) en Maria Van Hulle. Hij is altijd in het ouderlijk huis in de Hellestraat in Knesselare blijven wonen. 
+Noël is de eerste zoon van [Jozef](1907-jozef-de-bleeckere) en Maria Van Hulle. Hij is altijd in het ouderlijk huis in de Hellestraat te  Knesselare blijven wonen. 
 
 
 
