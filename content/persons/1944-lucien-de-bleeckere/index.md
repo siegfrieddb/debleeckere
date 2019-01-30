@@ -1,23 +1,17 @@
 ---
-voornaam: "Dante"
+voornaam: "Lucien"
 achternaam: "De Bleeckere"
-persoon: "2012-dante-de-bleeckere"
+persoon: "1944-lucien-de-bleeckere"
 geslacht: "man"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "2012-01-08"
+geboren: "1944-06-21"
 overleden: ""
-vader: "1978-siegfried-de-bleeckere"
-moeder: "1980-karen-hollants"   
+vader: "1916-maurits-de-bleeckere"
+moeder: "1920-flora-verscheure"   
 ---
-# Dante De Bleeckere
-We can here in words put anything we like
-with different sections for the person
-
-## More info
-We can probably use linked names 
-We can autogenerate some info from the frontmatter,
-example all known ancestors in line with their dates
+# Lucien De Bleeckere
+Lucien is het eerste kind en zoon van [Maurits](1916-maurits-de-bleeckere) en Flora Verscheure.
 
 
 
