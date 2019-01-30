@@ -1,24 +1,23 @@
 ---
 voornaam: "Edgar"
 achternaam: "De Bleeckere"
-persoon: "19xx-edgar-de-bleeckere"
+persoon: "1943-edgar-de-bleeckere"
 geslacht: "man"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "1982-04-14"
+geboren: "1943-07-08"
 overleden: ""
 kinderen:   
 vader: "1907-jozef-de-bleeckere"
 moeder: "1909-maria-van-hulle"   
-verblijfplaatsen:
-  - Hasselt
-  - Leuven
+verblijfplaatsen: Knesselare
+ 
 ---
 # Edgar De Bleeckere
 
-Edgar behoort tot de derde generatie. Hij is een van de vier zonen van Jozef en ... 
+Edgar is de zoon van [Jozef](1907-jozef-de-bleeckere) en Maria Van Hulle, en de tweelingsbroer van [Gerard](1943-gerard-de-bleeckere). 
 
-## Getuigenis
+
 
 
 
