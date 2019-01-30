@@ -130,9 +130,10 @@ class IndexTemplate extends React.Component {
                 <br/>
                 <br/>
                 <i>Generaties - ze verschijnen en verdwijnen.<br/> 
-                Vormen ze niet de rijmen
-                <br/> 
-                van ons menselijk bestaan en zijn geheimen? (Sylvain De Bleeckere)</i>
+                Vormen ze niet de rijmen<br/> 
+                van de geheimen<br/>
+                van ons reilen en zeilen<br/>
+                hier op aarde? (Sylvain De Bleeckere)</i>
                 <br/><br/>
                 <br/><br/>
                 </div>
