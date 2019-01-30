@@ -1,11 +1,11 @@
 ---
 voornaam: "Hubert"
 achternaam: "Haeck"
-persoon: "19xx-hubert-haeck"
+persoon: "1948-hubert-haeck"
 geslacht: "man"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "194x-xx-xx"
+geboren: "1948-10-28"
 overleden: ""
 kinderen:
     - ""
@@ -15,9 +15,9 @@ verblijfplaatsen:
   - 
 ---
 # Hubert Haeck
-Hubert is het eerst geboren kind en zoon van [Lea](1922-lea-de-bleeckere) en Gaston Haeck.
+Hubert is het eerst geboren kind en enige zoon van [Lea](1922-lea-de-bleeckere) en Gaston Haeck.
 
-## Getuigenis
+
 
 
 
