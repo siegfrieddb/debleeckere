@@ -1,29 +1,19 @@
 ---
-voornaam: "Dorothea"
+voornaam: "Rita"
 achternaam: "De Bleeckere"
-persoon: "1982-dorothea-de-bleeckere"
+persoon: "1948-rita-de-bleeckere"
 geslacht: "vrouw"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "1982-04-14"
+geboren: "1948-05-31"
 overleden: ""
 kinderen:
-    - "2014-arne-vermeire"
-    - "2017-tuur-vermeire"
-vader: "1950-sylvain-de-bleeckere"
-moeder: "1952-nicole-van-de-kerkhove"   
+vader: "1918-albert-de-bleeckere"
+moeder: "1923-julia-hooft"   
 verblijfplaatsen:
-  - Hasselt
-  - Leuven
 ---
-# Dorothea De Bleeckere
-We can here in words put anything we like
-with different sections for the person
-
-## More info
-We can probably use linked names 
-We can autogenerate some info from the frontmatter,
-example all known ancestors in line with their dates
+# Rita De Bleeckere
+Rita is de enige dochter van [Albert](1918-albert-de-bleeckere) en Julia Hooft.
 
 
 
