@@ -1,7 +1,7 @@
 ---
 voornaam: "Gilbert"
 achternaam: "Schelstraete"
-persoon: "19xx-gilbert-schelstraete"
+persoon: "1941-gilbert-schelstraete"
 geslacht: "man"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
@@ -15,7 +15,7 @@ verblijfplaatsen:
   -
 ---
 # Gilbert Schelstraete
-Gilbert is de zoon van [Berta](1914-berta-de-bleeckere) en Albert Schelstraete.
+Gilbert is de tweede zoon van [Berta](1914-berta-de-bleeckere) en Albert Schelstraete.
 
 
 
