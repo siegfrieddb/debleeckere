@@ -17,7 +17,7 @@ verblijfplaatsen:
 # Francine De Bleeckere
 Francine is de tweede dochter van [Jules](1920-jules-de-bleeckere) en Alina. 
 
-## Getuigenis
+
 
 
 
