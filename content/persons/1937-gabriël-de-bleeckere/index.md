@@ -1,29 +1,21 @@
 ---
-voornaam: "Dorothea"
+voornaam: "Gabriël"
 achternaam: "De Bleeckere"
-persoon: "1982-dorothea-de-bleeckere"
-geslacht: "vrouw"
+persoon: "1937-gabriël-de-bleeckere"
+geslacht: "man"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "1982-04-14"
-overleden: ""
-kinderen:
-    - "2014-arne-vermeire"
-    - "2017-tuur-vermeire"
-vader: "1950-sylvain-de-bleeckere"
-moeder: "1952-nicole-van-de-kerkhove"   
+geboren: "1937-05-07"
+overleden: "2011-01-15"
+kinderen
+vader: "1907-jozef-de-bleeckere"
+moeder: "1909-maria-van-hulle"   
 verblijfplaatsen:
   - Hasselt
   - Leuven
 ---
-# Dorothea De Bleeckere
-We can here in words put anything we like
-with different sections for the person
-
-## More info
-We can probably use linked names 
-We can autogenerate some info from the frontmatter,
-example all known ancestors in line with their dates
+# Gabriël De Bleeckere
+Gabriël is het derde kind en de tweede zoon van [Jozef](1907-jozef-de-bleeckere) en Maria Van Hulle.
 
 
 
