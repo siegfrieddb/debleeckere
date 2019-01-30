@@ -9,7 +9,7 @@ geboren: "1943-07-08"
 overleden: ""
 kinderen:
 vader: "1907-jozef-de-bleeckere"
-moeder: "1909-maria-martha-van-hulle"   
+moeder: "1909-maria-van-hulle"   
 verblijfplaatsen: Knesselare
    
 ---
