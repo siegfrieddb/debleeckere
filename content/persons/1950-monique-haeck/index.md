@@ -1,29 +1,19 @@
 ---
-voornaam: "Dorothea"
-achternaam: "De Bleeckere"
-persoon: "1982-dorothea-de-bleeckere"
+voornaam: "Monique"
+achternaam: "Haeck"
+persoon: "1950-monique-haeck"
 geslacht: "vrouw"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "1982-04-14"
+geboren: "1950-10-07"
 overleden: ""
 kinderen:
-    - "2014-arne-vermeire"
-    - "2017-tuur-vermeire"
-vader: "1950-sylvain-de-bleeckere"
-moeder: "1952-nicole-van-de-kerkhove"   
+vader: "1922-gaston-haeck"
+moeder: "1922-lea-de-bleeckere"   
 verblijfplaatsen:
-  - Hasselt
-  - Leuven
 ---
-# Dorothea De Bleeckere
-We can here in words put anything we like
-with different sections for the person
-
-## More info
-We can probably use linked names 
-We can autogenerate some info from the frontmatter,
-example all known ancestors in line with their dates
+# Monique De Bleeckere
+Monique is het tweede kind en de enige dochter van [Lea](1922-lea-de-bleeckere) en Gaston Haeck.
 
 
 
