@@ -8,11 +8,13 @@ author: sylvain
 geboren: "1879-12-30"
 overleden: "1936-02-01"
 kinderen:
-vader: "19XX-maurice-de-bleeckere"
-moeder: "19XX-flora-X"
+vader: ""
+moeder: ""
 verblijfplaatsen:
 ---
 # Vitalis De Bleeckere
+
+![](voorgrond.jpg)
 
 Vitalis is de vader van 11 kinderen en 24 kleinkinderen.
 
