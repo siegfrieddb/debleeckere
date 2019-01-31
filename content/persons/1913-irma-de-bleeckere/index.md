@@ -16,7 +16,7 @@ verblijfplaatsen:
   ---
 
 # Irma De Bleeckere
-Irma is het tweede meisje van [Vitalis](1879-vitalis-de-bleeckere) en [Octiavia](1879-vitalis-de-bleeckere). Ze was gehuwd met Gerard Corvelyn. Het echtpaar bleef kinderloos.
+Irma is het zesde kind en de tweede dochter van [Vitalis](1879-vitalis-de-bleeckere) en [Octiavia](1879-vitalis-de-bleeckere). 
 
 
 
