@@ -11,8 +11,7 @@ kinderen:
 vader: "1879-vitalis-de-bleeckere"
 moeder: "1878-octavia-versluys"   
 verblijfplaatsen:
-  - Knesselare
-  
+   
   ---
 
 # Irma De Bleeckere
