@@ -5,8 +5,8 @@ persoon: "1878-octavie-versluys"
 geslacht: "vrouw"
 geboren: "1878-11-10"
 overleden: "1963-08-26"
-vader: ""
-moeder: ""   
+vader: "1000-00-00"
+moeder: "1000-00-00"   
 author: sylvain
 ---
 # Octavia Versluys
