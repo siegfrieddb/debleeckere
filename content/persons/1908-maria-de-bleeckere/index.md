@@ -6,12 +6,11 @@ geslacht: "vrouw"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
 geboren: "1908-07-07"
-overleden: ""
+overleden: "1000-00-00"
 kinderen:
 vader: "1879-vitalis-de-bleeckere"
 moeder: "1878-octavia-versluys"   
 verblijfplaatsen:
-  - Knesselare
   
 ---
 # Maria De Bleeckere
