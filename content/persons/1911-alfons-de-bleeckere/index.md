@@ -2,7 +2,7 @@
 voornaam: "alfons"
 achternaam: "De Bleeckere"
 persoon: "1911-alfons-de-bleeckere"
-geslacht: "vrouw"
+geslacht: "man"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
 geboren: "1911-01-23"
