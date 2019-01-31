@@ -16,7 +16,7 @@ verblijfplaatsen:
 
 ![](voorgrond.jpg)
 
-Vitalis is de vader van 11 kinderen en 24 kleinkinderen.
+Vitalis is de vader van 11 kinderen en de grootvader van 24 kleinkinderen.
 
 
 
