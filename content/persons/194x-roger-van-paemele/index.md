@@ -14,7 +14,7 @@ verblijfplaatsen:
   -
 ---
 # Roger Van Paemele
-Roger is de tweede zoon van [Berta](1914-berta-de-bleeckere) en Albert Schelstraete.
+Roger is de tweede zoon van [Maria](1908-marira-de-bleeckere) en Albert Schelstraete.
 
 
 
