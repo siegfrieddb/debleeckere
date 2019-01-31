@@ -1,29 +1,20 @@
 ---
-voornaam: "Sylvain"
+voornaam: "Vitalis"
 achternaam: "De Bleeckere"
-persoon: "1950-sylvain-de-bleeckere"
+persoon: "1879-vitalis-de-bleeckere"
 geslacht: "man"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "1950-09-2X"
-overleden: ""
+geboren: "1879-12-30"
+overleden: "1936-02-01"
 kinderen:
-    - "1978-siegfried-de-bleeckere"
-    - "1982-dorothea-de-bleeckere"
 vader: "19XX-maurice-de-bleeckere"
 moeder: "19XX-flora-X"
 verblijfplaatsen:
-  - Knesselare
-  - Leuven
-  - Hasselt
 ---
-# Sylvain De Bleeckere
-We can here in words put anything we like
-with different sections for the person
+# Vitalis De Bleeckere
 
-## More info
-We can probably use linked names 
-We can autogenerate some info from the frontmatter,
+Vitalis is de vader van 11 kinderen en 24 kleinkinderen.
 
 
 
