@@ -1,29 +1,21 @@
 ---
-voornaam: "Dorothea"
+voornaam: "Jules"
 achternaam: "De Bleeckere"
-persoon: "1982-dorothea-de-bleeckere"
-geslacht: "vrouw"
+persoon: "1920-jules-de-bleeckere"
+geslacht: "man"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "1982-04-14"
-overleden: ""
+geboren: "1920-06-27"
+overleden: "2003-01-11"
 kinderen:
-    - "2014-arne-vermeire"
-    - "2017-tuur-vermeire"
-vader: "1950-sylvain-de-bleeckere"
-moeder: "1952-nicole-van-de-kerkhove"   
+vader: "1879-vitalils-de-bleeckere"
+moeder: "1878-octavia-versluys"   
 verblijfplaatsen:
-  - Hasselt
-  - Leuven
----
-# Dorothea De Bleeckere
-We can here in words put anything we like
-with different sections for the person
+ ---
 
-## More info
-We can probably use linked names 
-We can autogenerate some info from the frontmatter,
-example all known ancestors in line with their dates
+# Jules De Bleeckere
+Jules is het voorlaatste kind en de laatst geboren zoon van [Vitalis](1879-vitalils-de-bleeckere) en [Octavia](1878-octavia-versluys).
+
 
 
 
