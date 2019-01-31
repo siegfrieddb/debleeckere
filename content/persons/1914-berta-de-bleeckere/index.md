@@ -16,7 +16,7 @@ verblijfplaatsen: Knesselare
   - 
 ---
 # Berta De Bleeckere
-Berta was de derde dochter van [Vitalis](1879-vitalis-de-bleeckere) en [Octavia](1878-octavia-versluys). 
+Berta was het zevende kind en de derde dochter van [Vitalis](1879-vitalis-de-bleeckere) en [Octavia](1878-octavia-versluys). 
 
 
 
