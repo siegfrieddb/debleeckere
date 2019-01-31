@@ -1,23 +1,21 @@
 ---
-voornaam: "Gilbert"
-achternaam: "Schelstraete"
-persoon: "19xx-gilbert-schelstraete"
+voornaam: "Roger"
+achternaam: "Van Paemele"
+persoon: "1930-roger-van-paemele"
 geslacht: "man"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "19xx-xx-xx"
-overleden: ""
+geboren: "1930-00-00"
+overleden: "1900-00-00"
 kinderen:
-    - ""
-vader: "19xx-albert-schelstraete"
-moeder: "1914-berta-de-bleeckere"   
+vader: "1000-jozef-van-paemele"
+moeder: "1908-maria-de-bleeckeree"   
 verblijfplaatsen:
   -
 ---
-# Gilbert Schelstraete
-Gilbert is de zoon van [Berta](1914-berta-de-bleeckere) en Albert Schelstraete.
+# Roger Van Paemele
+Roger is de tweede zoon van [Berta](1914-berta-de-bleeckere) en Albert Schelstraete.
 
-## Getuigenis
 
 
 
