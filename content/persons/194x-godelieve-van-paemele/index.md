@@ -1,23 +1,20 @@
 ---
-voornaam: "Gilbert"
-achternaam: "Schelstraete"
-persoon: "19xx-gilbert-schelstraete"
-geslacht: "man"
+voornaam: "Godelieve"
+achternaam: "Van Paemele"
+persoon: "1900-godelieve-van-paemele"
+geslacht: "vrouw"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "19xx-xx-xx"
+geboren: "1900-00-00"
 overleden: ""
 kinderen:
-    - ""
-vader: "19xx-albert-schelstraete"
-moeder: "1914-berta-de-bleeckere"   
+vader: "1900-jozef-van-paemele"
+moeder: "1908-maria-de-bleeckere"   
 verblijfplaatsen:
   -
----
-# Gilbert Schelstraete
-Gilbert is de zoon van [Berta](1914-berta-de-bleeckere) en Albert Schelstraete.
+---Godelieve Van Parmele 
+Godelieve is het vierde en laatste kind van [Maria](1908-maria-de-bleeckere) en Jozef Van Paemele.
 
-## Getuigenis
 
 
 
