@@ -1,29 +1,19 @@
 ---
-voornaam: "Dorothea"
+voornaam: "Maurits"
 achternaam: "De Bleeckere"
-persoon: "1982-dorothea-de-bleeckere"
+persoon: "1916-maurits-de-bleeckere"
 geslacht: "vrouw"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
-geboren: "1982-04-14"
-overleden: ""
+geboren: "1916-08-08"
+overleden: "1990-08-24"
 kinderen:
-    - "2014-arne-vermeire"
-    - "2017-tuur-vermeire"
-vader: "1950-sylvain-de-bleeckere"
-moeder: "1952-nicole-van-de-kerkhove"   
+vader: "1879-vital-de-bleeckere"
+moeder: "1878-octavia-versluys"   
 verblijfplaatsen:
-  - Hasselt
-  - Leuven
 ---
-# Dorothea De Bleeckere
-We can here in words put anything we like
-with different sections for the person
-
-## More info
-We can probably use linked names 
-We can autogenerate some info from the frontmatter,
-example all known ancestors in line with their dates
+# Maurits De Bleeckere
+Maurits is het achtste kind en de vijfde zoon van [Vitalis](1879-vital-de-bleeckere) en [Octavia](1878-octavia-versluy). 
 
 
 
