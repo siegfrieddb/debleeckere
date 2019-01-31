@@ -1,29 +1,19 @@
 ---
-voornaam: "Dorothea"
+voornaam: "Lea"
 achternaam: "De Bleeckere"
-persoon: "1982-dorothea-de-bleeckere"
+persoon: "1922-lea-de-bleeckere"
 geslacht: "vrouw"
 cover: "https://unsplash.it/1280/200/?random?BoldMage"
 author: sylvain
 geboren: "1982-04-14"
-overleden: ""
+overleden: "2012-03-06"
 kinderen:
-    - "2014-arne-vermeire"
-    - "2017-tuur-vermeire"
-vader: "1950-sylvain-de-bleeckere"
-moeder: "1952-nicole-van-de-kerkhove"   
+vader: "1879-vitalis-de-bleeckere"
+moeder: "1878-octavia-versluys"   
 verblijfplaatsen:
-  - Hasselt
-  - Leuven
 ---
-# Dorothea De Bleeckere
-We can here in words put anything we like
-with different sections for the person
-
-## More info
-We can probably use linked names 
-We can autogenerate some info from the frontmatter,
-example all known ancestors in line with their dates
+# Lea De Bleeckere
+Lea is het jongste kind van [Vitalis](1879-vitalis-de-bleeckere) en [Octavia](1878-octavia-versluys).
 
 
 
