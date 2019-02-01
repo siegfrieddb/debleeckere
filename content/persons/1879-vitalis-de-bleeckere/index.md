@@ -8,8 +8,8 @@ author: sylvain
 geboren: "1879-12-30"
 overleden: "1936-02-01"
 kinderen:
-vader: ""
-moeder: ""
+vader: "1000-carolus ludovicus-de-bleeckere"
+moeder: "1000-mathilde-vandevoorde"
 verblijfplaatsen:
 ---
 # Vitalis De Bleeckere
