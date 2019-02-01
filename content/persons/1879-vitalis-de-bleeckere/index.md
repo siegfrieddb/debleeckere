@@ -8,7 +8,7 @@ author: sylvain
 geboren: "1879-12-30"
 overleden: "1936-02-01"
 kinderen:
-vader: "1839-carolus ludovicus-de-bleeckere"
+vader: "1839-carolus-ludovicus-de-bleeckere"
 moeder: "1850-mathilde-vandevoorde"
 verblijfplaatsen:
 ---
