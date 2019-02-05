@@ -217,7 +217,7 @@ exports.createPages = ({ graphql, actions }) => {
         {
           allMarkdownRemark(
               sort: { fields: [frontmatter___date], order: DESC },
-              filter: {fileAbsolutePath: {regex: "/` + e + `/.*\\\\.md$/"}}
+              filter: {fileAbsolutePath: {regex:  "/` + e + `/[^/]*/[^/]*index\.md$/"}}
           ) {
             totalCount
             edges {
@@ -232,7 +232,7 @@ exports.createPages = ({ graphql, actions }) => {
               }
             }
           }
-          voorgrond : allFile (filter: {absolutePath: {regex: "/` + e + `.*voorgrond.jpg/"}} )
+          voorgrond : allFile (filter: {absolutePath: {regex: "/` + e + `.*moza.jpg/"}} )
           {
             edges {
               node{
@@ -326,16 +326,36 @@ exports.createPages = ({ graphql, actions }) => {
           var persoon = e.node.frontmatter.persoon
           var moeder = e.node.frontmatter.moeder
           var vader = e.node.frontmatter.vader
+          if (persoon == null)
+          {
+            console.log("Error Adding persoon: " + JSON.stringify(e.node));
+            return
+          }
+
           var entries = {}
-          entries[persoon] = {  }
-          entries[persoon][ vader] = "vader"
-          entries[persoon][ moeder] = "moeder"
-          entries[vader] =  {  }
-          entries[vader][persoon] = "kind"
-          entries[vader][moeder] = "vrouw"
-          entries[moeder] = {} 
-          entries[moeder][persoon]= "kind"
-          entries[moeder][vader] =  "man" 
+          entries[persoon] = {}
+          if (vader != null)
+          {
+            entries[persoon][ vader] = "vader"
+            entries[vader] =  {}  
+            entries[vader][persoon] = "kind"
+          }
+          if (moeder != null)
+          {
+            entries[persoon][ moeder] = "moeder"
+            entries[moeder] = {} 
+            entries[moeder][persoon] = "kind"
+          }
+          if (vader != null && moeder != null)
+          {
+            entries[vader][moeder] = "vrouw"
+            entries[moeder][vader] =  "man" 
+            
+          }
+        
+
+          
+          
           addToDb(entries)
           
 
@@ -350,7 +370,7 @@ exports.createPages = ({ graphql, actions }) => {
         }
         voorgrondjes = _.map(personResult.data.voorgrond.edges, e =>  {return {
           voorgrond: e.node.childImageSharp,
-          person: e.node.relativePath.slice(0,-14),
+          person: e.node.relativePath.slice(0,-9),
         }});
         vgImgByPerson = _.chain(voorgrondjes)
             .keyBy('person')
@@ -383,7 +403,7 @@ exports.createPages = ({ graphql, actions }) => {
            _.forOwn(relatedDb[persoon], (value,key) => {
              if (key.length > 0)
              {
-              ret.push(key + "/voorgrond.jpg")
+              ret.push(key + "/moza.jpg")
              }   
            })
            console.log("related for " + persoon + ": "+JSON.stringify(ret))

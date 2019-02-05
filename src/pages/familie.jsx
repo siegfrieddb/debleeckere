@@ -119,7 +119,7 @@ leven als peuter op 11 mei 1911.
               </PageSection>
               <PageSection>
                 <Gallery images={_.map(this.props.data.voorgrond.edges, e => e.node.childImageSharp)} 
-                         links= {_.map(this.props.data.voorgrond.edges, e => e.node.relativePath.slice(0,-14))} ></Gallery>
+                         links= {_.map(this.props.data.voorgrond.edges, e => e.node.relativePath.slice(0,-9))} ></Gallery>
               </PageSection>
               <PaginatedContent
                 page={page}
@@ -163,7 +163,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    voorgrond : allFile (filter: {absolutePath: {regex: "/persons.*voorgrond\\.jpg/"}} )
+    voorgrond : allFile (filter: {absolutePath: {regex: "/persons.*moza\\.jpg/"}} )
     {
       edges {
         node{

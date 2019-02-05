@@ -85,7 +85,7 @@ class PostTemplate extends React.Component {
           <h1>Related</h1>
           
           <Gallery images={_.map(this.props.data.related.edges, e => e.node.childImageSharp)} 
-                  links= {_.map(this.props.data.related.edges, e => e.node.relativePath.slice(0,-14))} ></Gallery> 
+                  links= {_.map(this.props.data.related.edges, e => e.node.relativePath.slice(0,-9))} ></Gallery> 
       </PageDocSection>)
     }
     var foreImg = (<div></div>)

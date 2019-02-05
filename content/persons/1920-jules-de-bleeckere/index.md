@@ -11,7 +11,7 @@ kinderen:
 vader: "1879-vitalils-de-bleeckere"
 moeder: "1878-octavia-versluys"   
 verblijfplaatsen:
- ---
+---
 
 # Jules De Bleeckere
 Jules is het voorlaatste kind en de laatst geboren zoon van [Vitalis](1879-vitalils-de-bleeckere) en [Octavia](1878-octavia-versluys).

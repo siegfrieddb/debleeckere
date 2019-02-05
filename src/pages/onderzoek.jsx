@@ -61,6 +61,7 @@ class IndexTemplate extends React.Component {
       next
     } = this.props.pageContext;
     const authorsEdges = this.props.data.authors.edges;
+    const frontEdges = this.props.data.frontmatter.edges; 
 
     return (
       <Layout location={this.props.location}>
@@ -123,7 +124,20 @@ class IndexTemplate extends React.Component {
               </PageSection>
               <PageSection>
                 <Gallery images={_.map(this.props.data.voorgrond.edges, e => e.node.childImageSharp)} 
-                         links= {_.map(this.props.data.voorgrond.edges, e => e.node.relativePath.slice(0,-14))} ></Gallery>
+                         links= {_.map(this.props.data.voorgrond.edges, e => e.node.relativePath.slice(0,-9))} 
+                         captions = {_.map(this.props.data.voorgrond.edges, e => {
+                          const relpath  = e.node.relativePath.slice(0,-9)
+                          var index = _.findIndex(frontEdges, fe => {
+                            return fe.node.fileAbsolutePath.indexOf(relpath) !== -1
+                          });
+                          if (index >=0)
+                          { 
+                            return frontEdges[index].node.frontmatter.gallerij_titel;
+                          }
+                          return relpath;
+                        })
+                      }   
+></Gallery>
               </PageSection>
               
             </div>
@@ -156,6 +170,28 @@ export const pageQuery = graphql`
         }
       }
     }
+    frontmatter: allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC },
+      filter: {fileAbsolutePath: {regex: "/onderzoek/[^/]*/[^/]*index\\.md$/"}})
+      {
+        totalCount
+        edges {
+          
+          node {
+            fileAbsolutePath
+            frontmatter {
+              gallerij_titel
+              
+            }
+            fields {
+              slug
+            }
+            excerpt
+            timeToRead
+            tableOfContents
+            rawMarkdownBody
+          }
+        }
+      }
     voorgrond : allFile (filter: {absolutePath: {regex: "/onderzoek.*moza\\.jpg/"}} )
     {
       edges {
