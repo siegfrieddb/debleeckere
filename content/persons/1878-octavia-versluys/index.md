@@ -1,7 +1,7 @@
 ---
 voornaam: "Octavie"
 achternaam: "Versluys"
-persoon: "1878-octavie-versluys"
+persoon: "1878-octavia-versluys"
 geslacht: "vrouw"
 geboren: "1878-11-10"
 overleden: "1963-08-26"

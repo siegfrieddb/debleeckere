@@ -82,7 +82,7 @@ class PostTemplate extends React.Component {
     if (this.props.data.related)
     { relatedSection = (
       <PageDocSection>
-          <h1>Related</h1>
+          <h1>Verwand met</h1>
           
           <Gallery images={_.map(this.props.data.related.edges, e => e.node.childImageSharp)} 
                   links= {_.map(this.props.data.related.edges, e => e.node.relativePath.slice(0,-9))} ></Gallery> 
