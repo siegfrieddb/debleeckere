@@ -4,6 +4,8 @@ Octavia huwde met Vitalis. De bruidegom heeft de brug van Sint-Joris-ten-Distel 
 
 Het bewaarde trouwboekje van Octavia en Vitalis vermeld het volgende: '_Afgeleverd te Knesselare den 30 Mei 1906_', terwijl daaronder de Latijnse zin '_Contraxerunt matrimonium in Parochia de Knesselare die 31 mensis maii 1906_'. Dat betekent dat ze einde mei - in het Latijn _maii_ - in volle lente, zijn getrouwd. Eerst in het gemeentehuis, en de dag daarop in de kerk. 
 
+![detailh](detailh.jpg)
+
 Leerrijk is ook dat in het trouwboekje de betekening van het burgerlijk huwelijk in het Nederlands gebeurt: '_Afgeleverd..._', terwijl het kerkgelijk huwelijk in het Latijn is vermeld. De voertaal van de Kerk was in die tijd nog helemaal in het Latijn. '_Contraxerunt_' was de geijkte uitdrukking om mee te delen dat de betrokkenen '_het huwelijk waren aangegaan_'. 
 
 Er is nog een opvallend detail. Niettegenstaande de grondwet van de nog jonge, moderne staat van het koninkrijk België de scheiding van kerk en staat voorzag, vermeldt hier het burgerlijk trouwboekje, een wettelijk staatsdocument, toch ook officieel het kerkelijk huwelijk. In 1906 kende vooral Vlaanderen de gestage heropleving van de katholieke Kerk. Dat kreeg nadien het label ['het rijke Roomse leven'](bakermat) 
