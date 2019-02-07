@@ -4,7 +4,7 @@ Op 1 februari 1936 ging er een donkere wolk over het huis van Octavia en [Vitali
 
 ## Leven wordt overleven
 
-In 1936 heerstte in de westerse wereld wat de historici de [Grote Depressie](https://nl.wikipedia.org/wiki/Crisis_van_de_jaren_30) noemen. Die was ingezet met de grote beurskrach van Wall Street, NY, in 1929. Tegelijkertijd broedde het Hitlerregime in nazi-Duitsland op een nieuwe wereldoorlog. Vitalis heeft de Tweede Wereldoorlog niet meer meegemaakt, maar Octavia wel. 
+In 1936 heerstte in de westerse wereld wat de historici de [Grote Depressie](https://nl.wikipedia.org/wiki/Crisis_van_de_jaren_30) noemen. Die was ingezet met de grote beurskrach van Wall Street, NY, in 1929. In de Europese landen moest men nog herstellen van de gevolgen van de Grote Oorlog (1914-1918), later de Eerste Wereldoorlog genoemd. De Grote Depressie zette een grote rem op de langzame wederopbouw. Investeringen bleven uit, de inflatie verminderde de waarde van het spaargeld, de werkloosheid was heel groot, de prijzen van levenswaren stegen. Het leven werd moeilijker. Tegelijkertijd broedde het Hitlerregime in nazi-Duitsland op een nieuwe wereldoorlog. Vitalis heeft de Tweede Wereldoorlog niet meer meegemaakt, maar Octavia wel.  
 
 
 ## Molenweg 82
