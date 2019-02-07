@@ -9,10 +9,9 @@ In 1936 heerstte in de westerse wereld wat de historici de [Grote Depressie](htt
 
 ## Molenwegel 82
 
-![]()
-![mgl](mgl.jpg)
+![mlw](mlw.jpg)
 
-Octavia en haar nog inwonende zonen, Alfons en Omer, verhuisden na de Tweede Wereldoorlog, meer bepaald in 1950 naar een zijstraat van de Hoekestraat Molenwegel 82. Het is anno 2019 nog steeds een zeer smalle, doodlopende steeg, met op het einde twee relatief kleine landelijkse woningen. Haar zoon Maurits en zijn vrouw Flora Verscheure woonden al in het huis ernaast, nummer 80, sinds het voorjaar 1942.
+Octavia en haar nog inwonende zonen, [Alfons]() en [Omer](), verhuisden na de Tweede Wereldoorlog, meer bepaald in 1950 naar een zijstraat van de Hoekestraat Molenwegel 82. Het is anno 2019 nog steeds een zeer smalle, doodlopende steeg, met op het einde twee relatief kleine landelijkse woningen. Haar zoon Maurits en zijn vrouw Flora Verscheure woonden al in het huis ernaast, nummer 80, sinds het voorjaar 1942. Dat huurhuis is het rechterhuis op de luchtfotot. Het huis nr. 82 is het linkerhuis. Octavia heeft het huis gekocht met de opbrengst van het eerste huis in Hoekestraat 148 dat ze had verkocht. IN dat huis heeft ze, goed omringd door haar twee ongehuwde zonen en in de nabijheid van haar gehuwde dochters [Maria]() en [Irma](), en haar gehuwde zonen [Maurits] en [Albert](), nog een dertien jaar kunnen leven. Ze is in haar huis overleden.
 
 
 
