@@ -13,7 +13,7 @@ author: sylvain
 
 ![](voorgrond.jpg)
 
-Octavia was gehuwd met [Vitalis](1879-vitalis-de-bleeckere) De Bleeckere. Ze werd de moeder van 11 kinderen en de grootmoeder van 24 kleinkinderen.
+Octavia huwde met [Vitalis](1879-vitalis-de-bleeckere) De Bleeckere. Ze werd de moeder van 11 kinderen en de grootmoeder van 24 kleinkinderen.
 
 
 
