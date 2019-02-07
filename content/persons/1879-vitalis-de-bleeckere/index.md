@@ -16,7 +16,7 @@ verblijfplaatsen:
 
 ![](voorgrond.jpg)
 
-Vitalis is gehuwd met [Octovia](1878-octavia-versluys) Versluys. Hij is de vader van 11 kinderen en de grootvader van 24 kleinkinderen.
+Vitalis huwde met [Octovia](1878-octavia-versluys) Versluys. Hij werd de vader van 11 kinderen en de grootvader van 24 kleinkinderen.
 
 
 
