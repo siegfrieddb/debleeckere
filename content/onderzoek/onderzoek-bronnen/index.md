@@ -22,17 +22,17 @@ Voor deze site zijn de bevoorrechte getuigen onmisbaar. Dat zijn hier eerst en v
 
 Vandaag staan er heel veel en belangrijke bronnen ter beschikking van wie wil op zoek gaan naar het eigen verleden. Ziehier een korte voorstelling van de belangrijkste onderzoeksbronnen die voor de uitwerking van deze site van grote waarde zijn. De volgende sites en publicaties vormen belangrijke bronnen voor deze site.
 
-[Erfgoed Vlaanderen](www.inventarisonroerenderfgoedvlaanderen.be). 
+>[Erfgoed Vlaanderen](www.inventarisonroerenderfgoedvlaanderen.be). 
 
-[Familiekunde-vlaanderen](www.familiekunde-vlaanderen.be)
+>[Familiekunde-vlaanderen](www.familiekunde-vlaanderen.be)
 
-[Het Rijksarchief](www.arch.be)
+>[Het Rijksarchief](www.arch.be)
 
-[Erfgoedbank Meetjesland](www.ergoedbankmeetsjesland.be)
+>[Erfgoedbank Meetjesland](www.ergoedbankmeetsjesland.be)
 
-[Knesselare Nieuws](https://knesselaarsnieuws.net)
+>[Knesselare Nieuws](https://knesselaarsnieuws.net)
 
-[Forum Eerste Wereldoorlog](http://www.forumeerstewereldoorlog.nl)
+>[Forum Eerste Wereldoorlog](http://www.forumeerstewereldoorlog.nl)
 
 
 
