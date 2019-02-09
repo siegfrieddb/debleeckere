@@ -119,7 +119,8 @@ class IndexTemplate extends React.Component {
               Ze kennen geen gezichten, geen verhalen. Hier primeren de gezichten en de verhalen.
               Het onderzoek is hier een middel om die gezichten en die verhalen te ontdekken,
               ook al blijven de antwoorden op de vragen soms beperkt 
-              en is er verder kritisch onderzoek naar relevante bronnen vereist.  
+              en is er verder kritisch onderzoek naar relevante bronnen vereist. In de aparte rubriek Bronnen
+              worden alle bronnen die een rol spelen in de uitbouw van de site samengebracht en voorgesteld. 
               </div>
               </PageSection>
               <PageSection>

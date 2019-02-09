@@ -6,7 +6,9 @@ date: "2019-01-25"
 
 ![](./achtergrond.jpg)
 
-Onderzoek zonder bronnen is onbestaande. Dat geldt bij uitstek voor genealogisch onderzoek en historisch onderzoek in het algemeen. Op de diverse pagina's van deze site is er geen direct bronvermelding van beelden en teksten. Heel wat actuele beelden zijn door [Sylvain](1950-sylvain-de-bleeckere) zelf gemaakt, sommige ook door [Emeric](1946-emeric-bleeckere). Sylvain schrijft de teksten en redigeert de teksten van anderen. Die worden wel met name genoemd. Ook de namen van getuigenissen worden met name genoemd. Letterlijke citaten worden cursief en met aanhaling gepubliceerd. De bronnen voor teksten en beelden die verder reiken dan de data van de familie De Bleeckere-Versluys worden hier in deze rubriek vermeld en voorgesteld. 
+Onderzoek zonder bronnen is onbestaande. Dat geldt bij uitstek voor genealogisch onderzoek en historisch onderzoek in het algemeen. Op de diverse pagina's van deze site is er geen direct bronvermelding van beelden en teksten. Heel wat actuele beelden zijn door [Sylvain](1950-sylvain-de-bleeckere) zelf gemaakt, sommige ook door [Emeric](1946-emeric-bleeckere).
+
+Sylvain is de auteur van de teksten. Hij verzorgt de eindredactie van teksten van anderen die altijd met name worden genoemd. Ook de namen van getuigen worden altijd vermeld. Wanneer het iemand van de drie generaties De Bleeckere-Versluys betreft, wordt enkel de voornaam vermeld met direct een link naar de pagina van die persoon. Letterlijke citaten worden cursief en met aanhaling gepubliceerd. De bronnen voor teksten en beelden die verder reiken dan de data van de familie De Bleeckere-Versluys worden hier in deze rubriek onder '_Publieke bronnen_' vermeld en voorgesteld. 
 
 ## Bevoorrechte getuigen
 
@@ -34,4 +36,4 @@ Vandaag staan er heel veel en belangrijke bronnen ter beschikking van wie wil op
 
 >[Forum Eerste Wereldoorlog](http://www.forumeerstewereldoorlog.nl) verzamelt en ontsluit de data die betrekking hebben op de Grote Oorlog.
 
-De archieven van de volgende gemeenten bevatten data die voor de familie De Bleeckere-Versluys zeer belangrijk zijn: [Gemeente Beernem](https://www.beernem.be/product/1287/archief-van-de-gemeente) bevat het archief van Sint-Joris-ten-Distel, [Gemeente Aalter](https://www.aalter.be/archief) bevat het archief van de gemeenten Knesselare en Aalter.
+>De archieven van de volgende gemeenten bevatten data die voor de familie De Bleeckere-Versluys zeer belangrijk zijn: [Gemeente Beernem](https://www.beernem.be/product/1287/archief-van-de-gemeente) bevat het archief van Sint-Joris-ten-Distel, [Gemeente Aalter](https://www.aalter.be/archief) bevat het archief van de gemeenten Knesselare en Aalter.
