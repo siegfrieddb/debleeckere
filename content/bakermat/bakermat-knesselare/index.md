@@ -4,7 +4,6 @@ date: "2019-01-25"
 titel: "Knesselare"
 gallerij_titel: "Knesselare"
 ---
-# Knesselare
 
 ![](./achtergrond.jpg)
 
