@@ -18,7 +18,7 @@ Voor deze site zijn de bevoorrechte getuigen onmisbaar. Dat zijn hier eerst en v
 
  Sarah, de oudste dochter van [Sylvain](), en haar dochter Thirza die aan de Rijksuniversiteit geschiedenis studeert, ondersteunt het onderzoek naar digitale en geschreven data over de historische en geografische context, eigen aan de familie De Bleeckere-Versluys. 
 
-## Publieke bronnen
+## Online bronnen
 
 Vandaag staan er heel veel en belangrijke bronnen ter beschikking van wie wil op zoek gaan naar het eigen verleden. Ziehier een korte voorstelling van de belangrijkste onderzoeksbronnen die voor de uitwerking van deze site van grote waarde zijn. De volgende sites en publicaties vormen belangrijke bronnen voor deze site.
 
@@ -35,3 +35,11 @@ Vandaag staan er heel veel en belangrijke bronnen ter beschikking van wie wil op
   [Forum Eerste Wereldoorlog](http://www.forumeerstewereldoorlog.nl) verzamelt en ontsluit de data die betrekking hebben op de Grote Oorlog.
 
   De archieven van de volgende gemeenten bevatten data die voor de familie De Bleeckere-Versluys zeer belangrijk zijn: [Gemeente Beernem](https://www.beernem.be/product/1287/archief-van-de-gemeente) bevat het archief van Sint-Joris-ten-Distel, [Gemeente Aalter](https://www.aalter.be/archief) bevat het archief van de gemeenten Knesselare en Aalter.
+
+  ## Geschreven bronnen
+
+  Luc Stockman, _Geschiedenis van Aalter_. Aalter, Gemeentebestuur, 1979.
+
+    Dit is het belangrijkste, wetenschappelijke werk over de geschiedenis van de gemeente Aalter, met zijn drie dorpen: Aalter-Centrum, Sint-Maria-Aalter en Aalter-Brug. Het is geschreven na grondige studie van de toen beschikbare studies in opdracht van het schepencollege naar aanleiding van het twintigjarig ambtsjubeleum (1915-1979) van burgermeester Jan De Crem. Het lijvige boek verscheen in 1979.
+
+
