@@ -32,6 +32,10 @@ Vandaag staan er heel veel en belangrijke bronnen ter beschikking van wie wil op
 
   [Knesselare Nieuws](https://knesselaarsnieuws.net) heeft als ondertitel '_Knesselare van nu en toen_'is de persoonlijke site van Jan Van de Casteele. Het combineert een blog over Knesselare met een archief- en onsluitingsfunctie van alle data over Knesselare. De site heeft een rubriek '_Gazettenpraat 1850-2015_'.
 
+  [Geschiedenis van Aalter](https://geschiedenisvanaalter.blogspot.com/?view=snapshot) is een de persoonlijke website van Peter Laroy die als Aalterse historicus deze site verzorgt. De site is in zekere zin een blog over het verleden van Aalter.
+
+  [Erfgoed Aalter](www.ergoedaalter.be) is de website van de nieuwe erfgoedvereniging die na de fusie met Knesselare en Aalter op 1 januari 2019 is opgericht. De vereniging is ontstaan uit de omvorming van de voormalige Aalterse _Heemkundige Kring Arthur Verhoustraete_. Deze persoon heeft voor het archief van Aalter pionierswerk verricht. De nieuwe vereniging geeft het trimesterieel tijdschrift _Erfgoed Aalter_ uit.
+
   [Forum Eerste Wereldoorlog](http://www.forumeerstewereldoorlog.nl) verzamelt en ontsluit de data die betrekking hebben op de Grote Oorlog.
 
   De archieven van de volgende gemeenten bevatten data die voor de familie De Bleeckere-Versluys zeer belangrijk zijn: [Gemeente Beernem](https://www.beernem.be/product/1287/archief-van-de-gemeente) bevat het archief van Sint-Joris-ten-Distel, [Gemeente Aalter](https://www.aalter.be/archief) bevat het archief van de gemeenten Knesselare en Aalter.
