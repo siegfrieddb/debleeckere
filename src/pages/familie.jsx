@@ -61,7 +61,7 @@ class IndexTemplate extends React.Component {
       next
     } = this.props.pageContext;
     const authorsEdges = this.props.data.authors.edges;
-
+    const frontEdges = this.props.data.frontmatter.edges;
     return (
       <Layout location={this.props.location}>
         <Drawer className="home-template" isOpen={this.state.menuOpen}>
@@ -119,7 +119,21 @@ leven als peuter op 11 mei 1911.
               </PageSection>
               <PageSection>
                 <Gallery images={_.map(this.props.data.voorgrond.edges, e => e.node.childImageSharp)} 
-                         links= {_.map(this.props.data.voorgrond.edges, e => e.node.relativePath.slice(0,-9))} ></Gallery>
+                         links= {_.map(this.props.data.voorgrond.edges, e => e.node.relativePath.slice(0,-9))} 
+                          captions = {_.map(this.props.data.voorgrond.edges, e => {
+                          const relpath  = e.node.relativePath.slice(0,-9)
+                          console.log(relpath)
+                          var index = _.findIndex(frontEdges, fe => {
+                            return fe.node.fileAbsolutePath.indexOf(relpath) !== -1
+                          });
+                          if (index >=0)
+                          { 
+                            return frontEdges[index].node.frontmatter.voornaam +" " + frontEdges[index].node.frontmatter.achternaam;
+                          }
+                          return relpath;
+                        })}         
+                        >
+                </Gallery>
               </PageSection>
               <PaginatedContent
                 page={page}
@@ -163,6 +177,22 @@ export const pageQuery = graphql`
         }
       }
     }
+    frontmatter: allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC },
+      filter: {fileAbsolutePath: {regex: "/persons/[^/]*/[^/]*index\\.md$/"}})
+      {
+        totalCount
+        edges {
+          
+          node {
+            fileAbsolutePath
+            frontmatter {
+              voornaam
+              achternaam
+              
+            }
+          }
+        }
+      }
     voorgrond : allFile (filter: {absolutePath: {regex: "/persons.*moza\\.jpg/"}} )
     {
       edges {

@@ -63,6 +63,8 @@ exports.createPages = ({ graphql, actions }) => {
     const bakermatPage = path.resolve("src/templates/documenten.jsx");
     const onderzoekPage = path.resolve("src/templates/documenten.jsx");
     const documentenPage = path.resolve("src/templates/documenten.jsx");
+    const personDetailPage = path.resolve("src/templates/person_detail.jsx");
+    
       
     //const personIndexPage = path.resolve("src/templates/personIndex.jsx");
 
@@ -212,7 +214,28 @@ exports.createPages = ({ graphql, actions }) => {
           });
         });
       });
-    
+
+    var subsectionQueryStr= 
+    `
+    {
+      allMarkdownRemark(
+          sort: { fields: [frontmatter___date], order: DESC },
+          filter: {fileAbsolutePath: {regex:  "/persons/.+mozaik/[^/]*\.md$/"}}
+      ) {
+        totalCount
+        edges {
+          node {
+            
+            fields {
+              slug
+            }
+            excerpt
+            timeToRead
+          }
+        }
+      }
+    }`;
+
     var queryTemplate =  (e,fields) => {return `
         {
           allMarkdownRemark(
@@ -272,18 +295,32 @@ exports.createPages = ({ graphql, actions }) => {
     var bakermatQuery = graphql(queryTemplate("bakermat",otherFields));
     var onderzoekQuery = graphql(queryTemplate("onderzoek",otherFields));
     var documentenQuery = graphql(queryTemplate("documenten",otherFields));
+    var subsectionQuery = graphql(subsectionQueryStr);
     
     
     
-    resolve(Promise.all([postQuery, personQuery, bakermatQuery, onderzoekQuery, documentenQuery]).then(  values  => {
+    resolve(Promise.all([postQuery, personQuery, bakermatQuery, onderzoekQuery, documentenQuery,subsectionQuery]).then(  values  => {
         result = values[0]
         personResult = values[1]
         bakermatResult = values[2]
         onderzoekResult = values[3]
         documentenResult = values[4]
+        subsectionResult = values[5]
 
+        var subSectionDb = {}
+        _.forEach(subsectionResult.data.allMarkdownRemark.edges, e => {
+          var slug = e.node.fields.slug
+          var mainSlugEnd  = slug.indexOf('/mozaik/') 
+          var mainSlug = slug.slice(0,mainSlugEnd+1) 
+          if(!(mainSlug in subSectionDb))
+          {
+            subSectionDb[mainSlug ] = []
+          }
+          subSectionDb[mainSlug ].push(slug)
+          console.log(mainSlug +" " + slug )
+        });
+        
 
-        console.log("Creating person pages")
         //image fragments are not available, check them at
         //https://github.com/gatsbyjs/gatsby/blob/master/packages/gatsby-transformer-sharp/src/fragments.js
 
@@ -409,6 +446,47 @@ exports.createPages = ({ graphql, actions }) => {
            console.log("related for " + persoon + ": "+JSON.stringify(ret))
            return ret
         }
+        var getSubSection = (persoon) =>
+        {
+           var slug = '/' + persoon + '/' 
+           if (!(slug in subSectionDb))
+           {
+              return []
+           }
+           var ret = []
+           _.forOwn(subSectionDb[slug], (value,key) => {
+            if (key.length > 0)
+            {
+              ret.push(value.slice(1) + ".jpg")
+            }
+          
+          })
+          console.log("check subsections for " + persoon + ": "+JSON.stringify(ret))
+          return ret
+        }
+        var getSubSectionFromDetail = (detail_slug) =>
+        {
+            var idx = detail_slug.indexOf("/mozaik/");
+            if (idx > 0)
+            {
+              var persoon = detail_slug.slice(1, idx)
+              return getSubSection(persoon)
+            } 
+            return []
+            
+        }
+        var getPersonFromDetail = (detail_slug) =>
+        {
+            var idx = detail_slug.indexOf("/mozaik/");
+            if (idx > 0)
+            {
+              var persoon = detail_slug.slice(1, idx)
+              console.log("pers from det: " + persoon)
+              return persoon
+            }
+            return null
+            
+        }
 
         // Creates all pages
         createLinkedPages({
@@ -423,10 +501,11 @@ exports.createPages = ({ graphql, actions }) => {
               vader: getPersonInfo(edge.node.frontmatter.vader),
               moeder_slug: "/" + edge.node.frontmatter.moeder, //+ getPersonInfo( edge.node.frontmatter.moeder).slug,
               vader_slug: "/" + edge.node.frontmatter.vader, //+ getPersonInfo(edge.node.frontmatter.vader).slug,
-              children: [],
+              
               achtergrond: edge.node.fields.slug.slice(1) + "/achtergrond.jpg",
               voorgrond: edge.node.fields.slug.slice(1) + "/voorgrond.jpg",
-              related: getRelated(edge.node.frontmatter.persoon)
+              related: getRelated(edge.node.frontmatter.persoon),
+              subsection: getSubSection(edge.node.frontmatter.persoon)
             }
           }),
           circular: true
@@ -443,7 +522,6 @@ exports.createPages = ({ graphql, actions }) => {
               path: edge.node.fields.slug,
               context: {
                 slug: edge.node.fields.slug,
-
                 achtergrond: edge.node.fields.slug.slice(1) + "/achtergrond.jpg",
                 voorgrond: edge.node.fields.slug.slice(1) + "/voorgrond.jpg",
                 related: []
@@ -451,10 +529,26 @@ exports.createPages = ({ graphql, actions }) => {
             }),
             circular: true
           });
-          console.log(JSON.stringify(bakermatResult.data.allMarkdownRemark.edges))
-          createOtherPages(bakermatResult.data.allMarkdownRemark.edges, bakermatPage)
-          createOtherPages(onderzoekResult.data.allMarkdownRemark.edges, onderzoekPage)
-          createOtherPages(documentenResult.data.allMarkdownRemark.edges, documentenPage)
+          var createPersonDetailSubSectionPages= (edges, page) =>
+          createLinkedPages({
+            createPage,
+            edges: edges,
+            component: page,
+            edgeParser: edge => ({
+              path: edge.node.fields.slug,
+              context: {
+                slug: edge.node.fields.slug,
+                moza: getPersonFromDetail(edge.node.fields.slug) + "/voorgrond.jpg",
+                subsection: getSubSectionFromDetail(edge.node.fields.slug),
+                personSlug: "/" + getPersonFromDetail(edge.node.fields.slug)
+              }
+            }),
+            circular: true
+          });
+          createOtherPages(bakermatResult.data.allMarkdownRemark.edges, bakermatPage, [])
+          createOtherPages(onderzoekResult.data.allMarkdownRemark.edges, onderzoekPage, [])
+          createOtherPages(documentenResult.data.allMarkdownRemark.edges, documentenPage, [])
+          createPersonDetailSubSectionPages(subsectionResult.data.allMarkdownRemark.edges, personDetailPage)
           
       }));
   });

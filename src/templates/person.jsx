@@ -79,13 +79,24 @@ class PostTemplate extends React.Component {
     
     
     var relatedSection = ""
+    var subSection = ""
     if (this.props.data.related)
-    { relatedSection = (
+    { 
+      relatedSection = (
       <PageDocSection>
           <h1>Verwand met</h1>
           
           <Gallery images={_.map(this.props.data.related.edges, e => e.node.childImageSharp)} 
                   links= {_.map(this.props.data.related.edges, e => e.node.relativePath.slice(0,-9))} ></Gallery> 
+      </PageDocSection>)
+    }
+    if (this.props.data.subsection)
+    { 
+      subSection   = (
+      <PageDocSection>
+          <h1>Onderdelen</h1>
+          <Gallery images={_.map(this.props.data.subsection.edges, e => e.node.childImageSharp)} 
+                  links= {_.map(this.props.data.subsection.edges, e => e.node.relativePath.slice(0,-4))} ></Gallery> 
       </PageDocSection>)
     }
     var foreImg = (<div></div>)
@@ -150,7 +161,8 @@ class PostTemplate extends React.Component {
                 <section  className="post-content"
                 dangerouslySetInnerHTML={{ __html: persoon.html }}></section>
                </PageDocSection >
-              {relatedSection}
+               {subSection}
+               {relatedSection}
                
               <PostFooter>
                 {/*
@@ -183,7 +195,7 @@ class PostTemplate extends React.Component {
 
 /* eslint no-undef: "off" */
 export const pageQuery = graphql`
-  query PersoonBySlug($slug: String!, $vader_slug: String, $moeder_slug: String, $voorgrond: String, $achtergrond : String, $related: [String]) {
+  query PersoonBySlug($slug: String!, $vader_slug: String, $moeder_slug: String, $voorgrond: String, $achtergrond : String, $related: [String], $subsection: [String]) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
       timeToRead
@@ -270,12 +282,15 @@ export const pageQuery = graphql`
         }
       }
     }
-    related:  allFile (filter:{relativePath : {in : $related}})
+    subsection:  allFile (filter:{relativePath : {in : $subsection}})
     {
-      edges {
-        node {
+      edges 
+      {
+        node 
+        {
           relativePath
-          childImageSharp {
+          childImageSharp 
+          {
             fixed(width: 250, height: 250, cropFocus: ATTENTION, duotone: { highlight: "#9ACCCD", shadow: "#000000",opacity: 50}) {
               ...GatsbyImageSharpFixed
             } 
@@ -285,8 +300,28 @@ export const pageQuery = graphql`
           }
         }
       }
+    }
+    related:  allFile (filter:{relativePath : {in : $related}})
+    {
+      edges 
+      {
+        node 
+        {
+          relativePath
+          childImageSharp 
+          {
+            fixed(width: 250, height: 250, cropFocus: ATTENTION, duotone: { highlight: "#9ACCCD", shadow: "#000000",opacity: 50}) 
+            {
+              ...GatsbyImageSharpFixed
+            } 
+            fluid(maxWidth: 1000)
+            {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+      }
     } 
-    
   }
 `;
 
