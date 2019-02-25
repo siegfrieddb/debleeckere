@@ -72,6 +72,11 @@ class DocTemplate extends React.Component {
       config.blogAuthorId
     );
       console.log(date)
+    var bckfluid = null
+    if(this.props.data.backImg)
+    {
+      bckfluid = this.props.data.backImg.edges[0].node.childImageSharp.fluid
+    }
     return (
   	<Layout location={this.props.location}>
       <Drawer className="post-template" isOpen={this.state.menuOpen}>
@@ -84,7 +89,7 @@ class DocTemplate extends React.Component {
         <Navigation config={config} onClose={this.handleOnClose} />
         
         <SiteWrapper>
-          <MainHeaderImg className="post-head" fluid={this.props.data.backImg.edges[0].node.childImageSharp.fluid} >
+          <MainHeaderImg className="post-head" fluid={bckfluid} >
            
                   <div className="title-box">
                   <div className="title-cell">

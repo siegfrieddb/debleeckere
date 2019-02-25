@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-casper",
-  "description": "GatsbyJS starter that themed with the Casper theme from Ghost.",
-  "version": "1.0.7",
-  "author": "Hays Clark <hays.clark@gmail.com>",
+  "name": "debleeckere",
+  "description": "De Bleeckere Site",
+  "version": "1.0.8",
+  "author": "Siegfried De Bleeckere <name@gmail.com>",
   "dependencies": {
     "babel-eslint": "^10.0.1",
     "classnames": "^2.2.6",
@@ -61,10 +61,7 @@
     "write-good": "^0.13.1"
   },
   "keywords": [
-    "gatsby",
-    "blog",
-    "casper",
-    "starter"
+    "debleeckere"
   ],
   "license": "MIT",
   "main": "n/a",
@@ -81,7 +78,8 @@
     "lint:md": "remark content/posts/",
     "write-good": "write-good $(glob 'content/posts/**/*.md')",
     "format:js": "prettier '**/*.{js,jsx}' --write",
-    "release": "standard-version -a"
+    "release": "standard-version -a",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "remarkConfig": {
     "plugins": [

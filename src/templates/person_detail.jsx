@@ -22,6 +22,7 @@ import Disqus from "../components/Disqus/Disqus";
 import Layout from "../components/layout";
 import Img from "gatsby-image"
 import Gallery from "../components/Gallery/Gallery";
+import _ from "lodash";
 import "./documenten.css"
 
 const formatReadPersoon = value => ({
@@ -61,12 +62,18 @@ class PostTemplate extends React.Component {
   render() {
 	const { slug } = this.props.pageContext;
     const persoon = this.props.data.markdownRemark;
-    const { voornaam, achternaam } = this.props.data.person.frontmatter; //this.props.data.person.edges[0].markdownRemark.persoon;
+    var  voornaam = ""
+    var  achternaam = ""   
+    if (this.props.data.person)
+    {
+        voornaam = this.props.data.person.frontmatter.voornaam
+        achternaam = this.props.data.person.frontmatter.achternaam
+    }
     const className = "persoon"
     const subsectionIdx = slug.indexOf("/mozaik/")
     const subsectionTitle = slug.slice(subsectionIdx+8)
     console.log("data = " + JSON.stringify(this.props.data.person) )
-    _.map(this.props.data.subsection.edges, e => console.log(e.node.relativePath.slice(0,-4)))
+    
     var subSection = ""
   
     if (this.props.data.subsection)

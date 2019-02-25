@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import "./Gallery.css";
 import Img from "gatsby-image"
 import {Link} from "gatsby"
+import _ from "lodash";
 
 class Gallery extends Component {
   render() {
