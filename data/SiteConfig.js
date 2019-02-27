@@ -8,7 +8,7 @@ module.exports = {
   siteLogo:
     "images/debleeckere-logo.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
   siteUrl: " https://siegfrieddb.github.io", // Domain of your website without pathPrefix.
-  pathPrefix: "/debleeckere", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
+  pathPrefix: "", //  /debleeckere  Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
     "Een site over de familienaam De Bleeckere.", // Website description used for RSS feeds/meta description tag.
   siteCover:
