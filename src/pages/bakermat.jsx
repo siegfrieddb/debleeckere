@@ -1,9 +1,7 @@
 import { graphql } from "gatsby";
 import React from "react";
 import Helmet from "react-helmet";
-import { Link } from "react-scroll";
-import { Link as GatsbyLink } from "gatsby"
-import PostListing from "../components/PostListing/PostListing";
+import { Link } from "react-scroll";  
 import SEO from "../components/SEO/SEO";
 import config from "../../data/SiteConfig";
 import Drawer from "../components/Drawer/Drawer";
@@ -12,14 +10,10 @@ import Navigation from "../components/Navigation/Navigation";
 import SiteWrapper from "../components/SiteWrapper/SiteWrapper";
 import Footer from "../components/Footer/Footer";
 import PageSection from "../components/PageSection/PageSection";
-import MainHeader from "../components/MainHeader/MainHeader";
+import MainHeader2 from "../components/MainHeader2/MainHeader2";
 import MainNav from "../components/MainNav/MainNav";
-import BlogLogo from "../components/BlogLogo/BlogLogo";
 import MenuButton from "../components/MenuButton/MenuButton";
 import PageTitle from "../components/PageTitle/PageTitle";
-import PageDescription from "../components/PageDescription/PageDescription";
-import PaginatedContent from "../components/PaginatedContent/PaginatedContent";
-import SocialMediaIcons from "../components/SocialMediaIcons/SocialMediaIcons";
 import Layout from "../components/layout";
 import Gallery from "../components/Gallery/Gallery";
 import _ from "lodash";
@@ -77,8 +71,8 @@ class IndexTemplate extends React.Component {
             {/* All the main content gets inserted here */}
             <div className="home-template">
               {/* The big featured header */}
-              <MainHeader cover={config.pathPrefix + "/images/bakermat.jpg"}>
-                <MainNav overlay={config.pathPrefix + "/images/bakermat.jpg"}>
+              <MainHeader2 cover={ this.props.data.frontImg.childImageSharp}>
+                <MainNav >
                   <MenuButton
                     navigation={config.siteNavigation}
                     onClick={this.handleOnClick}
@@ -101,7 +95,7 @@ class IndexTemplate extends React.Component {
                 >
                   <span className="hidden">Scroll Down</span>
                 </Link>
-              </MainHeader>
+              </MainHeader2>
               <PageSection>
               <div name="content">
               Het domein Bakermat geeft een concreet beeld van een specifieke grensstreek
@@ -183,6 +177,15 @@ export const pageQuery = graphql`
           image
           url
           bio
+        }
+      }
+    }
+
+    frontImg: file(relativePath: { eq: "bakermat.jpg" }) {
+      childImageSharp {
+
+        fluid{
+          ...GatsbyImageSharpFluid
         }
       }
     }

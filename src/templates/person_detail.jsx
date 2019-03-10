@@ -64,7 +64,7 @@ class PostTemplate extends React.Component {
     const persoon = this.props.data.markdownRemark;
     var  voornaam = ""
     var  achternaam = ""   
-    if (this.props.data.person)
+    if (this.props.data.person.frontmatter)
     {
         voornaam = this.props.data.person.frontmatter.voornaam
         achternaam = this.props.data.person.frontmatter.achternaam

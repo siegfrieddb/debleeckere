@@ -11,7 +11,7 @@ import Navigation from "../components/Navigation/Navigation";
 import SiteWrapper from "../components/SiteWrapper/SiteWrapper";
 import Footer from "../components/Footer/Footer";
 import PageSection from "../components/PageSection/PageSection";
-import MainHeader from "../components/MainHeader/MainHeader";
+import MainHeader2 from "../components/MainHeader2/MainHeader2";
 import MainNav from "../components/MainNav/MainNav";
 import BlogLogo from "../components/BlogLogo/BlogLogo";
 import MenuButton from "../components/MenuButton/MenuButton";
@@ -20,6 +20,7 @@ import PageDescription from "../components/PageDescription/PageDescription";
 import PaginatedContent from "../components/PaginatedContent/PaginatedContent";
 import SocialMediaIcons from "../components/SocialMediaIcons/SocialMediaIcons";
 import Layout from "../components/layout";
+import Img from "gatsby-image"
 import "./index.css"
 class IndexTemplate extends React.Component {
   state = {
@@ -73,8 +74,9 @@ class IndexTemplate extends React.Component {
             {/* All the main content gets inserted here */}
             <div className="home-template">
               {/* The big featured header */}
-              <MainHeader cover={config.pathPrefix + config.siteCover}>
-                <MainNav overlay={config.pathPrefix + config.siteCover}>
+              
+              <MainHeader2 cover={this.props.data.frontImg.childImageSharp}>
+                <MainNav >
                   <MenuButton
                     navigation={config.siteNavigation}
                     onClick={this.handleOnClick}
@@ -101,7 +103,7 @@ class IndexTemplate extends React.Component {
                 >
                   <span className="hidden">Scroll Down</span>
                 </Link>
-              </MainHeader>
+              </MainHeader2>
               <PageSection >
               <div id="content">
               Welkom op de site van familie Vitalis De Bleeckere - Octavia Versluys.
@@ -176,6 +178,15 @@ export const pageQuery = graphql`
         }
       }
     }
+    frontImg: file(relativePath: { eq: "debleeckere.jpg" }) {
+      childImageSharp {
+
+        fluid{
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
+    
   }
 `;
 
