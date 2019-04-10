@@ -12,7 +12,7 @@ import Navigation from "../components/Navigation/Navigation";
 import SiteWrapper from "../components/SiteWrapper/SiteWrapper";
 import Footer from "../components/Footer/Footer";
 import PageSection from "../components/PageSection/PageSection";
-import MainHeader from "../components/MainHeader/MainHeader";
+import MainHeader2 from "../components/MainHeader2/MainHeader2";
 import MainNav from "../components/MainNav/MainNav";
 import BlogLogo from "../components/BlogLogo/BlogLogo";
 import MenuButton from "../components/MenuButton/MenuButton";
@@ -75,9 +75,8 @@ class IndexTemplate extends React.Component {
             {/* All the main content gets inserted here */}
             <div className="home-template">
               {/* The big featured header */}
-              <MainHeader cover={config.pathPrefix + "/images/familie.jpg"}>
-                <MainNav overlay={config.pathPrefix + "/images/familie.jpg"}>
-                  <BlogLogo logo={config.siteLogo} title={config.siteTitle} />
+              <MainHeader2 cover={this.props.data.frontImg.childImageSharp} style={{"background-color":"#FFFFFF"}}>
+                <MainNav >
                   <MenuButton
                     navigation={config.siteNavigation}
                     onClick={this.handleOnClick}
@@ -85,7 +84,7 @@ class IndexTemplate extends React.Component {
                 </MainNav>
                 <div className="vertical">
                   <div className="main-header-content inner">
-                    { <PageTitle text="Familie" /> /*
+                    {  /*
                     <PageDescription text={config.siteDescription} />
                     <SocialMediaIcons
                       urls={config.siteSocialUrls}
@@ -104,7 +103,7 @@ class IndexTemplate extends React.Component {
                 >
                   <span className="hidden">Scroll Down</span>
                 </Link>
-              </MainHeader>
+              </MainHeader2>
               <PageSection>
               Dit is de familiefoto van het gezin, genomen en samengesteld in de studio Hooft van
 Knesselare. Deze foto kreeg een ereplaats in de woonkamers van de gezinsleden. In het
@@ -190,6 +189,14 @@ export const pageQuery = graphql`
               achternaam
               
             }
+          }
+        }
+      }
+      frontImg: file(relativePath: { eq: "familie.jpg" }) {
+        childImageSharp {
+  
+          fluid{
+            ...GatsbyImageSharpFluid
           }
         }
       }

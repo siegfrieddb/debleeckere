@@ -115,31 +115,6 @@
        Media Queries - Smaller than 500px
    ========================================================================== */
 
-@media only screen and (max-width: 500px) {
-    .main-header {
-        margin-bottom: 15px;
-        height: 40vh;
-    }
-
-    .no-cover.main-header {
-        height: 30vh;
-    }
-
-    .paged .main-header {
-        max-height: 20vh;
-        min-height: 160px;
-        padding: 10% 0;
-    }
-
-    .post-head.main-header {
-        height: 30vh;
-    }
-
-    .tag-head.main-header,
-    .author-head.main-header {
-        height: 20vh;
-    }
-}
 
 /* ==========================================================================
        Animations
