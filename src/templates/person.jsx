@@ -85,7 +85,7 @@ class PostTemplate extends React.Component {
     { 
       relatedSection = (
       <PageDocSection>
-          <h1>Verwand met</h1>
+          <h1>Gerelateerd</h1>
           
           <Gallery images={_.map(this.props.data.related.edges, e => e.node.childImageSharp)} 
                   links= {_.map(this.props.data.related.edges, e => e.node.relativePath.slice(0,-9))} ></Gallery> 
@@ -95,7 +95,7 @@ class PostTemplate extends React.Component {
     { 
       subSection   = (
       <PageDocSection>
-          <h1>Onderdelen</h1>
+          
           <Gallery images={_.map(this.props.data.subsection.edges, e => e.node.childImageSharp)} 
                   links= {_.map(this.props.data.subsection.edges, e => e.node.relativePath.slice(0,-4))} ></Gallery> 
       </PageDocSection>)

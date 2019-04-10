@@ -7,14 +7,12 @@ import _ from "lodash";
 class Gallery extends Component {
   render() {
 
-    console.log(JSON.stringify(this.props.links))
-    console.log(JSON.stringify(this.props.captions))
 
     var zipped = _.zip(this.props.images,this.props.links,this.props.captions)
     return (
         <div>
             <div className="flex-container-gallery">
-            { _.map(zipped, e => {return ( <Link  key={e[1]} to={e[1]} ><Img  className="flex-item-gallery" fixed={e[0].fixed}> </Img><span>{e[2]}</span></Link>) } ) }
+            { _.map(zipped, e => {return ( <Link    className="flex-item-gallery"   key={e[1]} to={e[1]} ><Img fixed={e[0].fixed}> </Img><span className="flex-item-gallery-span">{e[2]}</span></Link>) } ) }
             </div>
         </div>
     );

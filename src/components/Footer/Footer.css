@@ -2,9 +2,20 @@
        Footer - The bottom of every page
    ========================================================================== */
 
+div.menu-bar {
+    display: table;
+    width: 100%;
+    table-layout: fixed;    /* For cells of equal size */
+}
+div.menu-bar span {
+    display: table-cell;
+    text-align: center;
+    font-family:  'IM Fell DW Pica SC', 'sans-serif'
+}
+
 .site-footer {
     position: relative;
-    margin: 8rem 0 0;
+    margin: 2rem 0 0;
     padding: 1rem 15px;
     font-family: "Open Sans", sans-serif;
     font-size: 1rem;

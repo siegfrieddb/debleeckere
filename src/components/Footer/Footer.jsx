@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import {  Link as GatsbyLink } from "gatsby";
 import "./Footer.css";
 
 class Footer extends Component {
@@ -18,13 +19,22 @@ class Footer extends Component {
     const { promoteGatsby } = this.props;
     const { label, url, year } = this.props.copyright;
     return (
-      <footer className="site-footer clearfix">
-        <section className="copyright">
-          <a href={url || "/"}>{label}</a> &copy;{" "}
-          {year || new Date().getFullYear()}
-        </section>
-        <PoweredBy show={promoteGatsby} />
-      </footer>
+      <div>
+        <div className="menu-bar">
+                  <span><GatsbyLink to=".\familie">Familie</GatsbyLink></span>
+                  <span><GatsbyLink to=".\bakermat">Bakermat</GatsbyLink></span>
+                  <span><GatsbyLink to=".\documenten">Documenten</GatsbyLink></span>
+                  <span><GatsbyLink to=".\onderzoek">Onderzoek</GatsbyLink></span>
+                  <span><GatsbyLink to=".\contact">Contact</GatsbyLink></span>
+        </div>
+        <footer className="site-footer clearfix">
+          <section className="copyright">
+            <a href={url || "/"}>{label}</a> &copy;{" "}
+            {year || new Date().getFullYear()}
+          </section>
+          <PoweredBy show={promoteGatsby} />
+        </footer>
+      </div>
     );
   }
 }

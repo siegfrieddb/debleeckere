@@ -50,7 +50,7 @@ module.exports = {
     },
     {
       label: "Contact",
-      url: "/about/",
+      url: "/contact/",
       iconClassName: "fa fa-twitter" // Disabled, see Navigation.jsx
     },
   ],

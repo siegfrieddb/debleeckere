@@ -16,7 +16,7 @@ class MainHeader2 extends React.Component {
       
     return (
         
-      <div class={classes}  style={{display:"flex", maxHeight:"100vh"}} >
+      <div className={classes}  style={{display:"flex", maxHeight:"100vh"}} >
         <Img style={{flex:"100% 0 1"}}
           fluid={this.props.cover.fluid} />
       {children}

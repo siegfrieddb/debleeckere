@@ -9,7 +9,9 @@ import MainNav from "../components/MainNav/MainNav";
 import MainHeaderImg from "../components/MainHeaderImg/MainHeaderImg"
 import Drawer from "../components/Drawer/Drawer"
 import SiteWrapper from "../components/SiteWrapper/SiteWrapper"
-class AboutPage extends Component {
+import PageSection from "../components/PageSection/PageSection"
+import { Link } from "react-scroll"
+class ContactPage extends Component {
   state = {
     menuOpen: false
   };
@@ -40,7 +42,7 @@ class AboutPage extends Component {
     return (
       <Drawer className="post-template" isOpen={this.state.menuOpen}>
       
-        <Helmet title={`About | ${config.siteTitle}`} />
+        <Helmet title={`Contact | ${config.siteTitle}`} />
         <Navigation config={config} onClose={this.handleOnClose} />
 
         <SiteWrapper>
@@ -54,7 +56,33 @@ class AboutPage extends Component {
         <MenuButton   navigation={config.siteNavigation}
                 onClick={this.handleOnClick}/>
         </MainNav>
+        <div className="vertical overlay-arrow">
+                  <div className="main-header-content inner">
+                    {/* <PageTitle text={config.siteTitle} />
+                    <PageDescription text={config.siteDescription} />
+                    <SocialMediaIcons
+                      urls={config.siteSocialUrls}
+                      color="currentColor"
+                    /> */
+                      }
+                  </div>
+                </div>
+                <Link
+                  className="scroll-down icon-arrow-left"
+                  to="content"
+                  
+                  spy
+                  smooth
+                  duration={500}
+                >
+                  <span className="hidden">Scroll Down</span>
+                </Link>
         </MainHeaderImg>
+        <PageSection>
+              <div name="content">
+              Indien u contact wenst te nemen. 
+              </div>
+              </PageSection>
         </SiteWrapper>
       </Drawer>
     );
@@ -73,4 +101,4 @@ export const pageQuery = graphql`
     
   }
 `;
-export default AboutPage;
+export default ContactPage;

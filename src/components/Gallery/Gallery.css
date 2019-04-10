@@ -9,9 +9,9 @@
 
 .flex-item-gallery {
     margin: 10px;
-    
+    position:relative; 
 }
-.flex-container-gallery span {
+.flex-item-gallery-span {
     display: none;
     position: absolute;
     bottom: 0;
@@ -22,7 +22,7 @@
 
 }
 
-.flex-container-gallery:hover span {
+.flex-item-gallery:hover  span{
     display: block
   }
 

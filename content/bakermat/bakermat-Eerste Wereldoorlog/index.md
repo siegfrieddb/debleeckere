@@ -6,7 +6,7 @@ gallerij_titel: "WO I"
 ---
 # Eerste Wereldoorlog
 
-![](./achtergrond.jpg)
+![](achtergrond.jpg)
 
 
 

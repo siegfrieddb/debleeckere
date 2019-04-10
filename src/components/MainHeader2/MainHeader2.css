@@ -32,23 +32,12 @@
 
 
 
-.author-head.main-header {
-    height: 40vh;
-    min-height: 180px;
-}
-
-
-/* On page2+ make all the headers smaller */
-.paged .main-header {
-    max-height: 30vh;
-}
-
 /* Create a bouncing scroll-down arrow on homepage with cover image */
 .scroll-down {
     display: block;
     position: absolute;
-    z-index: 100;
-    bottom: 45px;
+    z-index: 1001;
+    bottom: 10px;
     left: 50%;
     margin-left: -16px;
     width: 34px;
@@ -80,65 +69,11 @@
        Media Queries - Smaller than 900px
    ========================================================================== */
 
-@media only screen and (max-width: 900px) {
-    .main-header {
-        -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
-        box-sizing: border-box;
-
-        /* height: auto; Node: duplicate height values included in original Casper css */
-        min-height: 240px;
-        height: 60vh;
-        padding: 15% 0;
-    }
-
-    .home-template .main-header::after { display: none; }
-
-    .paged .main-header {
-        min-height: 180px;
-        padding: 10% 0;
-    }
-
-    .post-head.main-header {
-        height: 45vh;
-    }
-
-    .tag-head.main-header,
-    .author-head.main-header {
-        height: 30vh;
-    }
-
-    
-    .scroll-down { display: none; }
-}
 
 /* ==========================================================================
        Media Queries - Smaller than 500px
    ========================================================================== */
 
-@media only screen and (max-width: 500px) {
-    .main-header {
-        margin-bottom: 15px;
-        height: 40vh;
-    }
-
-    
-
-    .paged .main-header {
-        max-height: 20vh;
-        min-height: 160px;
-        padding: 10% 0;
-    }
-
-    .post-head.main-header {
-        height: 30vh;
-    }
-
-    .tag-head.main-header,
-    .author-head.main-header {
-        height: 20vh;
-    }
-}
 
 /* ==========================================================================
        Animations

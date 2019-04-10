@@ -21,7 +21,7 @@ import AuthorModel from "../models/author-model";
 import Disqus from "../components/Disqus/Disqus";
 import Layout from "../components/layout";
 import Img from "gatsby-image"
-import Gallery from "../components/Gallery/Gallery";
+import PersonDetailGallery from "../components/PersonDetailGallery/PersonDetailGallery";
 import _ from "lodash";
 import "./documenten.css"
 
@@ -71,9 +71,17 @@ class PostTemplate extends React.Component {
     }
     const className = "persoon"
     const subsectionIdx = slug.indexOf("/mozaik/")
-    const subsectionTitle = slug.slice(subsectionIdx+8)
-    console.log("data = " + JSON.stringify(this.props.data.person) )
+    const subsectionTitle = slug.slice(subsectionIdx+8).substring(2)
     
+    
+    var mozaImg = (<div></div>)
+    if (this.props.data.moza != null)
+    {
+      var foregroundWidth =  250 * this.props.data.moza.edges[0].node.childImageSharp.fluid.aspectRatio 
+      mozaImg = (<Img  style={{height: "250px",width: foregroundWidth}}  fluid={this.props.data.moza.edges[0].node.childImageSharp.fluid}> </Img>)
+                    
+    }
+
     var subSection = ""
   
     if (this.props.data.subsection)
@@ -81,13 +89,13 @@ class PostTemplate extends React.Component {
       subSection   = (
       <PageDocSection>
           <h1>Andere verhalen over {voornaam}</h1>
-          <Gallery images={_.map(this.props.data.subsection.edges, e => e.node.childImageSharp)} 
+          <PersonDetailGallery images={_.map(this.props.data.subsection.edges, e => e.node.childImageSharp)} 
                   links= {_.map(this.props.data.subsection.edges, e => e.node.relativePath.slice(0,-4))} 
                   captions = {_.map(this.props.data.subsection.edges, e => {
                           const idx = e.node.relativePath.indexOf("/mozaik/")
                           return e.node.relativePath.slice(idx+8,e.node.relativePath.length-4);
                         })
-                      }  ></Gallery> 
+                      }  ></PersonDetailGallery> 
       </PageDocSection>)
     }
     
@@ -104,7 +112,7 @@ class PostTemplate extends React.Component {
 
         <SiteWrapper>
           <MainHeaderImg className="post-head"  >
-            <h1> {voornaam} {achternaam} - {subsectionTitle} </h1>
+            <h1> {subsectionTitle} </h1>
             <MainNav>
               <MenuButton
                 navigation={config.siteNavigation}
@@ -116,6 +124,7 @@ class PostTemplate extends React.Component {
           <MainContent>
             <PostFormatting className={className}>
               <PageDocSection>
+                {mozaImg}
                 <section  className="post-content"
                 dangerouslySetInnerHTML={{ __html: persoon.html }}></section>
                </PageDocSection >

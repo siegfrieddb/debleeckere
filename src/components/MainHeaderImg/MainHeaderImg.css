@@ -80,7 +80,7 @@
     display: block;
     position: absolute;
     z-index: 100;
-    bottom: 45px;
+    bottom: 25px;
     left: 50%;
     margin-left: -16px;
     width: 34px;
@@ -104,10 +104,7 @@
 }
 
 /* Hide when there's no cover image or on page2+ */
-.no-cover .scroll-down,
-.paged .scroll-down {
-    display: none;
-}
+
 
 .icon-arrow-left::before {
     content: "\f605";
@@ -117,46 +114,6 @@
        Media Queries - Smaller than 900px
    ========================================================================== */
 
-@media only screen and (max-width: 900px) {
-    .main-header {
-        -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
-        box-sizing: border-box;
-
-        /* height: auto; Node: duplicate height values included in original Casper css */
-        min-height: 240px;
-        height: 45vh;
-        padding: 15% 0;
-    }
-
-    .home-template .main-header::after { display: none; }
-
-    .paged .main-header {
-        padding: 10% 0;
-    }
-
-    .post-head.main-header {
-        height: 100px;
-    }
-    .home-template .main-header::after {
-        height: 45vh;
-    }
-    .tag-head.main-header,
-    .author-head.main-header {
-        height: 45vh;
-    }
-
-    .no-cover.post-head.main-header {
-        height: 55px;
-        padding: 0;
-    }
-
-    .no-cover.author-head.main-header {
-        padding: 0;
-    }
-
-    .scroll-down { display: none; }
-}
 
 /* ==========================================================================
        Media Queries - Smaller than 500px

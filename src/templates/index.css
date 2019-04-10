@@ -1,9 +1,0 @@
-div.menu-bar {
-    display: table;
-    width: 100%;
-    table-layout: fixed;    /* For cells of equal size */
-}
-div.menu-bar span {
-    display: table-cell;
-    text-align: center;
-}

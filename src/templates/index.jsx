@@ -139,12 +139,7 @@ class IndexTemplate extends React.Component {
                 <br/><br/>
                 <br/><br/>
                 </div>
-                <div className="menu-bar">
-                  <span><GatsbyLink to=".\familie">Familie</GatsbyLink></span>
-                  <span><GatsbyLink to=".\bakermat">Bakermat</GatsbyLink></span>
-                  <span><GatsbyLink to=".\documenten">Documenten</GatsbyLink></span>
-                  <span><GatsbyLink to=".\onderzoek">Onderzoek</GatsbyLink></span>
-                </div>
+               
                 </div>
               </PageSection>
               
