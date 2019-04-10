@@ -75,7 +75,7 @@ class IndexTemplate extends React.Component {
             {/* All the main content gets inserted here */}
             <div className="home-template">
               {/* The big featured header */}
-              <MainHeader2 cover={this.props.data.frontImg.childImageSharp} style={{"background-color":"#FFFFFF"}}>
+              <MainHeader2 cover={this.props.data.frontImg.childImageSharp} noscale style={{"background-color":"#FFFFFF"}}>
               <PageTitleInline text="Familie"></PageTitleInline>
                 <MainNav >
                   <MenuButton
@@ -105,7 +105,8 @@ class IndexTemplate extends React.Component {
                   <span className="hidden">Scroll Down</span>
                 </Link>
               </MainHeader2>
-              <PageSection>
+              <div id="content"></div>
+              <PageSection >
               Dit is de familiefoto van het gezin, genomen en samengesteld in de studio Hooft van
 Knesselare. Deze foto kreeg een ereplaats in de woonkamers van de gezinsleden. In het
 midden staan de ouders, Vital De Bleeckere en Maria Octavia Versluys, omringd door hun tien

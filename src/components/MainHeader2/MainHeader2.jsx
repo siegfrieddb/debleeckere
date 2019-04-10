@@ -44,14 +44,22 @@ class MainHeader2 extends React.Component {
       calcW = w;
       calcH = w/aspect;
     }
+    if (! this.props.noscale && w > 900)
+    {
+        calcH = h;
+        calcW = h *aspect;
+        if (calcW > w){
+          calcW = w;
+        }
+    }
     var calcTop = (h-calcH)/2;
     var calcLeft = (w-calcW)/2;
+    
     if (w <= 900)
     {
       calcTop = 0;
-      
-
     }
+    
     this.setState({width:calcW,height:calcH,top:calcTop,left:calcLeft});
   }
   render() {
@@ -66,7 +74,7 @@ class MainHeader2 extends React.Component {
     return (
       
       <div className={classes} style={this.props.style} >
-        <Img style={{height:this.state.height, width:this.state.width,left:this.state.left,top:this.state.top }}
+        <Img style={{overflow:"hidden", height:this.state.height, width:this.state.width,left:this.state.left,top:this.state.top }}
           fluid={this.props.cover.fluid} />
         {children}
       </div>

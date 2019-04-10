@@ -1,7 +1,9 @@
 import { graphql } from "gatsby";
 import React from "react";
 import Helmet from "react-helmet";
-import { Link } from "react-scroll";  
+import { Link } from "react-scroll";
+import { Link as GatsbyLink } from "gatsby"
+import PostListing from "../components/PostListing/PostListing";
 import SEO from "../components/SEO/SEO";
 import config from "../../data/SiteConfig";
 import Drawer from "../components/Drawer/Drawer";
@@ -12,8 +14,12 @@ import Footer from "../components/Footer/Footer";
 import PageSection from "../components/PageSection/PageSection";
 import MainHeader2 from "../components/MainHeader2/MainHeader2";
 import MainNav from "../components/MainNav/MainNav";
+import BlogLogo from "../components/BlogLogo/BlogLogo";
 import MenuButton from "../components/MenuButton/MenuButton";
-import PageTitle from "../components/PageTitle/PageTitle";
+import PageTitleInline from "../components/PageTitleInline/PageTitleInline";
+import PageDescription from "../components/PageDescription/PageDescription";
+import PaginatedContent from "../components/PaginatedContent/PaginatedContent";
+import SocialMediaIcons from "../components/SocialMediaIcons/SocialMediaIcons";
 import Layout from "../components/layout";
 import Gallery from "../components/Gallery/Gallery";
 import _ from "lodash";
@@ -72,6 +78,7 @@ class IndexTemplate extends React.Component {
             <div className="home-template">
               {/* The big featured header */}
               <MainHeader2 cover={ this.props.data.frontImg.childImageSharp}>
+              <PageTitleInline text="Bakermat" />
                 <MainNav >
                   <MenuButton
                     navigation={config.siteNavigation}
@@ -80,7 +87,7 @@ class IndexTemplate extends React.Component {
                 </MainNav>
                 <div className="vertical">
                   <div className="main-header-content inner">
-                     <PageTitle text="Bakermat" /> 
+                      
                   
                       
                   </div>

@@ -12,11 +12,11 @@ import Navigation from "../components/Navigation/Navigation";
 import SiteWrapper from "../components/SiteWrapper/SiteWrapper";
 import Footer from "../components/Footer/Footer";
 import PageSection from "../components/PageSection/PageSection";
-import MainHeader from "../components/MainHeader/MainHeader";
+import MainHeader2 from "../components/MainHeader2/MainHeader2";
 import MainNav from "../components/MainNav/MainNav";
 import BlogLogo from "../components/BlogLogo/BlogLogo";
 import MenuButton from "../components/MenuButton/MenuButton";
-import PageTitle from "../components/PageTitle/PageTitle";
+import PageTitleInline from "../components/PageTitleInline/PageTitleInline";
 import PageDescription from "../components/PageDescription/PageDescription";
 import PaginatedContent from "../components/PaginatedContent/PaginatedContent";
 import SocialMediaIcons from "../components/SocialMediaIcons/SocialMediaIcons";
@@ -76,8 +76,9 @@ class IndexTemplate extends React.Component {
             {/* All the main content gets inserted here */}
             <div className="home-template"> 
               {/* The big featured header */}
-              <MainHeader cover={config.pathPrefix + "/images/onderzoek.jpg"}>
-                <MainNav overlay={config.pathPrefix + "/images/onderzoek.jpg"}>
+              <MainHeader2 cover={this.props.data.frontImg.childImageSharp} style={{"background-color":"#FFFFFF"}}>
+              <PageTitleInline text="Onderzoek" /> 
+              <MainNav overlay={config.pathPrefix + "/images/onderzoek.jpg"}>
                   <MenuButton
                     navigation={config.siteNavigation}
                     onClick={this.handleOnClick}
@@ -85,13 +86,7 @@ class IndexTemplate extends React.Component {
                 </MainNav>
                 <div className="vertical">
                   <div className="main-header-content inner">
-                    { <PageTitle text="Onderzoek" /> /*
-                    <PageDescription text={config.siteDescription} />
-                    <SocialMediaIcons
-                      urls={config.siteSocialUrls}
-                      color="currentColor"
-                    /> */
-                      }
+
                   </div>
                 </div>
                 <Link
@@ -104,7 +99,7 @@ class IndexTemplate extends React.Component {
                 >
                   <span className="hidden">Scroll Down</span>
                 </Link>
-              </MainHeader>
+              </MainHeader2>
               <PageSection> <div name="content">
               De oude prentkaart van de Dorpsstraat in Sint-Joris-ten-Distel, het dorp waar de wieg stond van 
               Vitalis, toont een eenzame fietser die onderweg is. Dat beeld begeleidt het werk aan het domein Onderzoek.
@@ -190,6 +185,14 @@ export const pageQuery = graphql`
             timeToRead
             tableOfContents
             rawMarkdownBody
+          }
+        }
+      }
+      frontImg: file(relativePath: { eq: "onderzoek.jpg" }) {
+        childImageSharp {
+  
+          fluid{
+            ...GatsbyImageSharpFluid
           }
         }
       }

@@ -1,17 +1,29 @@
-import React, { Component } from "react";
+import { graphql } from "gatsby";
+import React from "react";
 import Helmet from "react-helmet";
-import About from "../components/About/About";
+import { Link } from "react-scroll";
+import { Link as GatsbyLink } from "gatsby"
+import PostListing from "../components/PostListing/PostListing";
+import SEO from "../components/SEO/SEO";
 import config from "../../data/SiteConfig";
-import Img from "gatsby-image";
-import MenuButton from "../components/MenuButton/MenuButton"
+import Drawer from "../components/Drawer/Drawer";
 import Navigation from "../components/Navigation/Navigation";
+
+import SiteWrapper from "../components/SiteWrapper/SiteWrapper";
+import Footer from "../components/Footer/Footer";
+import PageSection from "../components/PageSection/PageSection";
+import MainHeader2 from "../components/MainHeader2/MainHeader2";
 import MainNav from "../components/MainNav/MainNav";
-import MainHeaderImg from "../components/MainHeaderImg/MainHeaderImg"
-import Drawer from "../components/Drawer/Drawer"
-import SiteWrapper from "../components/SiteWrapper/SiteWrapper"
-import PageSection from "../components/PageSection/PageSection"
-import { Link } from "react-scroll"
-class ContactPage extends Component {
+import BlogLogo from "../components/BlogLogo/BlogLogo";
+import MenuButton from "../components/MenuButton/MenuButton";
+import PageTitleInline from "../components/PageTitleInline/PageTitleInline";
+import PageDescription from "../components/PageDescription/PageDescription";
+import PaginatedContent from "../components/PaginatedContent/PaginatedContent";
+import SocialMediaIcons from "../components/SocialMediaIcons/SocialMediaIcons";
+import Layout from "../components/layout";
+import Gallery from "../components/Gallery/Gallery";
+import _ from "lodash";
+class IndexTemplate extends React.Component {
   state = {
     menuOpen: false
   };
@@ -39,26 +51,40 @@ class ContactPage extends Component {
   };
 
   render() {
-    return (
-      <Drawer className="post-template" isOpen={this.state.menuOpen}>
-      
-        <Helmet title={`Contact | ${config.siteTitle}`} />
-        <Navigation config={config} onClose={this.handleOnClose} />
+    const {
+      nodes,
+      page,
+      pages,
+      total,
+      limit,
+      prev,
+      next
+    } = this.props.pageContext;
 
-        <SiteWrapper>
-        <MainHeaderImg className="post-head"  >
-        
-        <div style={{display:"flex", maxHeight:"100vh"}} >
-          <Img style={{flex:"100% 0 1"}}
-            fluid={this.props.data.frontImg.childImageSharp.fluid} />
-        </div>
-        <MainNav>
-        <MenuButton   navigation={config.siteNavigation}
-                onClick={this.handleOnClick}/>
-        </MainNav>
-        <div className="vertical overlay-arrow">
+    return (
+      <Layout location={this.props.location}>
+        <Drawer className="home-template" isOpen={this.state.menuOpen}>
+          <Helmet title={config.siteTitle} />
+          <SEO postEdges={nodes} />
+
+          {/* The blog navigation links */}
+          <Navigation config={config} onClose={this.handleOnClose} />
+
+          <SiteWrapper>
+            {/* All the main content gets inserted here */}
+            <div className="home-template">
+              {/* The big featured header */}
+              <MainHeader2 cover={this.props.data.frontImg.childImageSharp}  style={{"background-color":"#FFFFFF"}}>
+              <PageTitleInline text="Contact" /> 
+                <MainNav  >
+                  <MenuButton
+                    navigation={config.siteNavigation}
+                    onClick={this.handleOnClick}
+                  />
+                </MainNav>
+                <div className="vertical">
                   <div className="main-header-content inner">
-                    {/* <PageTitle text={config.siteTitle} />
+                    {  /*
                     <PageDescription text={config.siteDescription} />
                     <SocialMediaIcons
                       urls={config.siteSocialUrls}
@@ -70,35 +96,48 @@ class ContactPage extends Component {
                 <Link
                   className="scroll-down icon-arrow-left"
                   to="content"
-                  
+                  data-offset="-45"
                   spy
                   smooth
                   duration={500}
                 >
                   <span className="hidden">Scroll Down</span>
                 </Link>
-        </MainHeaderImg>
-        <PageSection>
+              </MainHeader2>
+              <PageSection>
               <div name="content">
-              Indien u contact wenst te nemen. 
+              Indien u contact wenst te nemen, ....
               </div>
               </PageSection>
-        </SiteWrapper>
-      </Drawer>
+          
+              
+            </div>
+
+            {/* The tiny footer at the very bottom */}
+            <Footer
+              copyright={config.copyright}
+              promoteGatsby={config.promoteGatsby}
+            />
+          </SiteWrapper>
+        </Drawer>
+      </Layout>
     );
   }
 }
-export const pageQuery = graphql`
-  query AboutQuery {
-    frontImg: file(relativePath: { eq: "debleeckere.jpg" }) {
-      childImageSharp {
 
-        fluid{
-          ...GatsbyImageSharpFluid
+/* eslint no-undef: "off" */
+export const pageQuery = graphql`
+  query IndexDocumenten2Query {
+      frontImg: file(relativePath: { eq: "onderzoek.jpg" }) {
+        childImageSharp {
+  
+          fluid{
+            ...GatsbyImageSharpFluid
+          }
         }
       }
-    }
     
   }
 `;
-export default ContactPage;
+
+export default IndexTemplate;
