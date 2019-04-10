@@ -1,19 +1,27 @@
 /* The details of your blog. Defined in ghost/settings/ */
 .page-title-container {
-    position: absolute
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
 
 }
 
 .page-title {
     box-sizing: border-box;
     float: center;
-    margin: 10px 0;
+    margin: auto;
     font-size: 8rem;
     font-weight: 400;
     font-family:  'BioRhyme', sans-serif;
     color: #fff;
     text-shadow: 0.1em 0.1em 0.2em black
-    box
+
 }
 .page-title-collored {
     color: #9ACCCD;

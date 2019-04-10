@@ -32,6 +32,7 @@ class MainHeader2 extends React.Component {
     var aspect = this.props.cover.fluid.aspectRatio;
     var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0); 
     var h = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
+  
     console.log("h" + h + " w " + w)
     var calcH;
     var calcW;
@@ -43,7 +44,15 @@ class MainHeader2 extends React.Component {
       calcW = w;
       calcH = w/aspect;
     }
-    this.setState({width:calcW,height:calcH,top:(h-calcH)/2,left:(w-calcW)/2});
+    var calcTop = (h-calcH)/2;
+    var calcLeft = (w-calcW)/2;
+    if (w <= 900)
+    {
+      calcTop = 0;
+      
+
+    }
+    this.setState({width:calcW,height:calcH,top:calcTop,left:calcLeft});
   }
   render() {
     const { children, cover } = this.props;
@@ -59,7 +68,7 @@ class MainHeader2 extends React.Component {
       <div className={classes} style={this.props.style} >
         <Img style={{height:this.state.height, width:this.state.width,left:this.state.left,top:this.state.top }}
           fluid={this.props.cover.fluid} />
-      {children}
+        {children}
       </div>
       /*
      <div className={classes}   >

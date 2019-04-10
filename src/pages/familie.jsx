@@ -16,7 +16,7 @@ import MainHeader2 from "../components/MainHeader2/MainHeader2";
 import MainNav from "../components/MainNav/MainNav";
 import BlogLogo from "../components/BlogLogo/BlogLogo";
 import MenuButton from "../components/MenuButton/MenuButton";
-import PageTitle from "../components/PageTitle/PageTitle";
+import PageTitleInline from "../components/PageTitleInline/PageTitleInline";
 import PageDescription from "../components/PageDescription/PageDescription";
 import PaginatedContent from "../components/PaginatedContent/PaginatedContent";
 import SocialMediaIcons from "../components/SocialMediaIcons/SocialMediaIcons";
@@ -76,6 +76,7 @@ class IndexTemplate extends React.Component {
             <div className="home-template">
               {/* The big featured header */}
               <MainHeader2 cover={this.props.data.frontImg.childImageSharp} style={{"background-color":"#FFFFFF"}}>
+              <PageTitleInline text="Familie"></PageTitleInline>
                 <MainNav >
                   <MenuButton
                     navigation={config.siteNavigation}

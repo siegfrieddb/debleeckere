@@ -1,5 +1,5 @@
 import React from "react";
-import "./PageTitle.css";
+import "./PageTitleInline.css";
 
 class PageTitleInline extends React.Component {
   render() {
