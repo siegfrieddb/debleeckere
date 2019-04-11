@@ -124,7 +124,7 @@ class PostTemplate extends React.Component {
         <Navigation config={config} onClose={this.handleOnClose} />
 
         <SiteWrapper>
-        <MainHeader2 cover={bckImg} style={{"backgroundColor":"#FFFFFF"}}>
+        <MainHeader2 cover={bckImg} fillHeight={400}style={{"backgroundColor":"#FFFFFF"}}>
               {/*          <MainHeaderImg className="post-head" fluid={bckImg.fluid} > */}
 
             <MainNav>
@@ -143,18 +143,18 @@ class PostTemplate extends React.Component {
               "MozBoxSizing": "border-box",
               boxSizing: "border-box",
               display: "block",
-              height : "250px",
-              padding: "1px 0 5px",
+              height : "125px",
+              padding: "",
               width: "auto"}}>
               <div  style={{
-                position: "absolute",
-                left: "50%",
-                transform: "translate(-50%,0)"
-              }} >
-              <div >
-                {foreImg}
-                      
-                      </div></div>
+                  position: "absolute",
+                  left: "50%",
+                  transform: "translate(-50%,0)"
+                }} >
+                <div >
+                  {foreImg}
+                </div>
+              </div>
             </div>
             
           </MainHeader2>

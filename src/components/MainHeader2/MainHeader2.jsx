@@ -44,7 +44,28 @@ class MainHeader2 extends React.Component {
       calcW = w;
       calcH = w/aspect;
     }
-    if (! this.props.noscale && w > 900)
+    if (this.props.fillRatioHeight){
+       calcH = h*this.props.fillRatioHeight
+       calcW = h *aspect;
+       
+       if (calcW > w){
+         calcW = w;
+       }
+       else{
+         calcW = w;
+       }
+    }
+    else if (this.props.fillHeight){
+      calcH = this.props.fillHeight
+       calcW = h *aspect;
+       if (calcW > w){
+         calcW = w;
+       }
+       else{
+        calcW = w;
+      }
+    }
+    else if (! this.props.noscale && w > 900)
     {
         calcH = h;
         calcW = h *aspect;
@@ -55,7 +76,7 @@ class MainHeader2 extends React.Component {
     var calcTop = (h-calcH)/2;
     var calcLeft = (w-calcW)/2;
     
-    if (w <= 900)
+    if (w <= 900 || this.props.fillRatioHeight || this.props.fillHeight)
     {
       calcTop = 0;
     }
@@ -66,13 +87,12 @@ class MainHeader2 extends React.Component {
     const { children, cover } = this.props;
 
     const classes = classNames("main-header", this.props.className, {
-      "no-cover": !cover
+      "no-cover": !cover,"fillHeight": this.props.fillHeight || this.props.fillRatioHeight  
     });
 
     
 //<header className={classes}>
     return (
-      
       <div className={classes} style={this.props.style} >
         <Img style={{overflow:"hidden", height:this.state.height, width:this.state.width,left:this.state.left,top:this.state.top }}
           fluid={this.props.cover.fluid} />
