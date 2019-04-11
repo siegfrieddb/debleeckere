@@ -13,7 +13,7 @@ class MainHeader extends React.Component {
     var imgHeader = (<div></div>)
     if (fluid != null)
     {
-      imgHeader = (<Img  fluid={fluid}  style={{maxHeight: "400px"}  }></Img>)
+      imgHeader = (<Img  fluid={fluid}  className={"main-header-img"}   ></Img>)
     }
   
 

@@ -74,13 +74,7 @@ class PostTemplate extends React.Component {
     const subsectionTitle = slug.slice(subsectionIdx+8).substring(2)
     
     
-    var mozaImg = (<div></div>)
-    if (this.props.data.moza != null)
-    {
-      var foregroundWidth =  250 * this.props.data.moza.edges[0].node.childImageSharp.fluid.aspectRatio 
-      mozaImg = (<Img  style={{height: "250px",width: foregroundWidth}}  fluid={this.props.data.moza.edges[0].node.childImageSharp.fluid}> </Img>)
-                    
-    }
+   
 
     var subSection = ""
   
@@ -111,7 +105,8 @@ class PostTemplate extends React.Component {
         <Navigation config={config} onClose={this.handleOnClose} />
 
         <SiteWrapper>
-          <MainHeaderImg className="post-head"  >
+        <MainHeaderImg className="post-head" noscale fluid={this.props.data.moza.edges[0].node.childImageSharp} >
+          
             <h1> {subsectionTitle} </h1>
             <MainNav>
               <MenuButton
@@ -119,12 +114,11 @@ class PostTemplate extends React.Component {
                 onClick={this.handleOnClick}
               />
             </MainNav>
-            
-          </MainHeaderImg>
+            </MainHeaderImg>
           <MainContent>
             <PostFormatting className={className}>
               <PageDocSection>
-                {mozaImg}
+            
                 <section  className="post-content"
                 dangerouslySetInnerHTML={{ __html: persoon.html }}></section>
                </PageDocSection >
