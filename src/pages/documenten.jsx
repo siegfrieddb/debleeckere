@@ -107,7 +107,7 @@ class IndexTemplate extends React.Component {
                 </Link>
               </MainHeader2>
               <PageSection>
-              <div name="content">
+              <div name="content" style={{paddingTop:30}}>
               Het domein Documenten bestaat uit zowel beeld- als tekstdocumenten. Het betreft heel oude foto’s
               uit het familiearchief. Het betreft ook officiële documenten  
               uit de gemeentearchieven die gerelateerd zijn aan familie De Bleeckere in de ruimte zin.

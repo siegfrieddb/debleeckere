@@ -446,6 +446,25 @@ exports.createPages = ({ graphql, actions }) => {
            console.log("related for " + persoon + ": "+JSON.stringify(ret))
            return ret
         }
+        var getRelatedCaption = (persoon) =>
+        {
+           if (!(persoon in relatedDb))
+           {
+              return []
+           }
+           var ret = []
+           _.forOwn(relatedDb[persoon], (value,key) => {
+             if (key.length > 0)
+             {
+              var info = infoByPerson[key]
+              if (info){
+                ret.push(info.voornaam + " " + info.achternaam)
+              }
+             }   
+           })
+           console.log("related CAPTION INFO for " + persoon + ": "+JSON.stringify(ret))
+           return ret
+        }
         var getSubSection = (persoon) =>
         {
            var slug = '/' + persoon + '/' 
@@ -505,6 +524,7 @@ exports.createPages = ({ graphql, actions }) => {
               achtergrond: edge.node.fields.slug.slice(1) + "/achtergrond.jpg",
               voorgrond: edge.node.fields.slug.slice(1) + "/voorgrond.jpg",
               related: getRelated(edge.node.frontmatter.persoon),
+              related_caption: getRelatedCaption(edge.node.frontmatter.persoon),
               subsection: getSubSection(edge.node.frontmatter.persoon)
             }
           }),
@@ -538,7 +558,8 @@ exports.createPages = ({ graphql, actions }) => {
               path: edge.node.fields.slug,
               context: {
                 slug: edge.node.fields.slug,
-                moza: getPersonFromDetail(edge.node.fields.slug) + "/voorgrond.jpg",
+                moza: edge.node.fields.slug.substring(1) + ".jpg",
+                person_moza :getPersonFromDetail(edge.node.fields.slug) + "/moza.jpg",
                 subsection: getSubSectionFromDetail(edge.node.fields.slug),
                 personSlug: "/" + getPersonFromDetail(edge.node.fields.slug)
               }

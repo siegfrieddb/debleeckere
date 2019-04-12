@@ -9,6 +9,7 @@ class Gallery extends Component {
 
 
     var zipped = _.zip(this.props.images,this.props.links,this.props.captions)
+    zipped = _.filter(zipped,e => e[0] && e[1])
     return (
         <div>
             <div className="flex-container-gallery">
