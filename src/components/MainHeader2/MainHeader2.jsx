@@ -35,6 +35,8 @@ class MainHeader2 extends React.Component {
   
     var calcH;
     var calcW;
+
+
     
     if (this.props.fillRatioHeight){
        h = h*this.props.fillRatioHeight
@@ -42,6 +44,9 @@ class MainHeader2 extends React.Component {
     else if (this.props.fillHeight){
       h = this.props.fillHeight
     }
+    else if (w <= 900){
+      h = w / aspect
+    } 
     if (!this.props.noscale)
     {
         calcH = h;
