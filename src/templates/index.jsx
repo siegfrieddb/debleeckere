@@ -125,6 +125,7 @@ class IndexTemplate extends React.Component {
                die door hard en eerlijk werken stand hebben gehouden doorheen de hevige stormen van het leven en de tijd.
                De site benadert de familie De Bleeckere-Versluys ook als een concrete tijdspiegel en levensspiegel.       
                <br/>
+               <br/>
                Deze site is als een gebouw waaraan permanent wordt gewerkt. De ruwbouw is af. De concrete invulling
                van de diverse verdiepingen - de vier domeinen - met hun vele kamers, 
                verloopt op het ritme van weken, maanden en jaren.
