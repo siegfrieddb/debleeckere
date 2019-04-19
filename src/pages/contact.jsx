@@ -109,9 +109,9 @@ class IndexTemplate extends React.Component {
               Heeft u zelf iets te melden of te vragen,
               dan kunt u ons contacteren via . 
               
-              U kunt u tevens hier aanmelden voor het bericht
-              dat we zenden telkens wanneer we iets nieuws
-              op de site plaatsen.  
+              U kunt zich tevens aanmelden voor de nieuwsbrief
+              die we zenden telkens wanneer we iets nieuws
+              op de site plaatsen.aan te vullen door Siegfried. 
               
               </div>
               </PageSection>
