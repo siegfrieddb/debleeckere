@@ -107,13 +107,13 @@ class IndexTemplate extends React.Component {
               <PageSection >
               <div id="content" style={{paddingTop:30}}>
               Welkom op de site van familie Vitalis De Bleeckere - Octavia Versluys.
-              Ze is online sinds februari 2019 en bevat vier domeinen.
-              Het domein <b>Familie</b> stelt de 37 personen voor die samen de drie generaties van de familie vormen.
+              Ze is online sinds eind april 2019 en bevat vier domeinen.
+              Het domein <b>Familie</b> stelt de 37 personen voor, die samen de drie generaties van de familie vormen.
               In de tijd gezien, situeren ze zich in het laatste kwart van de negentiende eeuw, de volledige twintigste eeuw 
               en in de eerste helft van de eenentwintigste eeuw. 
               <br/>
               <br/>
-              Officiële stukken, beelden en teksten, zijn samengebracht in het domein <b>Documenten</b>. 
+              Officiële stukken, beelden en teksten, bevinden zich in het domein <b>Documenten</b>. 
               Er gebeurt ook onderzoek naar de familie en haar omgeving in tijd en ruimte. Dat gebeurt in het domein <b>Onderzoek</b>. Het biedt
               een platform om op bepaalde aspecten van de familie en haar omgeving dieper in te gaan. Dat domein is nauw verwant
               aan het domein <b>Bakermat</b>. Dat belicht thema's die betrekking hebben op de historische, 
@@ -125,6 +125,9 @@ class IndexTemplate extends React.Component {
                die door hard en eerlijk werken stand hebben gehouden doorheen de hevige stormen van het leven en de tijd.
                De site benadert de familie De Bleeckere-Versluys ook als een concrete tijdspiegel en levensspiegel.       
                <br/>
+               Deze site is als een gebouw waaraan permanent wordt gewerkt. De ruwbouw is af. De concrete invulling
+               van de diverse verdiepingen - de vier domeinen - met hun vele kamers, 
+               verloopt op het ritme van weken, maanden en jaren.
               <br/><br/>
               <div style={{"textAlign": "center"}}>
                 <br/>
