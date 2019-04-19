@@ -106,7 +106,13 @@ class IndexTemplate extends React.Component {
               </MainHeader2>
               <PageSection>
               <div name="content" style={{paddingTop:30}}>
-              Indien u contact wenst te nemen, ....
+              Heeft u zelf iets te melden of te vragen,
+              dan kunt u ons contacteren via . 
+              
+              U kunt u tevens hier aanmelden voor het bericht
+              dat we zenden telkens wanneer we iets nieuws
+              op de site plaatsen.  
+              
               </div>
               </PageSection>
           
