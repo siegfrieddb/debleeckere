@@ -3,7 +3,7 @@ import React from "react";
 import Helmet from "react-helmet";
 import SEO from "../components/SEO/SEO";
 import config from "../../data/SiteConfig";
-import MainHeaderImg from "../components/MainHeaderImg/MainHeaderImg";
+import MainHeader2 from "../components/MainHeader2/MainHeader2";
 import MainNav from "../components/MainNav/MainNav";
 import BlogLogo from "../components/BlogLogo/BlogLogo";
 import MenuButton from "../components/MenuButton/MenuButton";
@@ -21,6 +21,7 @@ import AuthorModel from "../models/author-model";
 import Disqus from "../components/Disqus/Disqus";
 import Layout from "../components/layout";
 import Img from "gatsby-image"
+import {  Link} from "gatsby";
 import PersonDetailGallery from "../components/PersonDetailGallery/PersonDetailGallery";
 import _ from "lodash";
 import "./documenten.css"
@@ -74,8 +75,7 @@ class PostTemplate extends React.Component {
     const subsectionTitle = slug.slice(subsectionIdx+8).substring(2)
     
     
-   
-
+    console.log(this.props.pageContext.moza)
     var subSection = ""
   
     if (this.props.data.subsection)
@@ -92,7 +92,6 @@ class PostTemplate extends React.Component {
                       }  ></PersonDetailGallery> 
       </PageDocSection>)
     }
-    
     return (
 	<Layout location={this.props.location}>
       <Drawer className="post-template" isOpen={this.state.menuOpen}>
@@ -105,7 +104,7 @@ class PostTemplate extends React.Component {
         <Navigation config={config} onClose={this.handleOnClose} />
 
         <SiteWrapper>
-        <MainHeaderImg className="post-head" noscale fluid={this.props.data.moza.edges[0].node.childImageSharp} >
+        <MainHeader2 className="post-head" noscale fillHeight={250} style={{backgroundColor:"#FFFFFF"}} cover={this.props.data.moza.childImageSharp} >
           
             <h1> {subsectionTitle} </h1>
             <MainNav>
@@ -114,7 +113,7 @@ class PostTemplate extends React.Component {
                 onClick={this.handleOnClick}
               />
             </MainNav>
-            </MainHeaderImg>
+            </MainHeader2>
           <MainContent>
             <PostFormatting className={className}>
               <PageDocSection>
@@ -122,8 +121,15 @@ class PostTemplate extends React.Component {
                 <section  className="post-content"
                 dangerouslySetInnerHTML={{ __html: persoon.html }}></section>
                </PageDocSection >
-               {subSection}
-               
+
+                {subSection}
+                <PageDocSection>
+
+               <section className="post-content">
+                  <p>Terug naar hoofdpagina van <Link to={this.props.data.person.frontmatter.persoon +  "/"}>{voornaam} {achternaam}</Link></p>
+               </section>
+               </PageDocSection >
+              
               <PostFooter>
                 {/*
                 <AuthorImage author={authorData} />
@@ -192,22 +198,13 @@ export const pageQuery = graphql`
           slug
         }
       }
-  
-    moza: allFile(filter : {relativePath: {eq: $moza }}) {
-        edges {
-          node {
-            childImageSharp {
-              fixed(width: 250, height: 250, cropFocus: ATTENTION, duotone: { highlight: "#9ACCCD", shadow: "#000000",opacity: 50}) {
-                ...GatsbyImageSharpFixed
-              } 
-              fluid(maxWidth: 1000) {
-                ...GatsbyImageSharpFluid
-              }
-            }
+      moza: file(relativePath: { eq: $moza }) {
+        childImageSharp {
+          fluid{
+            ...GatsbyImageSharpFluid
           }
         }
       }
-    
     subsection:  allFile (filter:{relativePath : {in : $subsection}})
     {
       edges {

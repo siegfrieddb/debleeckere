@@ -104,7 +104,8 @@ class IndexTemplate extends React.Component {
                 </Link>
               </MainHeader2>
               <PageSection>
-              <div name="content">
+              <div name="content" style={{paddingTop:30}}>
+
               Het domein Bakermat geeft een concreet beeld van een specifieke grensstreek
                tussen Oost- en West-Vlaanderen. Het betreft de grensstreek tussen het zuidelijkste deel
                 van wat men het groene Brugse Ommeland noemt, met name de zuidoostelijke rand 

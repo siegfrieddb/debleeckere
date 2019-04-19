@@ -33,29 +33,44 @@ class MainHeader2 extends React.Component {
     var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0); 
     var h = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
   
-    console.log("h" + h + " w " + w)
     var calcH;
     var calcW;
-    if (w/h > aspect){
-      calcH = h;
-      calcW = h *aspect;
+
+
+    
+    if (this.props.fillRatioHeight){
+       h = h*this.props.fillRatioHeight
     }
-    else{
-      calcW = w;
-      calcH = w/aspect;
+    else if (this.props.fillHeight){
+      h = this.props.fillHeight
     }
-    if (! this.props.noscale && w > 900)
+    else if (w <= 900){
+      h = w / aspect
+    } 
+    if (!this.props.noscale)
     {
         calcH = h;
-        calcW = h *aspect;
+        calcW = h * aspect;
         if (calcW > w){
           calcW = w;
         }
+        calcW = w;
+        
+    }
+    else{
+      if (w/h > aspect){
+        calcH = h;
+        calcW = calcH *aspect;
+      }
+      else{
+        calcW = w;
+        calcH = w/aspect;
+      }
     }
     var calcTop = (h-calcH)/2;
     var calcLeft = (w-calcW)/2;
     
-    if (w <= 900)
+    if (this.props.fillRatioHeight || this.props.fillHeight)
     {
       calcTop = 0;
     }
@@ -66,13 +81,12 @@ class MainHeader2 extends React.Component {
     const { children, cover } = this.props;
 
     const classes = classNames("main-header", this.props.className, {
-      "no-cover": !cover
+      "no-cover": !cover,"fillHeight": this.props.fillHeight || this.props.fillRatioHeight  
     });
 
     
 //<header className={classes}>
     return (
-      
       <div className={classes} style={this.props.style} >
         <Img style={{overflow:"hidden", height:this.state.height, width:this.state.width,left:this.state.left,top:this.state.top }}
           fluid={this.props.cover.fluid} />

@@ -105,7 +105,7 @@ class IndexTemplate extends React.Component {
                   <span className="hidden">Scroll Down</span>
                 </Link>
               </MainHeader2>
-              <div id="content"></div>
+              <div id="content" style={{paddingTop:30}}></div>
               <PageSection >
               Dit is de familiefoto van het gezin, genomen en samengesteld in de studio Hooft van
 Knesselare. Deze foto kreeg een ereplaats in de woonkamers van de gezinsleden. In het

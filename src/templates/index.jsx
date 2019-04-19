@@ -75,7 +75,7 @@ class IndexTemplate extends React.Component {
             <div className="home-template">
               {/* The big featured header */}
               
-              <MainHeader2 cover={this.props.data.frontImg.childImageSharp} style={{"background-color":"#9ACCCD"}}>
+              <MainHeader2 cover={this.props.data.frontImg.childImageSharp} noscale style={{"background-color":"#9ACCCD"}}>
                 <MainNav >
                   <MenuButton
                     navigation={config.siteNavigation}
@@ -105,7 +105,7 @@ class IndexTemplate extends React.Component {
                 </Link>
               </MainHeader2>
               <PageSection >
-              <div id="content">
+              <div id="content" style={{paddingTop:30}}>
               Welkom op de site van familie Vitalis De Bleeckere - Octavia Versluys.
               Ze is online sinds februari 2019 en bevat vier domeinen.
               Het domein <b>Familie</b> stelt de 37 personen voor die samen de drie generaties van de familie vormen.

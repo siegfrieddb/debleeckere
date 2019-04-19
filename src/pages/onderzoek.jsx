@@ -100,7 +100,7 @@ class IndexTemplate extends React.Component {
                   <span className="hidden">Scroll Down</span>
                 </Link>
               </MainHeader2>
-              <PageSection> <div name="content">
+              <PageSection> <div name="content" style={{paddingTop:30}}>
               De oude prentkaart van de Dorpsstraat in Sint-Joris-ten-Distel, het dorp waar de wieg stond van 
               Vitalis, toont een eenzame fietser die onderweg is. Dat beeld begeleidt het werk aan het domein Onderzoek.
               De verschillende items vormen onderzoeksvragen waarop een antwoord moet worden gevonden. Dat gebeurt 
@@ -188,6 +188,7 @@ export const pageQuery = graphql`
           }
         }
       }
+
       frontImg: file(relativePath: { eq: "onderzoek.jpg" }) {
         childImageSharp {
   

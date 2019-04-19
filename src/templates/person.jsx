@@ -29,6 +29,7 @@ import Disqus from "../components/Disqus/Disqus";
 import Layout from "../components/layout";
 import Img from "gatsby-image"
 import Gallery from "../components/Gallery/Gallery";
+import PersonDetailGallery from "../components/PersonDetailGallery/PersonDetailGallery";
 import _ from "lodash"; 
 import "./documenten.css"
 
@@ -70,7 +71,8 @@ class PostTemplate extends React.Component {
     const { location, data } = this.props;
 	  const { slug, vader, moeder,voorgrond,achtergrond } = this.props.pageContext;
     const persoon = this.props.data.markdownRemark;
-    const { cover, voornaam, achternaam, geboorte, author } = persoon;
+    console.log(persoon)
+    const { cover, voornaam, achternaam, geboorte, author } = persoon.frontmatter ;
     const className = "persoon"
     const authorData = AuthorModel.getAuthor(
       this.props.data.authors.edges,
@@ -81,6 +83,7 @@ class PostTemplate extends React.Component {
     
     var relatedSection = ""
     var subSection = ""
+    
     if (this.props.data.related)
     { 
       relatedSection = (
@@ -88,16 +91,23 @@ class PostTemplate extends React.Component {
           <h1>Gerelateerd</h1>
           
           <Gallery images={_.map(this.props.data.related.edges, e => e.node.childImageSharp)} 
-                  links= {_.map(this.props.data.related.edges, e => e.node.relativePath.slice(0,-9))} ></Gallery> 
+                  links= {_.map(this.props.data.related.edges, e => e.node.relativePath.slice(0,-9))} 
+                  captions = {this.props.pageContext.related_caption
+                  } ></Gallery> 
       </PageDocSection>)
     }
     if (this.props.data.subsection)
     { 
       subSection   = (
       <PageDocSection>
-          
-          <Gallery images={_.map(this.props.data.subsection.edges, e => e.node.childImageSharp)} 
-                  links= {_.map(this.props.data.subsection.edges, e => e.node.relativePath.slice(0,-4))} ></Gallery> 
+          <h1>Verhalen over {voornaam}</h1>
+               
+          <PersonDetailGallery images={_.map(this.props.data.subsection.edges, e => e.node.childImageSharp)} 
+                  links= {_.map(this.props.data.subsection.edges, e => e.node.relativePath.slice(0,-4))} 
+                  captions = {_.map(this.props.data.subsection.edges, e => {
+                    const idx = e.node.relativePath.indexOf("/mozaik/")
+                    return e.node.relativePath.slice(idx+8,e.node.relativePath.length-4);
+                  })} ></PersonDetailGallery> 
       </PageDocSection>)
     }
     var foreImg = (<div></div>)
@@ -112,6 +122,11 @@ class PostTemplate extends React.Component {
     {
       bckImg = this.props.data.backImg.edges[0].node.childImageSharp  
     }
+    else{
+      bckImg = this.props.data.defaultImg.childImageSharp  
+    
+
+    }
     return (
 	<Layout location={this.props.location}>
       <Drawer className="post-template" isOpen={this.state.menuOpen}>
@@ -124,7 +139,7 @@ class PostTemplate extends React.Component {
         <Navigation config={config} onClose={this.handleOnClose} />
 
         <SiteWrapper>
-        <MainHeader2 cover={bckImg} style={{"backgroundColor":"#FFFFFF"}}>
+        <MainHeader2 cover={bckImg} fillRatioHeight={0.4 }style={{"backgroundColor":"#FFFFFF"}}>
               {/*          <MainHeaderImg className="post-head" fluid={bckImg.fluid} > */}
 
             <MainNav>
@@ -143,18 +158,18 @@ class PostTemplate extends React.Component {
               "MozBoxSizing": "border-box",
               boxSizing: "border-box",
               display: "block",
-              height : "250px",
-              padding: "1px 0 5px",
+              height : "125px",
+              padding: "",
               width: "auto"}}>
               <div  style={{
-                position: "absolute",
-                left: "50%",
-                transform: "translate(-50%,0)"
-              }} >
-              <div >
-                {foreImg}
-                      
-                      </div></div>
+                  position: "absolute",
+                  left: "50%",
+                  transform: "translate(-50%,0)"
+                }} >
+                <div >
+                  {foreImg}
+                </div>
+              </div>
             </div>
             
           </MainHeader2>
@@ -282,6 +297,14 @@ export const pageQuery = graphql`
               ...GatsbyImageSharpFluid
             }
           }
+        }
+      }
+    }
+    defaultImg: file(relativePath: { eq: "familie.jpg" }) {
+      childImageSharp {
+
+        fluid{
+          ...GatsbyImageSharpFluid
         }
       }
     }

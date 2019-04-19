@@ -8,7 +8,11 @@
     background: #222 no-repeat center center;
     overflow: hidden;
 }
+.main-header.fillHeight {
+    height:auto;
 
+
+}
 .main-header .inner {
     width: 80%;
 }
