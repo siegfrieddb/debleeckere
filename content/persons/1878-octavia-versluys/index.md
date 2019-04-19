@@ -1,5 +1,5 @@
 ---
-voornaam: "Octavie"
+voornaam: "Octavia"
 achternaam: "Versluys"
 persoon: "1878-octavia-versluys"
 geslacht: "vrouw"

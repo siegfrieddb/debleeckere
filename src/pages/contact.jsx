@@ -128,7 +128,7 @@ class IndexTemplate extends React.Component {
 /* eslint no-undef: "off" */
 export const pageQuery = graphql`
   query IndexDocumenten2Query {
-      frontImg: file(relativePath: { eq: "onderzoek.jpg" }) {
+      frontImg: file(relativePath: { eq: "contact.jpg" }) {
         childImageSharp {
   
           fluid{
@@ -141,3 +141,4 @@ export const pageQuery = graphql`
 `;
 
 export default IndexTemplate;
+ 
