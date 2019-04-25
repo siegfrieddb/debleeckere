@@ -1,9 +1,8 @@
 ---
 author: "sylvain"
 date: "2019-01-25"
+gallerij_titel: "Bronnen"
 ---
-## Bronnen 
-
 Onderzoek zonder bronnen is onbestaande. Dat geldt bij uitstek voor genealogisch en historisch onderzoek in het algemeen. Op de diverse pagina's van deze site is er geen direct bronvermelding van beelden en teksten. Heel wat actuele beelden zijn door [Sylvain](1950-sylvain-de-bleeckere) zelf gemaakt, sommige ook door [Emeric](1946-emeric-bleeckere).
 
 Sylvain is de auteur van de teksten. Hij verzorgt de eindredactie van teksten van anderen die altijd met name worden genoemd. Ook de namen van getuigen worden altijd vermeld. Wanneer het iemand van de drie generaties De Bleeckere-Versluys betreft, wordt enkel de voornaam vermeld met direct een link naar de pagina van die persoon. Letterlijke citaten worden cursief en met aanhaling gepubliceerd. De bronnen voor teksten en beelden die verder reiken dan de data van de familie De Bleeckere-Versluys worden hier in deze rubriek onder '_Publieke bronnen_' vermeld en voorgesteld. 
