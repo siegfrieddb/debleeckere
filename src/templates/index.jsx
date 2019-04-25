@@ -129,7 +129,11 @@ class IndexTemplate extends React.Component {
                Deze site is als een gebouw waaraan permanent wordt gewerkt. De ruwbouw is af. De concrete invulling
                van de diverse verdiepingen - de vier domeinen - met hun vele kamers, 
                verloopt op het ritme van weken, maanden en jaren.
-              <br/><br/>
+              <br/>
+              <br/>
+              Wenst u op de hoogte te blijven van de verder ontwikkeling van de site, <GatsbyLink to=".\contact">zie bij Contact</GatsbyLink>.
+              <br/>
+               <br/>
               <div style={{"textAlign": "center"}}>
                 <br/>
                <i>I tell, therefore you are. (Margeret Atwood)</i>
