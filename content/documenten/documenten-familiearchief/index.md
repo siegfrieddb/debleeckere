@@ -1,8 +1,9 @@
 ---
 author: "sylvain"
 date: "2019-01-25"
+gallerij_titel: "Beeldarchief Vitalis-Octavia"
+titel: "Beeldarchief Vitalis-Octavia"
 ---
-# Beeldarchief Vitalis-Octavia
 
 ![](achtergrond.jpg)
 

@@ -116,7 +116,7 @@ class IndexTemplate extends React.Component {
               </PageSection>
               <PageSection>
                 <Gallery images={_.map(this.props.data.voorgrond.edges, e => e.node.childImageSharp)} 
-                         links= {_.map(this.props.data.voorgrond.edges, e => e.node.relativePath.slice(0,-14))}
+                         links= {_.map(this.props.data.voorgrond.edges, e => e.node.relativePath.slice(0,-9))}
                          captions = {_.map(this.props.data.voorgrond.edges, e => {
                           const relpath  = e.node.relativePath.slice(0,-9)
                           var index = _.findIndex(frontEdges, fe => {
