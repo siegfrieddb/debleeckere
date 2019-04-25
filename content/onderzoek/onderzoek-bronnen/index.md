@@ -46,4 +46,10 @@ Vandaag staan er heel veel en belangrijke bronnen ter beschikking van wie wil op
 
     Dit is het belangrijkste, wetenschappelijke werk over de geschiedenis van de gemeente Aalter, met zijn drie dorpen: Aalter-Centrum, Sint-Maria-Aalter en Aalter-Brug. Het is geschreven na grondige studie van de toen beschikbare studies in opdracht van het schepencollege naar aanleiding van het twintigjarig ambtsjubeleum (1915-1979) van burgermeester Jan De Crem. Het lijvige boek verscheen in 1979.
 
+ Jan Camerlinckx, _Van Velt Houck tot parochie Sint-Maria-Aalter_. Aalter, Heemkundige Kring Arthur Verhoutstraete, 2001.
 
+ >>Dit werk vertelt de geschiedenis van Sint-Maria-Aalter naar aanleiding van de viering van 150 jaar Parochie Sint-Maria-Aalter op 15 september 2001.
+
+Jan Camerlinckx, _De vroeger bezittingen van de jezuïeten te Aalter, de verdere evolutie van het domein na de afschaffing van de orde en de openbare verkoping van hun goederen in 1780_. Aalter, Heemkundige Kring Arthur Verhoutstraete, 2018. 
+
+>>Dit werk bevat de resultaten van het onderzoek van de auteur naar de geschiedenis van het domein van jezuïeten, het domein aan de Blekkervijver van het latere Sint-Maria-Aalter.
