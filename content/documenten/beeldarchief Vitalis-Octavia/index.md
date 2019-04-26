@@ -9,3 +9,5 @@ titel: "Familiearchief"
 
 Het familiearchief bevat documenten die zijn aangetroffen in de eigen documentatie van en over de familie, die de diverse kinderen van [Vitalis](1879-vitalis-de-bleeckere) en [Octavia](1878-octavia-versluys) hebben bewaard. 
 
+
+
