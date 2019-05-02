@@ -65,17 +65,21 @@ class PostTemplate extends React.Component {
     const persoon = this.props.data.markdownRemark;
     var  voornaam = ""
     var  achternaam = ""   
-    if (this.props.data.person.frontmatter)
+    var frontmatter_persoon ="frontmatter_unknown"
+    if (this.props.data.person && this.props.data.person.frontmatter)
     {
         voornaam = this.props.data.person.frontmatter.voornaam
         achternaam = this.props.data.person.frontmatter.achternaam
+        frontmatter_persoon = this.props.data.person.frontmatter.persoon
     }
     const className = "persoon"
     const subsectionIdx = slug.indexOf("/mozaik/")
     const subsectionTitle = slug.slice(subsectionIdx+8).substring(2)
+    var moza = this.props.data.moza; 
+    if (!moza){
+      moza = this.props.data.missingImg;
+    }
     
-    
-    console.log(this.props.pageContext.moza)
     var subSection = ""
   
     if (this.props.data.subsection)
@@ -104,7 +108,7 @@ class PostTemplate extends React.Component {
         <Navigation config={config} onClose={this.handleOnClose} />
 
         <SiteWrapper>
-        <MainHeader2 className="post-head" noscale fillHeight={250} style={{backgroundColor:"#FFFFFF"}} cover={this.props.data.moza.childImageSharp} >
+        <MainHeader2 className="post-head" noscale fillHeight={250} style={{backgroundColor:"#FFFFFF"}} cover={moza.childImageSharp} >
           
             <h1> {subsectionTitle} </h1>
             <MainNav>
@@ -126,7 +130,7 @@ class PostTemplate extends React.Component {
                 <PageDocSection>
 
                <section className="post-content">
-                  <p>Terug naar hoofdpagina van <Link to={this.props.data.person.frontmatter.persoon +  "/"}>{voornaam} {achternaam}</Link></p>
+                  <p>Terug naar hoofdpagina van <Link to={frontmatter_persoon +  "/"}>{voornaam} {achternaam}</Link></p>
                </section>
                </PageDocSection >
               
@@ -200,6 +204,14 @@ export const pageQuery = graphql`
       }
       moza: file(relativePath: { eq: $moza }) {
         childImageSharp {
+          fluid{
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+      missingImg: file(relativePath: { eq: "missing.jpg" }) {
+        childImageSharp {
+  
           fluid{
             ...GatsbyImageSharpFluid
           }

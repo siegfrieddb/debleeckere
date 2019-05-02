@@ -4,28 +4,32 @@ import "./MainHeader2.css";
 import Img from "gatsby-image"
 
 class MainHeader2 extends React.Component {
-  constructor() {
-    super();
+  constructor(props) {
+    super(props);
     this.state = {
       width: "auto",
       height: "100hv",
       top: "0px",
       left: "0px"
     }
+    if (!this.props.cover){
+      throw new Error("no cover specified")
+    }
+    this.updateDimensions = this.updateDimensions.bind(this);
   }
   /**
    * Add event listener
    */
   componentDidMount() {
     this.updateDimensions();
-    window.addEventListener("resize", this.updateDimensions.bind(this));
+    window.addEventListener("resize", this.updateDimensions);
   }
 
   /**
    * Remove event listener
    */
   componentWillUnmount() {
-    window.removeEventListener("resize", this.updateDimensions.bind(this));
+    window.removeEventListener("resize", this.updateDimensions);
   }
 
   updateDimensions() {

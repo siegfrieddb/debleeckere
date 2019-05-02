@@ -1,3 +1,4 @@
+var pathPrefix = "/debleeckere"
 module.exports = {
   blogPostDir: "sample-posts", // The name of directory that contains your posts.
   blogAuthorDir: "sample-authors", // The name of directory that contains your 'authors' folder.
@@ -8,7 +9,7 @@ module.exports = {
   siteLogo:
     "images/debleeckere-logo.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
   siteUrl: " https://siegfrieddb.github.io", // Domain of your website without pathPrefix.
-   //  /debleeckere  Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
+  pathPrefix: pathPrefix,  //Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
     "Een site over de familienaam De Bleeckere.", // Website description used for RSS feeds/meta description tag.
   siteCover:
@@ -30,27 +31,27 @@ module.exports = {
   userLinks: [
     {
       label: "Familie",
-      url: "/familie  ",
+      url: pathPrefix + "/familie  ",
       iconClassName: "fa fa-github" // Disabled, see Navigation.jsx
     },
     {
       label: "Bakermat",
-      url: "/bakermat",
+      url: pathPrefix + "/bakermat",
       iconClassName: "fa fa-envelope" // Disabled, see Navigation.jsx
     },
     {
       label: "Onderzoek",
-      url: "/onderzoek",
+      url: pathPrefix + "/onderzoek",
       iconClassName: "fa fa-envelope" // Disabled, see Navigation.jsx
     },
     {
       label: "Documenten",
-      url: "/documenten",
+      url: pathPrefix + "/documenten",
       iconClassName: "fa fa-twitter" // Disabled, see Navigation.jsx
     },
     {
       label: "Contact",
-      url: "/contact/",
+      url: pathPrefix + "/contact/",
       iconClassName: "fa fa-twitter" // Disabled, see Navigation.jsx
     },
   ],
@@ -62,5 +63,5 @@ module.exports = {
   },
   themeColor: "#FFFDEE", // Used for setting manifest and progress theme colors.
   backgroundColor: "#9ACCCD", // Used for setting manifest background color.
-  promoteGatsby: true // Enables the GatsbyJS promotion information in footer.
+  promoteGatsby: false // Enables the GatsbyJS promotion information in footer.
 };

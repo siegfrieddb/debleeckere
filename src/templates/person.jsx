@@ -14,15 +14,11 @@ import MainContent from "../components/MainContent/MainContent";
 import MainHeader2 from "../components/MainHeader2/MainHeader2";
 import PostFormatting from "../components/PostFormatting/PostFormatting";
 import PostDate from "../components/PostDate/PostDate";
+import PageTitle from "../components/PageTitle/PageTitle"
+import PageTitleInline from "../components/PageTitleInline/PageTitleInline"
+
 import PostFooter from "../components/PostFooter/PostFooter";
 import PageDocSection from "../components/PageDocSection/PageDocSection"
-import AuthorImage from "../components/AuthorImage/AuthorImage";
-import AuthorInfo from "../components/AuthorInfo/AuthorInfo";
-import PostShare from "../components/PostShare/PostShare";
-import GhostSubscribe from "../components/GhostSubscribe/GhostSubscribe";
-import ReadNext from "../components/ReadNext/ReadNext";
-import PostTags from "../components/PostTags/PostTags";
-import ReadParents from "../components/ReadParents/ReadParents"
 import Footer from "../components/Footer/Footer";
 import AuthorModel from "../models/author-model";
 import Disqus from "../components/Disqus/Disqus";
@@ -71,7 +67,6 @@ class PostTemplate extends React.Component {
     const { location, data } = this.props;
 	  const { slug, vader, moeder,voorgrond,achtergrond } = this.props.pageContext;
     const persoon = this.props.data.markdownRemark;
-    console.log(persoon)
     const { cover, voornaam, achternaam, geboorte, author } = persoon.frontmatter ;
     const className = "persoon"
     const authorData = AuthorModel.getAuthor(
@@ -131,7 +126,7 @@ class PostTemplate extends React.Component {
 	<Layout location={this.props.location}>
       <Drawer className="post-template" isOpen={this.state.menuOpen}>
         <Helmet>
-          <title>{`${voornaam} ${achternaam}`}</title>
+          <title>Title  {`${voornaam} ${achternaam}`}</title>
         </Helmet>
         <SEO postPath={slug} postNode={persoon} postSEO />
 
@@ -140,8 +135,8 @@ class PostTemplate extends React.Component {
 
         <SiteWrapper>
         <MainHeader2 cover={bckImg} fillRatioHeight={0.4 }style={{"backgroundColor":"#FFFFFF"}}>
-              {/*          <MainHeaderImg className="post-head" fluid={bckImg.fluid} > */}
-
+              <PageTitle  text = {`${voornaam} ${achternaam}`} > </PageTitle>
+            
             <MainNav>
               <MenuButton
                 navigation={config.siteNavigation}
@@ -300,7 +295,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    defaultImg: file(relativePath: { eq: "familie.jpg" }) {
+    defaultImg: file(relativePath: { eq: "missing.jpg" }) {
       childImageSharp {
 
         fluid{
