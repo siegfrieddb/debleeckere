@@ -107,7 +107,7 @@ class IndexTemplate extends React.Component {
               </MainHeader2>
               <div id="content" style={{paddingTop:30}}></div>
               <PageSection >
-              Dit is de familiefoto van het gezin, genomen en samengesteld in de studio Hooft van
+              Dit is de familiefoto van het gezin De Bleeckere-Versluys, genomen en samengesteld in de studio Hooft van
 Knesselare. Deze foto kreeg een ereplaats in de woonkamers van de gezinsleden. In het
 midden staan de ouders, Vital De Bleeckere en Maria Octavia Versluys, omringd door hun tien
 volwassen kinderen. Het zijn kloksgewijs Omer, Alfons, Jozef, Maria, Irma, Berta, Albert,

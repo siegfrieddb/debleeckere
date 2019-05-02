@@ -1,10 +1,9 @@
 ---
 author: "sylvain"
 date: "2019-01-25"
+gallerij_titel: "Bronnen"
 ---
-## Bronnen 
-
-Onderzoek zonder bronnen is onbestaande. Dat geldt bij uitstek voor genealogisch onderzoek en historisch onderzoek in het algemeen. Op de diverse pagina's van deze site is er geen direct bronvermelding van beelden en teksten. Heel wat actuele beelden zijn door [Sylvain](1950-sylvain-de-bleeckere) zelf gemaakt, sommige ook door [Emeric](1946-emeric-bleeckere).
+Onderzoek zonder bronnen is onbestaande. Dat geldt bij uitstek voor genealogisch en historisch onderzoek in het algemeen. Op de diverse pagina's van deze site is er geen direct bronvermelding van beelden en teksten. Heel wat actuele beelden zijn door [Sylvain](1950-sylvain-de-bleeckere) zelf gemaakt, sommige ook door [Emeric](1946-emeric-bleeckere).
 
 Sylvain is de auteur van de teksten. Hij verzorgt de eindredactie van teksten van anderen die altijd met name worden genoemd. Ook de namen van getuigen worden altijd vermeld. Wanneer het iemand van de drie generaties De Bleeckere-Versluys betreft, wordt enkel de voornaam vermeld met direct een link naar de pagina van die persoon. Letterlijke citaten worden cursief en met aanhaling gepubliceerd. De bronnen voor teksten en beelden die verder reiken dan de data van de familie De Bleeckere-Versluys worden hier in deze rubriek onder '_Publieke bronnen_' vermeld en voorgesteld. 
 
@@ -12,15 +11,15 @@ Sylvain is de auteur van de teksten. Hij verzorgt de eindredactie van teksten va
 
 Voor deze site zijn de bevoorrechte getuigen onmisbaar. Dat zijn hier eerst en vooral de kinderen zelf en de kleinkinderen, plus familieleden van [Vitalis](1879-vitalis-de-bleeckere) en [Octavia](1878-octavia-de-bleeckere). Ze kennen de familieverhalen. Enkele van die bevoorrechte getuigen spelen voor deze site een hoofdrol.
 
- Sylvain heeft in de periode 1980-1990 talrijke uitgebreide interviews afgenomen van zijn vader [Maurits](1916-maurits-de-bleeckere) en moeder Flora Verscheure. De aantekeningen ervan zijn neergeschreven in een Atoma-schrift. In de periode 1990-2019 heeft hij eveneens verschillende gesprekken gevoerd met zijn oudste broer Luciën, zijn tante Louisa van moederszijde, zijn oudere neef [Emeric](), alsook met Clara De Bleeckere, de jongste dochter van [Hendricus]() De Bleeckere, de oudste broer van Vitalis. 
+ Sylvain heeft in de periode 1980-1990 talrijke uitgebreide interviews afgenomen van zijn vader [Maurits](1916-maurits-de-bleeckere) en moeder Flora Verscheure. De aantekeningen ervan zijn neergeschreven in een Atoma-schrift. In de periode 1990-2019 heeft hij eveneens verschillende gesprekken gevoerd met zijn oudste broer [Luciën](   lucien-de-bleeckere), zijn tante Louisa van moederszijde, zijn oudere neef [Emeric](   -emeric-de-bleeckere), alsook met Clara De Bleeckere, de jongste dochter van Hendricus De Bleeckere, de oudste broer van [Vitalis](1879-vitalis-de-bleeckere). 
 
  Vanaf december 2018 heeft Emeric verschillende gesprekken gevoerd met nichten en neven, alsook documenten verzameld uit verschillende familiearchieven. Hij ondersteunt sinds die tijd Sylvain bij het verder verzamelen van getuigenissen bij de derde generatie. 
 
- Sarah, de oudste dochter van [Sylvain](), en haar dochter Thirza die aan de Rijksuniversiteit geschiedenis studeert, ondersteunt het onderzoek naar digitale en geschreven data over de historische en geografische context, eigen aan de familie De Bleeckere-Versluys. 
+ Sarah, de oudste dochter van [Sylvain](1950-sylvain-de-bleeckere), en haar dochter Thirza die aan de Rijksuniversiteit geschiedenis studeert, ondersteunen het onderzoek naar digitale en geschreven data over de historische en geografische context, eigen aan de familie De Bleeckere-Versluys. 
 
 ## Online bronnen
 
-Vandaag staan er heel veel en belangrijke bronnen ter beschikking van wie wil op zoek gaan naar het eigen verleden. Ziehier een korte voorstelling van de belangrijkste onderzoeksbronnen die voor de uitwerking van deze site van grote waarde zijn. De volgende sites en publicaties vormen belangrijke bronnen voor deze site.
+Vandaag staan er heel veel en belangrijke bronnen ter beschikking van wie wil op zoek gaan naar het eigen familieverleden. Ziehier een korte voorstelling van de belangrijkste onderzoeksbronnen die voor de uitwerking van deze site van grote waarde zijn.
 
   [Inventaris Onroerend Erfgoed](https://inventarisonroerenderfgoedvlaanderen.be) is een realisatie van Onroerende Erfgoed, een agentschap van de Vlaamse Overheid. De zoekfunctie op de site laat toe om alle objecten van het onroerend erfgoed in Vlaanderen op te zoeken. Vooral de data over het Meetjesland en Ommeland Brugge zijn  voor de domeinen Bakermat en Onderzoek van deze site onmisbaar. 
 
@@ -44,6 +43,14 @@ Vandaag staan er heel veel en belangrijke bronnen ter beschikking van wie wil op
 
   Luc Stockman, _Geschiedenis van Aalter_. Aalter, Gemeentebestuur, 1979.
 
-    Dit is het belangrijkste, wetenschappelijke werk over de geschiedenis van de gemeente Aalter, met zijn drie dorpen: Aalter-Centrum, Sint-Maria-Aalter en Aalter-Brug. Het is geschreven na grondige studie van de toen beschikbare studies in opdracht van het schepencollege naar aanleiding van het twintigjarig ambtsjubeleum (1915-1979) van burgermeester Jan De Crem. Het lijvige boek verscheen in 1979.
+>Dit is het belangrijkste, wetenschappelijke werk over de geschiedenis van de gemeente Aalter, met zijn drie dorpen: Aalter-Centrum, Sint-Maria-Aalter en Aalter-Brug. Het is geschreven na grondige studie van de toen beschikbare studies in opdracht van het schepencollege naar aanleiding van het twintigjarig ambtsjubeleum (1915-1979) van burgermeester Jan De Crem. Het lijvige boek verscheen in 1979.
+
+ Jan Camerlinckx, _Van Velt Houck tot parochie Sint-Maria-Aalter_. Aalter, Heemkundige Kring Arthur Verhoutstraete, 2001.
+
+>Dit werk vertelt de geschiedenis van Sint-Maria-Aalter naar aanleiding van de viering van 150 jaar Parochie Sint-Maria-Aalter op 15 september 2001.
+
+Jan Camerlinckx, _De vroeger bezittingen van de jezuïeten te Aalter, de verdere evolutie van het domein na de afschaffing van de orde en de openbare verkoping van hun goederen in 1780_. Aalter, Heemkundige Kring Arthur Verhoutstraete, 2018. 
+
+>Dit werk bevat de resultaten van het onderzoek van de auteur naar de geschiedenis van het domein van jezuïeten, het domein aan de Blekkervijver van het latere Sint-Maria-Aalter.
 
 

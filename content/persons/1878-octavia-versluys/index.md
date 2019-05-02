@@ -1,5 +1,5 @@
 ---
-voornaam: "Octavie"
+voornaam: "Octavia"
 achternaam: "Versluys"
 persoon: "1878-octavia-versluys"
 geslacht: "vrouw"
@@ -9,9 +9,6 @@ vader: "1000-00-00"
 moeder: "1000-00-00"   
 author: sylvain
 ---
-# Octavia Versluys
-
-![](voorgrond.jpg)
 Octavia huwde met [Vitalis](1879-vitalis-de-bleeckere) De Bleeckere. Ze werd de moeder van 11 kinderen en de grootmoeder van 24 kleinkinderen.
 
 
