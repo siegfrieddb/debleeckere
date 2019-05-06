@@ -26,17 +26,17 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-79c228e1250ab12f7f9f.js"
+    "url": "webpack-runtime-89c2c9f4fb2bf547d7c0.js"
   },
   {
-    "url": "app-dea30234400db0c18a40.js"
+    "url": "app-be0e206b041f116850fb.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-323a5671eba2a2a455ce.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "1bb6ce12f360924c97f42b126a70aa1d"
+    "revision": "15ef32a94d7f2551c258b768c48d1146"
   },
   {
     "url": "static/d/520/path---offline-plugin-app-shell-fallback-a-30-c5a-NZuapzHg3X9TaN1iIixfv1W23E.json",
@@ -50,7 +50,7 @@ self.__precacheManifest = [
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/debleeckere/offline-plugin-app-shell-fallback/index.html", {
+workbox.routing.registerNavigationRoute("/offline-plugin-app-shell-fallback/index.html", {
   whitelist: [/^[^?]*([^.?]{5}|\.html)(\?.*)?$/],
   blacklist: [/\?(.+&)?no-cache=1$/],
 });
