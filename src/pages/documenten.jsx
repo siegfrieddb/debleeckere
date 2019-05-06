@@ -76,7 +76,7 @@ class IndexTemplate extends React.Component {
             {/* All the main content gets inserted here */}
             <div className="home-template">
               {/* The big featured header */}
-              <MainHeader2 cover={this.props.data.frontImg.childImageSharp} style={{"background-color":"#FFFFFF"}}>
+              <MainHeader2 cover={this.props.data.frontImg.childImageSharp} noscale style={{"backgroundColor":"#FFFFFF"}}>
               <PageTitleInline text="Documenten" /> 
                 <MainNav >
                   <MenuButton

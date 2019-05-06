@@ -75,7 +75,7 @@ class IndexTemplate extends React.Component {
             <div className="home-template">
               {/* The big featured header */}
               
-              <MainHeader2 cover={this.props.data.frontImg.childImageSharp} noscale style={{"background-color":"#9ACCCD"}}>
+              <MainHeader2 cover={this.props.data.frontImg.childImageSharp} noscale style={{"backgroundColor":"#9ACCCD"}}>
                 <MainNav >
                   <MenuButton
                     navigation={config.siteNavigation}
@@ -131,7 +131,7 @@ class IndexTemplate extends React.Component {
                verloopt op het ritme van weken, maanden en jaren.
               <br/>
               <br/>
-              Wenst u op de hoogte te blijven van de verdere ontwikkeling van de site, <GatsbyLink to=".\contact">zie bij Contact</GatsbyLink>.
+              Wenst u op de hoogte te blijven van de verdere ontwikkeling van de site, <GatsbyLink to="contact">zie bij Contact</GatsbyLink>.
               <br/>
                <br/>
               <div style={{"textAlign": "center"}}>

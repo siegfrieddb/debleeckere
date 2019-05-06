@@ -84,17 +84,7 @@ class TagTemplate extends React.Component {
                 </div>
               </MainHeader>
 
-              <PaginatedContent
-                page={page}
-                pages={pages}
-                total={total}
-                limit={limit}
-                prev={prev}
-                next={next}
-              >
-                {/* PostListing component renders all the posts */}
-                <PostListing postEdges={nodes} postAuthors={authorsEdges} />
-              </PaginatedContent>
+             
             </div>
             {/* The tiny footer at the very bottom */}
             <Footer

@@ -18,7 +18,6 @@ import BlogLogo from "../components/BlogLogo/BlogLogo";
 import MenuButton from "../components/MenuButton/MenuButton";
 import PageTitleInline from "../components/PageTitleInline/PageTitleInline";
 import PageDescription from "../components/PageDescription/PageDescription";
-import PaginatedContent from "../components/PaginatedContent/PaginatedContent";
 import SocialMediaIcons from "../components/SocialMediaIcons/SocialMediaIcons";
 import Layout from "../components/layout";
 import Gallery from "../components/Gallery/Gallery";
@@ -76,7 +75,7 @@ class IndexTemplate extends React.Component {
             {/* All the main content gets inserted here */}
             <div className="home-template"> 
               {/* The big featured header */}
-              <MainHeader2 cover={this.props.data.frontImg.childImageSharp} style={{"background-color":"#FFFFFF"}}>
+              <MainHeader2 noscale cover={this.props.data.frontImg.childImageSharp} style={{"backgroundColor":"#FFFFFF"}}>
               <PageTitleInline text="Onderzoek" /> 
               <MainNav overlay={config.pathPrefix + "/images/onderzoek.jpg"}>
                   <MenuButton

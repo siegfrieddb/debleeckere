@@ -75,7 +75,7 @@ class IndexTemplate extends React.Component {
             {/* All the main content gets inserted here */}
             <div className="home-template">
               {/* The big featured header */}
-              <MainHeader2 cover={this.props.data.frontImg.childImageSharp} noscale style={{"background-color":"#FFFFFF"}}>
+              <MainHeader2 cover={this.props.data.frontImg.childImageSharp} noscale style={{"backgroundColor":"#FFFFFF"}}>
               <PageTitleInline text="Familie"></PageTitleInline>
                 <MainNav >
                   <MenuButton
@@ -136,18 +136,7 @@ leven als peuter op 11 mei 1911.
                         >
                 </Gallery>
               </PageSection>
-              <PaginatedContent
-                page={page}
-                pages={pages}
-                total={total}
-                limit={limit}
-                prev={prev}
-                next={next}
-              >
-                {/* PostListing component renders all the posts 
-                 <PostListing postEdges={nodes} postAuthors={authorsEdges} />
-                 */}
-              </PaginatedContent>
+              
             </div>
 
             {/* The tiny footer at the very bottom */}

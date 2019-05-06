@@ -1,4 +1,41 @@
-var pathPrefix = "/debleeckere"
+var pathPrefix = "/"
+//var pathPrefix = "/debleeckere"
+var userLinks = [
+  {
+    label: "Familie",
+    url: pathPrefix + "/familie",
+    iconClassName: "fa fa-github" // Disabled, see Navigation.jsx
+  },
+  {
+    label: "Bakermat",
+    url: pathPrefix + "/bakermat",
+    iconClassName: "fa fa-envelope" // Disabled, see Navigation.jsx
+  },
+  {
+    label: "Onderzoek",
+    url: pathPrefix + "/onderzoek",
+    iconClassName: "fa fa-envelope" // Disabled, see Navigation.jsx
+  },
+  {
+    label: "Documenten",
+    url: pathPrefix + "/documenten",
+    iconClassName: "fa fa-twitter" // Disabled, see Navigation.jsx
+  },
+  {
+    label: "Contact",
+    url: pathPrefix + "/contact",
+    iconClassName: "fa fa-twitter" // Disabled, see Navigation.jsx
+  },
+]
+if (pathPrefix == "/"){
+  userLinks.forEach(element => {
+    
+    element.url =  element.url.substr(1);
+    
+  });
+
+}
+
 module.exports = {
   blogPostDir: "sample-posts", // The name of directory that contains your posts.
   blogAuthorDir: "sample-authors", // The name of directory that contains your 'authors' folder.
@@ -21,40 +58,15 @@ module.exports = {
   sitePaginationLimit: 10, // The max number of posts per page.
   googleAnalyticsID: "UA-TODO-1", // GA tracking ID.
   // disqusShortname: "https-vagr9k-github-io-gatsby-advanced-starter", // enables Disqus comments, visually deviates from original Casper theme.
-  siteSocialUrls: [
+  siteSocialUrls: [-
     "https://github.com/haysclark/gatsby-starter-casper",
     "https://twitter.com/gatsbyjs",
     "mailto:gatsbyjs@example.com"
   ],
   postDefaultCategoryID: "Document", // Default category for posts.
   // Links to social profiles/projects you want to display in the navigation bar.
-  userLinks: [
-    {
-      label: "Familie",
-      url: pathPrefix + "/familie  ",
-      iconClassName: "fa fa-github" // Disabled, see Navigation.jsx
-    },
-    {
-      label: "Bakermat",
-      url: pathPrefix + "/bakermat",
-      iconClassName: "fa fa-envelope" // Disabled, see Navigation.jsx
-    },
-    {
-      label: "Onderzoek",
-      url: pathPrefix + "/onderzoek",
-      iconClassName: "fa fa-envelope" // Disabled, see Navigation.jsx
-    },
-    {
-      label: "Documenten",
-      url: pathPrefix + "/documenten",
-      iconClassName: "fa fa-twitter" // Disabled, see Navigation.jsx
-    },
-    {
-      label: "Contact",
-      url: pathPrefix + "/contact/",
-      iconClassName: "fa fa-twitter" // Disabled, see Navigation.jsx
-    },
-  ],
+  
+  userLinks: userLinks,
   // Copyright string for the footer of the website and RSS feed.
   copyright: {
     label: "De Bleeckere Site" // Label used before the year

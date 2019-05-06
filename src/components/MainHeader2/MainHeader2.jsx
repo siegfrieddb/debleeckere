@@ -36,7 +36,8 @@ class MainHeader2 extends React.Component {
     var aspect = this.props.cover.fluid.aspectRatio;
     var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0); 
     var h = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
-  
+    var orgw = w;
+    var orgh = h;
     var calcH;
     var calcW;
 
@@ -48,7 +49,7 @@ class MainHeader2 extends React.Component {
     else if (this.props.fillHeight){
       h = this.props.fillHeight
     }
-    else if (w <= 900){
+    else {
       h = w / aspect
     } 
     if (!this.props.noscale)
@@ -71,15 +72,25 @@ class MainHeader2 extends React.Component {
         calcH = w/aspect;
       }
     }
-    var calcTop = (h-calcH)/2;
-    var calcLeft = (w-calcW)/2;
-    
+    if (calcW > orgw){
+      calcW = orgw;
+        calcH = w/aspect;
+    }
+    if (calcH > orgh){
+      calcH = orgh;
+      calcW = calcH*aspect;
+    }
+
+
+    //var calcTop = (h-calcH)/2;
+    var calcLeft = (orgw-calcW)/2;
+    /*
     if (this.props.fillRatioHeight || this.props.fillHeight)
     {
       calcTop = 0;
-    }
-    
-    this.setState({width:calcW,height:calcH,top:calcTop,left:calcLeft});
+    }*/
+
+    this.setState({width:calcW,height:calcH,top:0,left:calcLeft,orgw,orgh});
   }
   render() {
     const { children, cover } = this.props;
@@ -95,6 +106,7 @@ class MainHeader2 extends React.Component {
         <Img style={{overflow:"hidden", height:this.state.height, width:this.state.width,left:this.state.left,top:this.state.top }}
           fluid={this.props.cover.fluid} />
         {children}
+        
       </div>
       /*
      <div className={classes}   >

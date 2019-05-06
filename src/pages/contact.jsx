@@ -132,7 +132,7 @@ class IndexTemplate extends React.Component {
             {/* All the main content gets inserted here */}
             <div className="home-template">
               {/* The big featured header */}
-              <MainHeader2  fillRatioHeight={0.4} cover={this.props.data.frontImg.childImageSharp}  style={{"background-color":"#FFFFFF"}}>
+              <MainHeader2  fillRatioHeight={0.4} cover={this.props.data.frontImg.childImageSharp}  style={{"backgroundColor":"#FFFFFF"}}>
               <PageTitleInline text="Contact" /> 
                 <MainNav  >
                   <MenuButton
@@ -176,8 +176,6 @@ class IndexTemplate extends React.Component {
               </div>
               </div>
 
-              <section
-                dangerouslySetInnerHTML={{ __html: subscribeStr }}></section>
               
     </PageSection>
           

@@ -15,7 +15,7 @@ import MainHeader2 from "../components/MainHeader2/MainHeader2";
 import PostFormatting from "../components/PostFormatting/PostFormatting";
 import PostDate from "../components/PostDate/PostDate";
 import PageTitle from "../components/PageTitle/PageTitle"
-import PageTitleInline from "../components/PageTitleInline/PageTitleInline"
+import PageTitleTop from "../components/PageTitleTop/PageTitleTop"
 
 import PostFooter from "../components/PostFooter/PostFooter";
 import PageDocSection from "../components/PageDocSection/PageDocSection"
@@ -135,7 +135,7 @@ class PostTemplate extends React.Component {
 
         <SiteWrapper>
         <MainHeader2 cover={bckImg} fillRatioHeight={0.4 }style={{"backgroundColor":"#FFFFFF"}}>
-              <PageTitle  text = {`${voornaam} ${achternaam}`} > </PageTitle>
+              <PageTitleTop  text = {`${voornaam} ${achternaam}`} > </PageTitleTop>
             
             <MainNav>
               <MenuButton

@@ -2,8 +2,7 @@
 .main-header {
     position: relative;
     
-    max-height: 100vh;
-    height: 100vh;
+    height: auto;
     text-align: center;
     background: #222 no-repeat center center;
     overflow: hidden;
