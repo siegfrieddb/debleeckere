@@ -1,8 +1,8 @@
 ---
 author: "sylvain"
 date: "2019-01-25"
-gallerij_titel: "Eerste Wereldoorlog"
 titel: "Eerste Wereldoorlog"
+gallerij_titel: "Eerste Wereldoorlog"
 ---
 # Eerste Wereldoorlog
 
