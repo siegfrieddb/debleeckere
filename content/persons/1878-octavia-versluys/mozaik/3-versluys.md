@@ -4,7 +4,7 @@ Over het gezin waarin Octavia opgroeide, het gezin Versluys van Knesselare, best
 
 ![3-versluys](3-versluys.jpg)
 
-Op deze uitsnede van de familiefoto staat Octavia boven de tweede van rechts. 
+Op deze familiefoto staat Octavia boven de tweede van rechts. 
 
 Dit item is in voorbereiding.
 
