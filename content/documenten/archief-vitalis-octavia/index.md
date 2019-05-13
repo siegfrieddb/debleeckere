@@ -1,13 +1,10 @@
 ---
 author: "sylvain"
 date: "2019-01-25"
-gallerij_titel: "Familiearchief"
-titel: "Familiearchief"
+gallerij_titel: "archief-vitalis-octavia"
+titel: "Archief Vitalis-Octavia"
 ---
-
-![](achtergrond.jpg)
-
-Het familiearchief bevat documenten die zijn aangetroffen in de eigen documentatie van en over de familie, die de diverse kinderen van [Vitalis](1879-vitalis-de-bleeckere) en [Octavia](1878-octavia-versluys) hebben bewaard. De belangrijkste foto uit her archief is de openingsfoto van deze website. Ontdek hier nog andere foto's.
+Het familiearchief bevat documenten die zijn aangetroffen in de eigen documentatie van en over de familie, die de diverse kinderen van [Vitalis](1879-vitalis-de-bleeckere) en [Octavia](1878-octavia-versluys) hebben bewaard. De belangrijkste foto uit het archief is de openingsfoto van deze website. Ontdek hier nog andere foto's.
 
 ## Groepsfoto op een zonnige dag
 

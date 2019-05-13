@@ -6,7 +6,7 @@ gallerij_titel: "WO I"
 ---
 # Eerste Wereldoorlog
 
-![](achtergrond.jpg)
+Hier komen de verhalen van en over familieleden die verband houden met de Eerste Wereldoorlog. 
 
 
 
