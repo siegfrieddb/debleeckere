@@ -123,8 +123,8 @@ class IndexTemplate extends React.Component {
                        Al hun kinderen zijn daar geboren en opgegroeid.
                         De meesten zijn ook daar nadien blijven wonen.
                          Dat geldt voor Jozef, Maria, Alfons, Omer, 
-                         Irma en Berta; Jules woonde in Buntelare waar
-                          Knesselare grenst aan Aalter-Brug; Maurits en
+                         Irma en Berta. Jules woonde in Buntelare waar
+                          Knesselare grenst aan Aalter-Brug. Maurits en
                            Albert woonden elk na hun huwelijk eerst enige tijd in 
                            Knesselare, daarna vestigden ze zich definitief aan de rand van Sint-Maria-Aalter, 
                            direct aan de grens met Zuid-Knesselare.

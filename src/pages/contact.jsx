@@ -167,9 +167,8 @@ class IndexTemplate extends React.Component {
               Heeft u zelf iets te melden of te vragen,
               dan kunt u ons contacteren via sylvain@menstis.be
               
-              U kunt zich hier aanmelden voor de nieuwsbrief
-              die we zenden telkens wanneer we iets nieuws
-              op de site plaatsen.
+              U kunt zich hier aanmelden als u wenst op de hoogte te blijven van 
+              de verdere uitbouw van de site.
               <div 
                   dangerouslySetInnerHTML={{ __html: formStr }}
               >
