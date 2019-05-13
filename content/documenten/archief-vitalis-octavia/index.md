@@ -14,7 +14,7 @@ De foto voor de achtergrond van deze pagina Familiearchief is een uitsnede uit d
 
 De bespreking van de foto volgt later. 
 
-## Groepsfoto met vier dames
+## Groepsfoto met vier dames en spook
 
 ![foto2](foto2.jpg)
 
