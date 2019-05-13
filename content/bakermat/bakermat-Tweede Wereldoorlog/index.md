@@ -2,7 +2,7 @@
 author: "sylvain"
 date: "2019-01-25"
 titel: "Tweede Wereldoorlog"
-gallerij_titel: "WO II"
+gallerij_titel: "Tweede Wereldoorlog"
 ---
 # Soldaten De Bleeckere in de Tweede Wereldoorlog
 

@@ -3,9 +3,9 @@ author: "sylvain"
 date: "2019-01-25"
 gallerij_titel: "Bronnen"
 ---
-Onderzoek zonder bronnen is onbestaande. Dat geldt bij uitstek voor genealogisch en historisch onderzoek in het algemeen. Op de diverse pagina's van deze site is er geen direct bronvermelding van beelden en teksten. Heel wat actuele beelden zijn door [Sylvain](1950-sylvain-de-bleeckere) zelf gemaakt, sommige ook door [Emeric](1946-emeric-bleeckere).
+Onderzoek zonder bronnen is onbestaande. Dat geldt bij uitstek voor genealogisch en historisch onderzoek in het algemeen. Op de diverse pagina's van deze site is er geen directe bronvermelding van beelden en teksten. Heel wat actuele beelden zijn door [Sylvain](1950-sylvain-de-bleeckere) zelf gemaakt, sommige ook door [Emeric](1946-emeric-bleeckere).
 
-Sylvain is de auteur van de teksten. Hij verzorgt de eindredactie van teksten van anderen die altijd met name worden genoemd. Ook de namen van getuigen worden altijd vermeld. Wanneer het iemand van de drie generaties De Bleeckere-Versluys betreft, wordt enkel de voornaam vermeld met direct een link naar de pagina van die persoon. Letterlijke citaten worden cursief en met aanhaling gepubliceerd. De bronnen voor teksten en beelden die verder reiken dan de data van de familie De Bleeckere-Versluys worden hier in deze rubriek onder '_Publieke bronnen_' vermeld en voorgesteld. 
+Sylvain is de auteur van de teksten. Hij verzorgt de eindredactie van teksten van anderen die altijd met naam worden genoemd. Ook de namen van getuigen worden altijd vermeld. Wanneer het iemand van de drie generaties De Bleeckere-Versluys betreft, wordt enkel de voornaam vermeld met direct een link naar de pagina van die persoon. Letterlijke citaten worden cursief en met aanhaling gepubliceerd. De bronnen voor teksten en beelden die verder reiken dan de data van de familie De Bleeckere-Versluys worden hier in deze rubriek onder '_Publieke bronnen_' vermeld en voorgesteld. 
 
 ## Bevoorrechte getuigen
 
@@ -21,19 +21,19 @@ Voor deze site zijn de bevoorrechte getuigen onmisbaar. Dat zijn hier eerst en v
 
 Vandaag staan er heel veel en belangrijke bronnen ter beschikking van wie wil op zoek gaan naar het eigen familieverleden. Ziehier een korte voorstelling van de belangrijkste onderzoeksbronnen die voor de uitwerking van deze site van grote waarde zijn.
 
-  [Inventaris Onroerend Erfgoed](https://inventarisonroerenderfgoedvlaanderen.be) is een realisatie van Onroerende Erfgoed, een agentschap van de Vlaamse Overheid. De zoekfunctie op de site laat toe om alle objecten van het onroerend erfgoed in Vlaanderen op te zoeken. Vooral de data over het Meetjesland en Ommeland Brugge zijn  voor de domeinen Bakermat en Onderzoek van deze site onmisbaar. 
+  [Onroerend Erfgoed](https://www.onroerenderfgoed.be/) is een realisatie van Onroerende Erfgoed, een agentschap van de Vlaamse Overheid. De zoekfunctie op de site laat toe om alle objecten van het onroerend erfgoed in Vlaanderen op te zoeken. Vooral de data over het Meetjesland en Ommeland Brugge zijn  voor de domeinen Bakermat en Onderzoek van deze site onmisbaar. 
 
   [Familiekunde Vlaanderen](https://familiekunde-vlaanderen.be) is het werk van een vzw. Ze streeft ernaar het kennisknooppunt te zijn voor de familiegeschiedenis in Vlaanderen en Brussel. De vzw geeft het tijdschrift _Vlaamse Stam_ uit.
 
-  [Rijksarchief in België](www.arch.be) is een federale instelling die alle officiële documenten van de Belgische steden en gemeenten, evenals van alle officiële instellingen archiveert en ontsluit. Kerkfabrieken zijn officiële instellingen. Het Rijksarchief beheert dus de doopregisters van de parochies. De onsluiting van al die data is een gigantisch werk. Dankzij de digitalisering van de data gebeurt die onsluiting gemakkelijker. De site heeft een uitgebreide zoekfucntie. 
+  [Rijksarchief in België](http://www.arch.be/index.php?l=nl) is een federale instelling die alle officiële documenten van de Belgische steden en gemeenten, evenals van alle officiële instellingen archiveert en ontsluit. Kerkfabrieken zijn officiële instellingen. Het Rijksarchief beheert dus de doopregisters van de parochies. De onsluiting van al die data is een gigantisch werk. Dankzij de digitalisering van de data gebeurt die onsluiting gemakkelijker. De site heeft een uitgebreide zoekfucntie. 
 
-  [Erfgoedbank Meetjesland](www.ergoedbankmeetsjesland.be) is een realisatie van de erfgoedcel Meetjesland. Sinds 2011 verzamelt en ontsluit ze de vele collecties van lokale erfgoedverenigingen en families. De site is de bewaar- en publiekswebsite voor oude foto's en ander erfgoedbeeldmateriaal over het Meetjesland.
+  [Erfgoedbank Meetjesland](www.ergoedbankmeetsjesland.be) is een realisatie van de erfgoedcel Meetjesland. Sinds 2011 verzamelt en ontsluit ze de vele collecties van lokale erfgoedverenigingen en families. De site is de bewaar- en publiekswebsite voor oude foto's en ander erfgoedbeeldmateriaal over het Meetjesland. Deze site is tijdelijk niet beschikbaar.
 
   [Knesselare Nieuws](https://knesselaarsnieuws.net) heeft als ondertitel '_Knesselare van nu en toen_'is de persoonlijke site van Jan Van de Casteele. Het combineert een blog over Knesselare met een archief- en onsluitingsfunctie van alle data over Knesselare. De site heeft een rubriek '_Gazettenpraat 1850-2015_'.
 
   [Geschiedenis van Aalter](https://geschiedenisvanaalter.blogspot.com/?view=snapshot) is een de persoonlijke website van Peter Laroy die als Aalterse historicus deze site verzorgt. De site is in zekere zin een blog over het verleden van Aalter.
 
-  [Erfgoed Aalter](www.ergoedaalter.be) is de website van de nieuwe erfgoedvereniging die na de fusie met Knesselare en Aalter op 1 januari 2019 is opgericht. De vereniging is ontstaan uit de omvorming van de voormalige Aalterse _Heemkundige Kring Arthur Verhoustraete_. Deze persoon heeft voor het archief van Aalter pionierswerk verricht. De nieuwe vereniging geeft het trimesterieel tijdschrift _Erfgoed Aalter_ uit.
+  [Erfgoed Aalter](https://erfgoedaalter.be/) is de website van de nieuwe erfgoedvereniging die na de fusie met Knesselare en Aalter op 1 januari 2019 is opgericht. De vereniging is ontstaan uit de omvorming van de voormalige Aalterse _Heemkundige Kring Arthur Verhoustraete_. Deze persoon heeft voor het archief van Aalter pionierswerk verricht. De nieuwe vereniging geeft het trimesterieel tijdschrift _Erfgoed Aalter_ uit.
 
   [Forum Eerste Wereldoorlog](http://www.forumeerstewereldoorlog.nl) verzamelt en ontsluit de data die betrekking hebben op de Grote Oorlog.
 
