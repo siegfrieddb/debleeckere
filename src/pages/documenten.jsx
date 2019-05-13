@@ -110,7 +110,7 @@ class IndexTemplate extends React.Component {
               <div name="content" style={{paddingTop:30}}>
               Het domein Documenten bestaat uit zowel beeld- als tekstdocumenten. Het betreft heel oude foto’s
               uit het familiearchief. Het betreft ook officiële documenten  
-              uit de gemeentearchieven die gerelateerd zijn aan familie De Bleeckere-Versluys in de ruime zin.
+              uit de gemeentearchieven die gerelateerd zijn aan familie De Bleeckere-Versluys in ruime zin.
               Bij sommige documenten is er een directe link naar het domein Onderzoek. 
               </div>
               </PageSection>
