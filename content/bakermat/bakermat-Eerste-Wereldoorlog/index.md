@@ -6,9 +6,7 @@ gallerij_titel: "Eerste Wereldoorlog"
 ---
 # Familieleden aan de IJzer
 
-![ijzer](ijzer.jpg)
-
-Hier komen de verhalen van en over familieleden die als frontsoldaat hebben meegestreden aan het IJzerfront. 
+Hier komen de verhalen van en over familieleden die als soldaat hebben meegestreden aan het IJzerfront. 
 
 
 
