@@ -8,8 +8,7 @@ gallerij_titel: "Lapscheure"
 
 ![kerkls](kerkls.jpg)
 
-Tijdens een eerste bezoek aan het dorp Lapscheure dat heden deel uitmaakt van de gemeente Damme en langs de Knokkebaan (E34/A11) ligt, 
-ontdekte [Sylvain](1950-sylvain-de-bleeckere) op het kerkhof, gelegen rond de Heilige-Drievuldigheidskerk, verschillende oude graven van overledenen met de familienaam De Bleeckere.
+Tijdens een eerste bezoek aan de kerk met kerkhof van Lapscheure dat heden deel uitmaakt van de gemeente Damme en langs de Knokkebaan (E34/A11) ligt, ontdekte [Sylvain](1950-sylvain-de-bleeckere) op het kerkhof, gelegen rond de Heilige-Drievuldigheidskerk, verschillende oude graven van overledenen met de familienaam De Bleeckere.
 
 Dat was een toevallige ontdekking want de eerste reden van het bezoek was immers het feit dat de familie van zijn grootmoeder aan moeders zijde, de familie Martens, was van Lapscheure.
 
