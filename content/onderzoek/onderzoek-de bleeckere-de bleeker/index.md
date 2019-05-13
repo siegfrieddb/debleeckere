@@ -11,3 +11,5 @@ Het was in Torhout, in Groenhove Diocesaan Dienstenhuis, dat iemand [Sylvain](19
 ## Herkomst van de naam De Bleeker en varianten
 
 ![bleker](bleker.jpg)
+
+Hier komt de uitwerking.
