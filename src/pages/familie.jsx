@@ -115,8 +115,7 @@ Maurits, Jules, Lea. Die volgorde is niet chronologisch. Het oudste kind was nam
 derde van de bovenste rij. Ook op de onderste rij staat links Albert voor Maurits, terwijl
 Maurits voor Albert geboren is. De chronologische volgorde is dus: Jozef, Maria, Alfons, Omer,
 Irma, Berta, Maurits, Albert, Jules en Lea. Op de foto ontbreekt er een kind. Het is Raymond,
-het derde kind van het echtpaar Vital-Octavia. Hij is geboren op 30 juli 1909. Hij kwam om het
-leven als peuter op 11 mei 1911.
+het derde kind van het echtpaar Vital-Octavia. Hij was al overleden op het ogenblik dat de foto werd genomen.
               </PageSection>
               <PageSection>
                 <Gallery images={_.map(this.props.data.voorgrond.edges, e => e.node.childImageSharp)} 
