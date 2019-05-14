@@ -1,6 +1,6 @@
 ## Gezin Versluys
 
-Over het gezin waarin Octavia opgroeide, het gezin Versluys van Knesselare, bestaat er een belangrijk document. Een gezinsfoto. De foto is ook voorwerp van een onderzoek. Zie het domein [onderzoek](/onderzoek-bronnen).
+Over het gezin waarin Octavia opgroeide, het gezin Versluys van Knesselare, bestaat er een belangrijk document. Een gezinsfoto. De foto is ook voorwerp van een onderzoek. Zie het domein [onderzoek](/onderzoek-versluys).
 
 ![3-versluys](3-versluys.jpg)
 
