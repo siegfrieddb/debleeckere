@@ -458,7 +458,8 @@ exports.createPages = ({ graphql, actions }) => {
              {
               var info = infoByPerson[key]
               if (info){
-                ret.push(info.voornaam + " " + info.achternaam)
+                ret.push({caption: info.voornaam + " " + info.achternaam, moza:  key + "/moza.jpg"})
+                
               }
              }   
            })

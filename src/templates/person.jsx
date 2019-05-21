@@ -81,14 +81,31 @@ class PostTemplate extends React.Component {
     
     if (this.props.data.related)
     { 
+      //match captions
+      debugger;
+      var relCap = _.map(this.props.data.related.edges, (el) => {
+        el = el.node;
+        var index = _.findIndex(this.props.pageContext.related_caption, (elFind) => {
+          console.log(elFind)
+          console.log(el.relativePath)
+          return elFind.moza == el.relativePath
+        })
+        if (index != -1)  {
+          return this.props.pageContext.related_caption[index].caption
+        }
+        else{
+          return el.relativePath 
+        }
+      });
+
+
       relatedSection = (
       <PageDocSection>
           <h1>Gerelateerd</h1>
           
           <Gallery images={_.map(this.props.data.related.edges, e => e.node.childImageSharp)} 
                   links= {_.map(this.props.data.related.edges, e => e.node.relativePath.slice(0,-9))} 
-                  captions = {this.props.pageContext.related_caption
-                  } ></Gallery> 
+                  captions = {relCap} ></Gallery> 
       </PageDocSection>)
     }
     if (this.props.data.subsection)
