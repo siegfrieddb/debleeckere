@@ -1,5 +1,5 @@
 ---
-voornaam: "omer"
+voornaam: "Omer"
 achternaam: "De Bleeckere"
 persoon: "1912-omer-de-bleeckere"
 geslacht: "man"
