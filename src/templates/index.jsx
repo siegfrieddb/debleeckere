@@ -143,7 +143,7 @@ class IndexTemplate extends React.Component {
                 Vormen ze niet de rijmen<br/> 
                 van de geheimen<br/>
                 eigen aan ons reilen en zeilen<br/>
-                hier op aarde? (Sylvain De Bleeckere)</i>**</span>
+                hier op aarde? (Sylvain De Bleeckere)</i></span>
                 <br/><br/>
                 <br/><br/>
                 </div>

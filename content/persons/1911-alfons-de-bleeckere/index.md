@@ -1,5 +1,5 @@
 ---
-voornaam: "alfons"
+voornaam: "Alfons"
 achternaam: "De Bleeckere"
 persoon: "1911-alfons-de-bleeckere"
 geslacht: "man"
