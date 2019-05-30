@@ -136,10 +136,10 @@ class IndexTemplate extends React.Component {
                <br/>
               <div style={{"textAlign": "center"}}>
                 <br/>
-                <span style={{"color":"blue"}}><i>**I tell, therefore you are. (Margeret Atwood)**</i></span>
+                <span style={{"color":"blue"}}><i>I tell, therefore you are. (Margeret Atwood)</i></span>
                 <br/>
                 <br/>
-                <span style={{"color":"blue"}}>**<i>Generaties - ze verschijnen en verdwijnen.<br/> 
+                <span style={{"color":"blue"}}><i>Generaties - ze verschijnen en verdwijnen.<br/> 
                 Vormen ze niet de rijmen<br/> 
                 van de geheimen<br/>
                 eigen aan ons reilen en zeilen<br/>
