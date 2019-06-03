@@ -53,4 +53,10 @@ Jan Camerlinckx, _De vroeger bezittingen van de jezuïeten te Aalter, de verdere
 
 >Dit werk bevat de resultaten van het onderzoek van de auteur naar de geschiedenis van het domein van jezuïeten, het domein aan de Blekkervijver van het latere Sint-Maria-Aalter.
 
+Tineke De Pauw, Erik Wille, _Dialect Woordenboek. Zuidwest-Meetjesland en omstreken_. Aalter, Erik Wille, 2013.
 
+>Dit studieboek bevat twee delen. Tineke De Pauw verzorgde het taalkundige deel, terwijl Erik Wille het deel met de verhalen van de streek verzorgde. Het tweede deel is het meest uitgebreid.
+
+Alfons Ryserhove, _Het Knesselare en Ursel van toen. Een verzameling foto's en prentbriefkaarten aangevuld met beknopte historische gegevens._ Brugge, Uitgeverij Marc Van de Wiele, 1983.
+
+>Het eerste deel handelt over Knesselare en bevat veel historische foto's van de gemeente. Bij de foto's hoort een interessante en leerrijke toelichting, geschreven door Alfons Ryserhove, onderwijsinspecteur en specialist in de geschiedenis en de volkskunde van Knesselare en omstreken. Het boek bevat 230 foto's en in de begeleidende teksten worden meer dan 2500 bewoners genoemd. In zijn voorwoord licht de auteur zelf het boek als volgt toe: '_Een eeuw menselijk verleden ligt in dit boek vastgelegd, een eeuw simpel volksleven_.'
