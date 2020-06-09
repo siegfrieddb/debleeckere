@@ -108,8 +108,13 @@ class IndexTemplate extends React.Component {
               <div id="content" style={{paddingTop:30}}>
               Welkom op de site van familie Vitalis De Bleeckere - Octavia Versluys.
               Ze is online sinds eind april 2019 en bevat vier domeinen.
-              Het domein <b>Familie</b> stelt de 37 personen voor, die samen de drie generaties van de familie vormen.
-              In de tijd gezien, situeren ze zich in het laatste kwart van de negentiende eeuw, de volledige twintigste eeuw 
+              <br/>
+              <br/>
+              Het domein <b>Familie</b> stelt de 13 personen voor, die samen de twee generaties van de familie vormen.
+              Het betreft de ouders Vitalis en Octavia en hun elf kinderen. Bij ieder van hen hoort een mozaïek met info die reikt tot aan hun kinderen.
+              Dat betekent dat de site over drie generaties handelt. In totaal gaat het om 37 personen die de naam De Bleeckere dragen.
+              Via de huwelijken van de kinderen en de kleinkinderen van Vitalis en Octavia komen daar ook andere families bij. 
+              In de tijd gezien, situeren al de betrokken personen zich in het laatste kwart van de negentiende eeuw, de volledige twintigste eeuw 
               en in de eerste helft van de eenentwintigste eeuw. 
               <br/>
               <br/>
