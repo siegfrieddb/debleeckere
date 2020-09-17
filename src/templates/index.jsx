@@ -125,10 +125,15 @@ class IndexTemplate extends React.Component {
               geografische en maatschappelijke context van de familie. 
                <br/>
                <br/>
-               De site kan relevant zijn voor derden want alle domeinen
-               ontspringen aan de wil om hulde te brengen aan een familie van gewone, eenvoudige Vlaamse mensen,
-               die door hard en eerlijk werken stand hebben gehouden doorheen de hevige stormen van het leven en de tijd.
-               De site benadert de familie De Bleeckere-Versluys ook als een concrete tijdspiegel en levensspiegel.       
+               De vier <br>domeinen</br> belichten een familie van Vlaamse volksmensen. Door hard samenwerken, 
+               hebben ze stand gehouden doorheen de hevige stormen van het leven en de tijd. 
+               De site benadert de familie De Bleeckere-Versluys als een concrete tijdspiegel. 
+               De domeinen <br>Bakermat</br>, <br>Documenten</br> en <br>Onderzoek</br> beschrijven samen een hoofdstuk van ‘de geschiedenis van de gewone man en vrouw’ 
+               in het Vlaanderen van eind negentiende – de volle twintigste eeuw. 
+               Ze kunnen ook de interesse wekken van al wie een band heeft met het Meetjesland en het grensgebied tussen Oost- en West-Vlaanderen. 
+               Dat geldt ook voor wie geboeid blijft door de historische turbulenties van de Eerste en de Tweede Wereldoorlog, 
+               het Interbellum, de naoorlogse Wederopbouw in het Europa van de fifties en de sixties. 
+                   
                <br/>
                <br/>
                Deze site is als een gebouw waaraan permanent wordt gewerkt. De ruwbouw is af. De concrete invulling
