@@ -132,8 +132,7 @@ class IndexTemplate extends React.Component {
                in het Vlaanderen van eind negentiende – de volle twintigste eeuw. 
                Ze kunnen ook de interesse wekken van al wie een band heeft met het Meetjesland en het grensgebied tussen Oost- en West-Vlaanderen. 
                Dat geldt ook voor wie geboeid blijft door de historische turbulenties van de Eerste en de Tweede Wereldoorlog, 
-               het Interbellum, de naoorlogse Wederopbouw in het Europa van de fifties en de sixties. 
-                   
+               het Interbellum, de naoorlogse Wederopbouw in het Europa van de fifties en de sixties.                
                <br/>
                <br/>
                Deze site is als een gebouw waaraan permanent wordt gewerkt. De ruwbouw is af. De concrete invulling
