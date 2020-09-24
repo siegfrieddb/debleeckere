@@ -123,12 +123,12 @@ class IndexTemplate extends React.Component {
               een platform om op bepaalde aspecten van de familie en haar omgeving dieper in te gaan. Dat domein is nauw verwant
               aan het domein <b>Bakermat</b>. Dat belicht thema's die betrekking hebben op de historische, 
               geografische en maatschappelijke context van de familie. 
+              <br/>
                <br/>
-               <br/>
-               De vier <br>domeinen</br> belichten een familie van Vlaamse volksmensen. Door hard samenwerken, 
+               De vier <b>domeinen</b> belichten een familie van Vlaamse volksmensen. Door hard samenwerken, 
                hebben ze stand gehouden doorheen de hevige stormen van het leven en de tijd. 
                De site benadert de familie De Bleeckere-Versluys als een concrete tijdspiegel. 
-               De domeinen <br>Bakermat</br>, <br>Documenten</br> en <br>Onderzoek</br> beschrijven samen een hoofdstuk van ‘de geschiedenis van de gewone man en vrouw’ 
+               De domeinen <b>Bakermat</b>, <b>Documenten</b> en <b>Onderzoek</b> beschrijven samen een hoofdstuk van ‘de geschiedenis van de gewone man en vrouw’ 
                in het Vlaanderen van eind negentiende – de volle twintigste eeuw. 
                Ze kunnen ook de interesse wekken van al wie een band heeft met het Meetjesland en het grensgebied tussen Oost- en West-Vlaanderen. 
                Dat geldt ook voor wie geboeid blijft door de historische turbulenties van de Eerste en de Tweede Wereldoorlog, 
