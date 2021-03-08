@@ -79,7 +79,6 @@
 <url> <loc> https://siegfrieddb.github.io/194x-godelieve-van-paemele/mozaik/kinderen</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc> https://siegfrieddb.github.io/194x-roger-van-paemele/mozaik/kinderen</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc> https://siegfrieddb.github.io/1878-octavia-versluys/mozaik/2-huwelijk</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc> https://siegfrieddb.github.io/1878-octavia-versluys/mozaik/4-weduwe</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc> https://siegfrieddb.github.io/1878-octavia-versluys/mozaik/3-versluys</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc> https://siegfrieddb.github.io/1879-vitalis-de-bleeckere/mozaik/4-overlijden</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc> https://siegfrieddb.github.io/1879-vitalis-de-bleeckere/mozaik/5-getuigen</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -87,6 +86,7 @@
 <url> <loc> https://siegfrieddb.github.io/1879-vitalis-de-bleeckere/mozaik/1-gezin</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc> https://siegfrieddb.github.io/1879-vitalis-de-bleeckere/mozaik/2-ouders</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc> https://siegfrieddb.github.io/1878-octavia-versluys/mozaik/1-getuigen</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc> https://siegfrieddb.github.io/1878-octavia-versluys/mozaik/4-weduwe</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc> https://siegfrieddb.github.io/bakermat/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc> https://siegfrieddb.github.io/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc> https://siegfrieddb.github.io/documenten/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
