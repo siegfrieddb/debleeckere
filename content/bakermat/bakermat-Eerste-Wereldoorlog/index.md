@@ -1,12 +1,12 @@
 ---
 author: "sylvain"
 date: "2019-01-25"
-titel: "Eerste Wereldoorlog"
-gallerij_titel: "Eerste Wereldoorlog"
+titel: "De Brugse Vaart"
+gallerij_titel: "De Brugse Vaart"
 ---
-# Familieleden aan de IJzer
+# De overzet
 
-Hier komen de verhalen van en over familieleden die als soldaat hebben meegestreden aan het IJzerfront. 
+Hier komt het verhaal van de overzet. 
 
 
 
