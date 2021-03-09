@@ -7,7 +7,7 @@ gallerij_titel: "De Tweede Wereldoorlog"
 
 ![chrc](chrc.jpg)
 
-# De Tweede Wereldoorlog in de streek 
+# De Tweede Wereldoorlog in Meetjesland 
 
 # Onze soldaten in de Tweede Wereldoorlog
 
