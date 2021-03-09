@@ -1,8 +1,8 @@
 ---
 author: "sylvain"
 date: "2019-01-25"
-titel: "Tweede Wereldoorlog"
-gallerij_titel: "Tweede Wereldoorlog"
+titel: "De Tweede Wereldoorlog"
+gallerij_titel: "De Tweede Wereldoorlog"
 ---
 
 ![chrc](chrc.jpg)
