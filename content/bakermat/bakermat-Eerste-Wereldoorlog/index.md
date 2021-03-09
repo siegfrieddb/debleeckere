@@ -1,12 +1,12 @@
 ---
 author: "sylvain"
 date: "2019-01-25"
-titel: "De Brugse Vaart"
-gallerij_titel: "De Brugse Vaart"
+titel: "De Eerste Wereldoorlog"
+gallerij_titel: "De Eerste Wereldoorlog"
 ---
-# De overzet
+# Familieleden tijdens WOI
 
-Hier komt het verhaal van de overzet. 
+Hier komen de verhalen over familieleden in WOI. 
 
 
 
