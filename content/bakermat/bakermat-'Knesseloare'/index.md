@@ -2,7 +2,7 @@
 author: "sylvain"
 date: "2019-01-25"
 titel: "'Knesseloare'"
-gallerij_titel: "'Knesseloar'"
+gallerij_titel: "'Knesseloare'"
 ---
 
 # Via Hoekestraat naar de Kerkstraat
