@@ -4,8 +4,6 @@ date: "2019-01-25"
 titel: "Familiefoto Versluys"
 gallerij_titel: "Familiefoto Versluys"
 ---
-# Familiefoto Versluys
-
 ![vers](vers.jpg)
 
 <span style="color:darkkhaki">**OP ZOEK NAAR WIE IS WIE** </span>
