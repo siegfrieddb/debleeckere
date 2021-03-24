@@ -39,6 +39,9 @@ Vandaag staan er heel veel en belangrijke bronnen ter beschikking van wie wil op
 
   De archieven van de volgende gemeenten bevatten data die voor de familie De Bleeckere-Versluys zeer belangrijk zijn: [Gemeente Beernem](https://www.beernem.be/product/1287/archief-van-de-gemeente) bevat het archief van Sint-Joris-ten-Distel, [Gemeente Aalter](https://www.aalter.be/archief) bevat het archief van de gemeenten Knesselare en Aalter.
 
+   [Geopunt](www;geopunt.be). 
+   De site van Geopunt is de centrale toegangspoort tot geografische overheidsinformatie. Het portaal maakt geografische informatie toegangkelijk voor overheidsinstanties, burgers en organisaties. Het portaal biedt ook historische cartografie aan met o.a. historisch kaartmateriaal van het Vlaamse landsgedeelte van België, zoals die van Popp (1842-1879) en de Ferrariskaart (1771-1778). 
+
   ## Geschreven bronnen
 
   Luc Stockman, _Geschiedenis van Aalter_. Aalter, Gemeentebestuur, 1979.
@@ -60,3 +63,19 @@ Tineke De Pauw, Erik Wille, _Dialect Woordenboek. Zuidwest-Meetjesland en omstre
 Alfons Ryserhove, _Het Knesselare en Ursel van toen. Een verzameling foto's en prentbriefkaarten aangevuld met beknopte historische gegevens._ Brugge, Uitgeverij Marc Van de Wiele, 1983.
 
 >Het eerste deel handelt over Knesselare en bevat veel historische foto's van de gemeente. Bij de foto's hoort een interessante en leerrijke toelichting, geschreven door Alfons Ryserhove, onderwijsinspecteur en specialist in de geschiedenis en de volkskunde van Knesselare en omstreken. Het boek bevat 230 foto's en in de begeleidende teksten worden meer dan 2500 bewoners genoemd. In zijn voorwoord licht de auteur zelf het boek als volgt toe: '_Een eeuw menselijk verleden ligt in dit boek vastgelegd, een eeuw simpel volksleven_.'
+
+Athur Verhoutstraete, Alfons Ryserhove, _Leenroerig overzicht van Aalter en Knesselare_. Maldegem, Standaert-Van Steene, 1965.
+
+>Het boek bevat twee delen: Leenroerig Overzicht van Aalter en Feodaal Knesselare. Het eerste deel handelt over het Land van de Woestijne, Heren van het Land van de Woestijne, Schoonberge, Bossengoede, Ter Walle en Littervelde. Het deel Feodaal Knesselare telt 6 hoofdstukken: het Prinsengoed te Knesselare, de dorpsnaam en de dorpskern, de edelen van Knesselare en hun gebied, het Knesselaarse te Oedelem, de Gravelijkheid in Knesselare en het Land van de Woestijne in Knesselare. 
+
+Jan Van de Casteele, Paul Verhoestraete, _Over Knesselare Gesproken. Babbels in de aders van ons dorp._ Knesselare, 2011. 
+
+>Dit is het eerste gezamenlijke boek dat de auteurs over Knesselare schreven. 
+
+Jan Van de Casteele, Paul Verhoestraete, _Over fotografen en fotografie_, in: Idem, _Over Knesselare gesproken. Foto’s en feiten uit een beeld-schoon dorp._ 2014.
+
+>Het boek telt dertig hoofdstukken die via woord en beeld handelen over landschap, taal, verdwenen bedrijven, oude winkels, vereningsleven, sport, stoeten, processies, cafés, feesten, muziek. Jan Van de Casteele licht in een interview met het Nieuwsblad (april 2013) zelf het boek toe: '_De historische foto's zijn een selectie uit wat we voorlopig al vonden in het archief van de dorpsfotografen Hooft, van perscorrespondent Jozef Vanthuyne en van amateur-fotograaf Edgard Van de Casteele. Die drie geven - samen met beelden uit koekendozen - toch wel een goed beeld van hoe een samenleving er op relatief korte tijd toch helemaal anders ging uitzien. De meeste actuele beelden komen van Paul Verhoestraete, die niet alleen via zijn foto's meewerkte aan het boek, maar ook de beeldbank van de familie Hooft doornam en deels digitaliseerde._’
+
+Jan Van de Casteele, _Van baljuw tot timmerman-fotograaf._ Knesselare, 1995. 
+
+>Het boek handelt over de geschiedenis van de fotografiefamilie [Hooft](bakermat-'Knesseloare') van Knesselare.
