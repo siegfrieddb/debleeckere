@@ -17,6 +17,8 @@ Voor deze site zijn de bevoorrechte getuigen onmisbaar. Dat zijn hier eerst en v
 
  Sarah, de oudste dochter van Sylvain, en haar dochter Thirza die aan de Rijksuniversiteit geschiedenis studeert, ondersteunen het onderzoek naar digitale en geschreven data over de historische en geografische context, eigen aan de familie De Bleeckere-Versluys. 
 
+ Tijdens het onderzoek naar de familiefoto Versluys kwam Sylvain in contact met enkele kleinkinderen van leden van het gezin Versluys-De Witte. Die staan vermeld in het verslag van [het onderzoek](https://www.debleeckere.be/onderzoek-familiefoto%20versluys), op deze site geplaatst in maart 2021. 
+
 ## Online bronnen
 
 Vandaag staan er heel veel en belangrijke bronnen ter beschikking van wie wil op zoek gaan naar het eigen familieverleden. Ziehier een korte voorstelling van de belangrijkste onderzoeksbronnen die voor de uitwerking van deze site van grote waarde zijn.
