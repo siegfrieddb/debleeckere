@@ -31,7 +31,7 @@ Vandaag staan er heel veel en belangrijke bronnen ter beschikking van wie wil op
 
   [Erfgoedbank Meetjesland](www.ergoedbankmeetsjesland.be) is een realisatie van de erfgoedcel Meetjesland. Sinds 2011 verzamelt en ontsluit ze de vele collecties van lokale erfgoedverenigingen en families. De site is de bewaar- en publiekswebsite voor oude foto's en ander erfgoedbeeldmateriaal over het Meetjesland. Deze site is tijdelijk niet beschikbaar.
 
-  [Knesselare Nieuws](https://knesselaarsnieuws.net) heeft als ondertitel '_Knesselare van nu en toen_'is de persoonlijke blog van Jan Van de Casteele. Hij  combineert er historische informatie met actualiteit.
+  [Knesselare Nieuws](https://knesselaarsnieuws.net) heeft als ondertitel '_Knesselare van nu en toen_' is de persoonlijke blog van Jan Van de Casteele. Hij  combineert er historische informatie met actualiteit.
 
   [Geschiedenis van Aalter](https://geschiedenisvanaalter.blogspot.com/?view=snapshot) is de blog van de Aalterse historicus Peter Laroy.
 
@@ -76,7 +76,7 @@ Jan Van de Casteele, Paul Verhoestraete, _Over Knesselare Gesproken. Babbels in 
 
 Jan Van de Casteele, Paul Verhoestraete, _Over fotografen en fotografie_, in: Idem, _Over Knesselare gesproken. Foto’s en feiten uit een beeld-schoon dorp._ 2014.
 
->Het boek telt dertig hoofdstukken die via woord en beeld handelen over landschap, taal, verdwenen bedrijven, oude winkels, verenigingsleven, sport, stoeten, processies, cafés, feesten, muziek. Jan Van de Casteele verduidelijkt in een interview met Het Nieuwsblad (april 2013): '_De historische foto's zijn een selectie uit wat we voorlopig al vonden in het archief van de dorpsfotografen Hooft, van perscorrespondent Jozef Vanthuyne en van amateur-fotograaf Edgard Van de Casteele. Die drie geven - samen met beelden uit koekendozen - toch wel een goed beeld van hoe een samenleving er op relatief korte tijd toch helemaal anders ging uitzien. De meeste actuele beelden komen van Paul Verhoestraete, die niet alleen via zijn foto's meewerkte aan het boek, maar ook de beeldbank van de familie Hooft doornam en deels digitaliseerde._’
+>Het boek telt dertig hoofdstukken die via woord en beeld handelen over landschap, taal, verdwenen bedrijven, oude winkels, verenigingsleven, sport, stoeten, processies, cafés, feesten, muziek. Jan Van de Casteele verduidelijkt het boek in een interview met Het Nieuwsblad (april 2013): '_De historische foto's zijn een selectie uit wat we voorlopig al vonden in het archief van de dorpsfotografen Hooft, van perscorrespondent Jozef Vanthuyne en van amateur-fotograaf Edgard Van de Casteele. Die drie geven - samen met beelden uit koekendozen - toch wel een goed beeld van hoe een samenleving er op relatief korte tijd toch helemaal anders ging uitzien. De meeste actuele beelden komen van Paul Verhoestraete, die niet alleen via zijn foto's meewerkte aan het boek, maar ook de beeldbank van de familie Hooft doornam en deels digitaliseerde._’
 
 Jan Van de Casteele, _Van baljuw tot timmerman-fotograaf._ Knesselare, 1995. 
 
