@@ -5,9 +5,25 @@ gallerij_titel: "Officiële stukken"
 titel: "Officiële stukken"
 ---
 
-Dit is verzamelplaats voor officiële stukken die betrekking hebben op de familie [Vitalis De Bleeckere](1878-vitalis-de-bleeckere) en [Octavia Versluys](1879-octavia-versluys). 
+Dit is verzamelplaats voor officiële stukken die betrekking hebben op de familie [Vitalis De Bleeckere](1878-vitalis-de-bleeckere) en [Octavia Versluys](1879-octavia-versluys). De eerste officiële stukken hebben betrekking op de familie Versluys.
 
-## Geboorteakte van Carolus Ludovicus De Bleecker(e)
+## Familie Versluys
+
+><span style="color:darkkhaki">**DE OUDERS VAN OCTAVIA**</span>
+
+
+><span style="color:darkkhaki">**DE MOEDERLIJK FAMILIELIJN VAN OCTAVIA: DE WITTE**</span>
+
+
+><span style="color:darkkhaki">**DE VADERLIJKE FAMILIELIJN VAN OCTAVIA: VERSLUYS**</span>
+
+
+
+
+## Familie De Bleeckere
+
+
+><span style="color:darkkhaki">**DE GEBOORTEAKTE VAN CAROLUS LUDOVICUS DE BLEECKER(E)**</span>
 
 ![gbakte39](gbakte39.jpg)
 
