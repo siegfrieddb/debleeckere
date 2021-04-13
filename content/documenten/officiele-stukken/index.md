@@ -9,9 +9,9 @@ Dit is verzamelplaats voor officiële stukken die betrekking hebben op de famili
 
 ## Familie Versluys
 
-We beschikken over verschillende officiële stukken die betrekking hebben op de ouders en de voorouders van Octavia. Met de akten de vaderlijke afstamming van het geslacht Versluys in Knesselare keren we ver terug in de tijd. De voorstelling van de akten verloopt van dichtbij naar veraf. 
+We beschikken over verschillende officiële stukken die betrekking hebben op de ouders en de voorouders van Octavia. Met de akten van de vaderlijke afstamming van het geslacht Versluys in Knesselare keren we ver terug in de tijd. De voorstelling van de akten verloopt van dichtbij naar veraf. 
 
-><span style="color:darkkhaki">**DE OUDERS VAN OCTAVIA**</span>
+<span style="color:darkkhaki">**DE OUDERS VAN OCTAVIA**</span>
 
 Hier volgt de drieledige voorstelling van de huwelijksakte van de ouders van Octavia.
 
@@ -25,28 +25,28 @@ Hier volgt de voorstelling van de overlijdensksakte van de vader van Octavia.
 
 ![oclv](oclv.jpg)
 
-><span style="color:darkkhaki">**DE 5 OUDE AKTEN VAN DE VADERLIJKE FAMILIELIJN VAN OCTAVIA: VERSLUYS**</span>
+<span style="color:darkkhaki">**DE 5 OUDE AKTEN VAN DE VADERLIJKE FAMILIELIJN VAN OCTAVIA: VERSLUYS**</span>
 
 Hier volgt de voorstelling van de 5 oude akten die ons een historisch en officieel
 beeld geven van de familie Versluys in Knesselare.
 
-><span style="color:olive">**1765**</span>
+<span style="color:olive">**1765**</span>
 
 ![vli](vli.jpg)
 
-><span style="color:olive">**1764**</span>
+<span style="color:olive">**1764**</span>
 
 ![vpfhu](vpfhu.jpg)
 
-><span style="color:olive">**1739**</span>
+<span style="color:olive">**1739**</span>
 
 ![vpf](vpf.jpg)
 
-><span style="color:olive">**1722**</span>
+<span style="color:olive">**1722**</span>
 
 ![vphw](vphw.jpg)
 
-><span style="color:olive">**1684**</span>
+<span style="color:olive">**1684**</span>
 
 ![vjac](vjac.jpg)
 
