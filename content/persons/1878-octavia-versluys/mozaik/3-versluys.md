@@ -30,13 +30,13 @@ Op 4 mei 1904 trouwden twee oudere zussen van Octavia. Maria Hirma (‘Irma’) 
 
 >Rosalia’s echtgenoot Carolus Ludovicus was toen hij trouwde 32 jaar. Hij was 11 jaar ouder dan zijn bruid. Hij werd namelijk geboren op 12 oktober 1827 te Knesselare. De 56jarige Charles Louis Versluys overleed, zoals blijkt uit zijn [overlijdingsakte](/officiele-stukken) op 5 april 1884. Toen haar man overleed, was Rosalia nog maar 45 jaar. Ze bleef daarna op enkele maanden na nog 28 jaar weduwe; dat is meer dan een kwarteeuw. Ze was meer jaren weduwe dan echtgenote. Haar jongste dochter, Octavia, was slechts 5 jaar toen haar vader overleed. Ze zal wellicht weinig of geen herinneringen hebben gehad aan haar vader. Ze is opgegroeid bij haar moeder-weduwe. Via de twee huwelijksakten van 1904 – de twee dochters van weduwe Rosalia: Hirma en Romania – hebben we officiële info over het beroep van de moeder-weduwe. Volgens de huwelijksakte van Irma en Ivo oefende Rosalia het beroep van ‘landbouwster’ uit, terwijl de secretaris in Maldegem op de huwelijksakte van Romania ‘huishoudster’ noteerde voor het beroep van Rosalia. Beide akten werden nochtans geschreven op dezelfde 4 mei 1904.
 
-><span style="color:darkkhaki">**DE MOEDERLIJK FAMILIELIJN VAN OCTAVIA**</span>
+><span style="color:darkkhaki">**DE MOEDERLIJK FAMILIELIJN VAN OCTAVIA: DE WITTE**</span>
 
 >![ow](ow.jpg)
 
 >We kennen de naam van de moeder van Rosalia De Witte: **Joanne Catharine Lievens**. Zij werd geboren op 17 november 1805 in het dorp Oostwinkel. Het is een klein dorp dat ligt op de landweg van Kruipuit naar Leischoot. Op de kaart hierboven situeert het dorp zich ter hoogte van de O van Oostwinkel. Het dorp behoort tot het hart van het Meesjesland, gelegen tussen de grotere gemeenten Ursel en Eeklo. Sinds 2019 hoort Oostwinkel tot de fusiegemeente Lievegem. Joanne Catharine Lievens verhuisde naar Ursel, de gemeente van haar toekomstige man, **Augustinus De Witte**. Het paar trouwde in de winter op 20 januari 1836. Augustinus zelf was afkomstig van Ursel. Op zijn trouwdag was hij reeds 48 jaar. Hij was immers geboren op 9 augustus 1788. Hij was dus 17 jaar ouder dan zijn bruid die op haar trouwdag ook al 30 was geworden. Dat Augustinus heel wat ouder was dan Joanne Catharine toen hij met haar trouwde, kwam doordat hij weduwnaar was. Hij hertrouwde. Zijn eerste vrouw, Regine Francisca Roelandts, was te Ursel overleden in november 1835. Hij bleef niet lang weduwnaar want drie maanden later trouwde hij al met Joanne Catharine Lievens in Ursel. Twee jaar later werd Rosalia geboren. Toen was het koppel De Witte-Lievens al naar Knesselare verhuisd. Rosalia was dus een geboren Knesselaarse met roots in Ursel.
 
-><span style="color:darkkhaki">**DE VADERLIJKE FAMILIELIJN VAN OCTAVIA**</span>
+><span style="color:darkkhaki">**DE VADERLIJKE FAMILIELIJN VAN OCTAVIA: VERSLUYS**</span>
 
 >Voor de kennis van de vaderlijke familielijn van de grootouders van Octavia beschikken we over [vijf oude, belangrijke akten](/officiele-stukken) - van drie op elkaar volgende generaties Versluys. Die akten vormen, anno 2021 de verste sporen in de tijd van de familie Versluys van Knesselare.
 
