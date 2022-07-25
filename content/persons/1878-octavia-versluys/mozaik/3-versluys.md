@@ -116,7 +116,7 @@ Leonia werd de bruid van Alphonsus Van den Broecke. Over de schrijfwijze van de 
 
 >![lou](lou.jpg)
 
->Leonia stierf in de zomer van 1952, op 24 juli,  te Merelbeke. Op haar bidprentje wordt ze ‘Leonie Versluys’ genoemd: ‘Weduwe van Alfons Van den Broecke’. Hier wordt de familienaam van haar overleden man weer in drie woorden geschreven. We weten niet of Octavia naar Merelbeke is gereisd voor de begrafenis van haar oudste zus. Ze zal zeker het bidprentje hebben gekregen dat tijdens de begrafenis van Leonia is uitgedeeld.
+>Leonia werd weduwe op 4 november 1936. Ze bleef weduwe tot aan haar dood in de zomer van 1952, op 24 juli, te Merelbeke. Dat is bijna 16 jaar. Tijdens de Tweede Wereldoorlog en de moeilijke periode van de Wederopbouw daarna is ze op de boerderij kunnen blijven wonen. Haar kinderloze dochter Marie en haar man hadden de boerderij overgenomen. Op haar bidprentje wordt ze ‘Leonie Versluys’ genoemd: ‘Weduwe van Alfons Van den Broecke’. Hier wordt de familienaam van haar overleden man weer in drie woorden geschreven. We weten niet of Octavia naar Merelbeke is gereisd voor de begrafenis van haar oudste zus. Ze zal zeker het bidprentje hebben gekregen dat tijdens de begrafenis van Leonia is uitgedeeld.
 
 >![lbp](lbp.jpg)
 
