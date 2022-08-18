@@ -5,7 +5,7 @@ titel: "Arm Vlaanderen"
 gallerij_titel: "Arm Vlaanderen"
 ---
 
-![avl](avl.gif)
+![avl](avl.jpg)
 
 # Het historisch onderzoek van August De Winne 
 
