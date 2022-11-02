@@ -160,7 +160,8 @@ De dochter van Victor, Rita Versluys, bezorgde Sylvain de mooie studiofoto van h
 
 Twee jaar na de geboorte van Victor, op enkele dagen na, kregen Augustus en Pelagia in het eerste jaar van de nieuwe eeuw, op 21 juni 1900, hun tweede zoon: Alphonse. Zijn voornaam verwijst wellicht naar zijn peter, de jongere broer van Augustus, Alphonsus, een andere broer van Octavia. Over Alphonse kregen we een mooi getuigenis van Patrick Vanhauwaert:
 
-Mijn grootvader schreef gedichten en kleine versjes en hij volgde tot op latere leeftijd cursussen rondom sociale onderwerpen. Hij was een boekenlezer en was zeer creatief met het vlechten van rieten manden en allerhande crea-spullen. Ik blijf mijn grootvader herinneren als een stille en zachte man die tot op zeer hoge leeftijd geïnteresseerd bleef in de vele aspecten van het leven en vooral zijn kleinkinderen een warm hart toedroeg. 
+_Mijn grootvader schreef gedichten en kleine versjes en hij volgde tot op latere leeftijd cursussen rondom sociale onderwerpen. Hij was een boekenlezer en was zeer creatief met het vlechten van rieten manden en allerhande crea-spullen. Ik blijf mijn grootvader herinneren als een stille en zachte man die tot op zeer hoge leeftijd geïnteresseerd bleef in de vele aspecten van het leven en vooral zijn kleinkinderen een warm hart toedroeg._
+ 
 Op het bidprentje van Alphonse, dat erg persoonlijk is opgesteld, wellicht door een van zijn kinderen die spreekt in naam van alle kinderen: ‘Vader… Je waart een mens die van ons hield. Je waart een mens om van te houden.’ Ook citeren ze een fragment uit een van zijn gedichten, met name zijn gedicht _Kinderweelde_. 
 
     O kind dat zelden wordt verstaan
