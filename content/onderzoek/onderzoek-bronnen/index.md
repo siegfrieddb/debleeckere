@@ -35,7 +35,12 @@ Vandaag staan er heel veel en belangrijke bronnen ter beschikking van wie wil op
 
   [Geschiedenis van Aalter](https://geschiedenisvanaalter.blogspot.com/?view=snapshot) is de blog van de Aalterse historicus Peter Laroy.
 
+  [Biliografie van het onderzoek naar de geschiedenis van Aalter](https://www.aalter.be/bibliografie). 
+
   [Erfgoed Aalter](https://erfgoedaalter.be/) is de website van de nieuwe erfgoedvereniging die na de fusie met Knesselare en Aalter op 1 januari 2019 is opgericht. De vereniging is ontstaan uit de omvorming van de voormalige Aalterse _Heemkundige Kring Arthur Verhoustraete_. Deze persoon heeft voor het archief van Aalter pionierswerk verricht. De nieuwe vereniging geeft het trimesterieel tijdschrift _Erfgoed Aalter_ uit.
+
+  [Het Land van de Woestijne](https://erfgoedaalter.be/land-van-de-woestyne/) Hier bevindt zich de digitale toegang tot alle nummers van het tijdschrift _Het Land van de Woestijne_, het tijdschrift van de Vereniging voor heemkunde en geschiedenis, vanaf de 1ste jrg 1977-78 tot en met de laatste, de 41ste jrg 2018.
+
 
   [Forum Eerste Wereldoorlog](http://www.forumeerstewereldoorlog.nl) verzamelt en ontsluit de data die betrekking hebben op de Grote Oorlog.
 
