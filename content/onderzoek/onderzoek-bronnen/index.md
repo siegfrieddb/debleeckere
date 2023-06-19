@@ -35,7 +35,7 @@ Vandaag staan er heel veel en belangrijke bronnen ter beschikking van wie wil op
 
   [Geschiedenis van Aalter](https://geschiedenisvanaalter.blogspot.com/?view=snapshot) is de blog van de Aalterse historicus Peter Laroy.
 
-  [Biliografie van het onderzoek naar de geschiedenis van Aalter](https://www.aalter.be/bibliografie). 
+  [Biliografie van het onderzoek naar de geschiedenis van Aalter](https://www.aalter.be/bibliografie/). 
 
   [Erfgoed Aalter](https://erfgoedaalter.be/) is de website van de nieuwe erfgoedvereniging die na de fusie met Knesselare en Aalter op 1 januari 2019 is opgericht. De vereniging is ontstaan uit de omvorming van de voormalige Aalterse _Heemkundige Kring Arthur Verhoustraete_. Deze persoon heeft voor het archief van Aalter pionierswerk verricht. De nieuwe vereniging geeft het trimesterieel tijdschrift _Erfgoed Aalter_ uit.
 
