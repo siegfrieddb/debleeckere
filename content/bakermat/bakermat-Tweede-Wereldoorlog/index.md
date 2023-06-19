@@ -29,7 +29,7 @@ Hieruit blijkt duidelijk dat Henri niettegenstaande hij een ziekte toch is ingeg
 
 Op het bidprentje van Alfons Versluys, de vader van Henri, lezen we een expliciete verwijzing naar zijn overleden zoon Henri. De tekst is in de ik-vorm opgesteld door de toenmalige pastoor van Aalter, helemaal in de geest en de letter van de leer van de rooms-katholieke kerk. Er staat: Duurbare kinderen, niets liet vermoeden dat ik zo rap Moeder op de weg van de Eeuwigheid volgen zou. Wat God doet, is welgedaan, en Zijn wetten is geen verandering mogelijk. Van hierboven zullen we beide, samen met uw broeder Henri steeds over u blijven waken en voor u ten beste spreken.
 
-Henri Versluys is eerst begraven op het militair kerkhof van de Abdij van Zevenkerken en is nadien herbegraven op het kerkhof van Aalter.
+Sergeant Henri Versluys is eerst begraven op het militair kerkhof van de Abdij van Zevenkerken en is nadien herbegraven op het kerkhof van Aalter.
 
 # Familieverhalen over het thuisfront in de Tweede Wereldoorlog
 
