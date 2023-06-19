@@ -9,7 +9,7 @@ gallerij_titel: "De Tweede Wereldoorlog"
 
 # Onze soldaten in de Tweede Wereldoorlog
 
-Hier stellen van de families De Bleeckere-Versluys die persoonlijk met de Tweede Wereldoorlog direct betrokken zijn geweest, hetzij als militair hetzij als burger.
+Hier stellen we die leden van de families De Bleeckere-Versluys voor die persoonlijk met de Tweede Wereldoorlog direct betrokken zijn geweest, hetzij als militair hetzij als burger.
 
 ><span style="color:darkkhaki">**Sergeant Henri Versluys**</span>
 
