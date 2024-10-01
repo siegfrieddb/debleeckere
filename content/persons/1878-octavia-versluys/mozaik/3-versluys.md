@@ -1,8 +1,31 @@
-## De familienaam Versluys
+
+De voorstelling van het gezin Versluys heeft de volgende titels waarop men kan klikken.
+
+- [De familienaam Versluys](#fam_versluys)
+- [De historische familiefoto](#fam_foto)
+- [Ouders en voorouders](#fam_ouders)
+   - [Carolus Ludovicus en Rosalia De Witte](#fam_carolus_rosalia)
+   - [Weduwe Rosalia](#fam_rosalia)
+   - [De moederlijke familielijn van Octavia : De Witte](#fam_de_witte)
+   - [De vaderlijke familielijn van Octavia: Versluys](#fam_vader_versluys)
+- [Zussen en broers](#fam_zussen)
+   - [De vroeg gestorvenen](#fam_vroeg)
+   - [Leonia](#fam_leonia)
+   - [Augustus](#fam_augustus)
+   - [Hendrik](#fam_hendrik)
+   - [Maria Elisa](#fam_maria)
+   - [Aphonsus](#fam_aphonsus)
+   - [Romania](#fam_romania)
+   - [Hirma](#fam_hirma)
+
+
+
+
+## De familienaam Versluys<a name="fam_versluys"></a>
 
 Eerst is er de familienaam Versluys zelf. Op basis van de gegevens van www.familienaam.be kunnen we stellen dat Versluys een typisch Vlaamse familienaam is. Hij komt, gezien de data van 2008, het meest voor in België en slechts in tweede instantie in Nederland. In België zelf concentreert zich de familienaam Versluys hoofdzakelijk in vier grote Vlaamse, stedelijke regio’s: Gent, Antwerpen, Brugge en Oostende. Een nazaat van de Oostendse tak Versluys, die eigenlijk afkomstig is van Bredene, is daar nu een heel grote immobiliënmakelaar. Die tak is echter geen familie van het gezin Versluys van Knesselare. Die maakt deel uit van een kleine groep in een aantal landelijke gemeenten op de grens tussen Oost- en West-Vlaanderen: Beernem, Ruislede, Zomergem, Maldegem en Knesselare. Anno 2021 leven er in Knesselare verschillende gezinnen Versluys die echter geen familie zijn van elkaar. Het gezin Versluys van Octavia situeert zich aan de zuidkant van Knesselare, in en rond de [Hoekestraat](/1878-octavia-versluys/mozaik/4-weduwe). De familienaam Versluys zelf heeft een typische geografische herkomst. In de naamkunde heet dat fenomeen een microtoponiem. Het betreft familienamen die gekoppeld zijn aan kleine (‘micro’), lokale fenomenen zoals een speciaal huis (‘Van de Casteele), een veld (‘Van de Velde), een waterloop (‘Beeken’ ), een kerkhof (‘Van de Kerckhove), enzovoort. In het geval van Versluys gaat het natuurlijk om een sluis. ‘Van de sluis’ is samengetrokken tot 'versluys'. In het oud-Nederlands schreef men 'sluis' als ‘sluys’ en ‘van de’ werd ‘vander’, wat nog verder werd samengetrokken tot ‘ver..’. En omdat er in Vlaanderen nogal wat sluizen voorkwamen in de steden maar ook in het platteland, is het niet moeilijk om in te zien dat er zich in het verre verleden verschillende families Versluys hebben gevormd die onderling geen verwanten waren. 
 
-## De historische familiefoto
+## De historische familiefoto<a name="fam_foto"></a>
 
 ![3-versluys](3-versluys.jpg)
 
@@ -16,27 +39,27 @@ Op 4 mei 1904 trouwden twee oudere zussen van Octavia. Maria Hirma (‘Irma’) 
 
 >>_Dag iedereen, ik Octavia ben blij jullie de foto van ons gezin te kunnen voorstellen. Mijzelf vind je terug op de tweede rij rechts. Ik leg mijn rechterhand op de leuning van de stoel waarop mijn lieve zus Irma zit. Je ziet mij staan achter mijn oudste zus, Leonia. We verschillen nogal van leeftijd. Op de feestelijke dag was ik 25 en de jongste telg van het gezin, terwijl Leonia al 40 was. Naast mij zien jullie twee van mijn grote broers. Rechts van mij, dat is August, onze oudste broer. Hij was toen al 38. De man links van mij, dat is mijn broer Hendrik, toen ook al 36. Beide mannen waren in ‘de fleur’ van hun leven, zoals men dat gewoon is te zeggen. Links van hem zie je mijn 34jarige zus Maria. Wij beiden zijn de enige vrouwen in het wit. Dat komt omdat we toen nog niet gehuwd waren. Maria en Hendrik staan achter ons moeder. Hendrik heeft zijn rechterarm op haar schouder gelegd. Je ziet dat ons moeder-weduwe Rosalie straalde; voor haar was het een echte hoogdag van haar gezin. Haar officiële naam was Rosalia De Witte. Ons vader, Charles Louis, was 56 toen hij in april 1884 overleed. Op de dubbele trouwdag was ons moeder al 20 jaar weduwe. Naast Maria zie je nog onze 30jarige broer Alfons. Mijn gelukkige zussen, Romania en Irma, kennen jullie al, samen met mijn nieuwe schoonbroers Ivo en Eduard. Misschien verwonderen jullie zich over de aanwezigheid van twee kinderen. Een meisje en een jongen, ze zitten elk op de schoot van de trouwers. Het meisje heet Maria en de jongen noemt Henri. Zij de twee schatten van ons gezin. Ze zijn opgegroeid in ons huis. Het zijn de kinderen van Irma. De mensen in de streek noemen ze ‘voorkinderen’. Ons Irma was op de dag van haar trouw een ongehuwde moeder. Ons gezin heeft altijd voor hen gezorgd en vandaag heeft onze nieuwe schoonbroer en echtgenoot van Irma de twee kinderen erkend, waardoor ze vanaf vandaag De Dobbelaere heten. Zo begrijpen jullie waarom het voor ons allen vandaag een heel bijzondere en mooie heugelijke dag is. Een feestelijke dag om in te kaderen. Dat hebben we dan ook gedaan._
 
-## Ouders en voorouders
+## Ouders en voorouders<a name="fam_ouders"></a>
 
-><span style="color:darkkhaki">**CAROLUS LUDOVICUS VERSLUYS X ROSALIA DE WITTE**</span>
+><a name="fam_carolus_rosalia"></a><span style="color:darkkhaki">**CAROLUS LUDOVICUS VERSLUYS X ROSALIA DE WITTE**</span>
 
 >![rwnm](rwnm.jpg)
 
 >8 juni 1860. Die dag trad er een koppel te Knesselare in het huwelijk. Een nieuw koppel maakte zijn opwachting op het gemeentehuis bij burgermeester Gerard August Wille. De bruid heette **Rosalia De Witte**; de bruidegom luisterde naar de naam **Carolus Ludovicus** (Charles Louis) Versluys. De unieke familiefoto Versluys laat ons toe een beeld te vormen van Rosalia, de moeder van Octavia. Rosalia  was 64 jaar op de dag dat haar twee dochters Hirma en Romania trouwden; zeven en een half jaar later overleed ze op 22 januari 1912. Ze werd 73. Op de dag van haar huwelijk, 8 juni 1860, had Rosalia de dag voordien haar 22ste verjaardag gevierd. Ze was afkomstig van het naburige Ursel waar ze geboren was in de late lente op 7 juni 1838.  Haar ouders waren van Ursel naar Knesselare verhuisd. Wellicht heeft ze daar haar man Charles Louis leren kennen. We beschikken over de [huwelijksakte](/officiele-stukken) van het koppel. De huwelijksakte leert ons dat Carolus Ludovicus Versluys analfabeet was, terwijl Rosalia kon lezen en schrijven. Zij was immers in staat de huwelijksakte te tekenen, haar man niet.
 
-><span style="color:darkkhaki">**WEDUWE ROSALIA**</span>
+><a name="fam_rosalia"><span style="color:darkkhaki">**WEDUWE ROSALIA**</span>
 
 >![clv](clv.jpg)
 
 >Rosalia’s echtgenoot Carolus Ludovicus was toen hij trouwde 32 jaar. Hij was 11 jaar ouder dan zijn bruid. Hij werd namelijk geboren op 12 oktober 1827 te Knesselare. De 56jarige Charles Louis Versluys overleed, zoals blijkt uit zijn [overlijdingsakte](/officiele-stukken) op 5 april 1884. Toen haar man overleed, was Rosalia nog maar 45 jaar. Ze bleef daarna op enkele maanden na nog 28 jaar weduwe; dat is meer dan een kwarteeuw. Ze was meer jaren weduwe dan echtgenote. Haar jongste dochter, Octavia, was slechts 5 jaar toen haar vader overleed. Ze zal wellicht weinig of geen herinneringen hebben gehad aan haar vader. Ze is opgegroeid bij haar moeder-weduwe. Via de twee huwelijksakten van 1904 – de twee dochters van weduwe Rosalia: Hirma en Romania – hebben we officiële info over het beroep van de moeder-weduwe. Volgens de huwelijksakte van Irma en Ivo oefende Rosalia het beroep van ‘landbouwster’ uit, terwijl de secretaris in Maldegem op de huwelijksakte van Romania ‘huishoudster’ noteerde voor het beroep van Rosalia. Beide akten werden nochtans geschreven op dezelfde 4 mei 1904.
 
-><span style="color:darkkhaki">**DE MOEDERLIJK FAMILIELIJN VAN OCTAVIA: DE WITTE**</span>
+><a name="fam_de_witte"><span style="color:darkkhaki">**DE MOEDERLIJK FAMILIELIJN VAN OCTAVIA: DE WITTE**</span>
 
 >![ow](ow.jpg)
 
 >We kennen de naam van de moeder van Rosalia De Witte: **Joanne Catharine Lievens**. Zij werd geboren op 17 november 1805 in het dorp Oostwinkel. Het is een klein dorp dat ligt op de landweg van Kruipuit naar Leischoot. Op de kaart hierboven situeert het dorp zich ter hoogte van de O van Oostwinkel. Het dorp behoort tot het hart van het Meesjesland, gelegen tussen de grotere gemeenten Ursel en Eeklo. Sinds 2019 hoort Oostwinkel tot de fusiegemeente Lievegem. Joanne Catharine Lievens verhuisde naar Ursel, de gemeente van haar toekomstige man, **Augustinus De Witte**. Het paar trouwde in de winter op 20 januari 1836. Augustinus zelf was afkomstig van Ursel. Op zijn trouwdag was hij reeds 48 jaar. Hij was immers geboren op 9 augustus 1788. Hij was dus 17 jaar ouder dan zijn bruid die op haar trouwdag ook al 30 was geworden. Dat Augustinus heel wat ouder was dan Joanne Catharine toen hij met haar trouwde, kwam doordat hij weduwnaar was. Hij hertrouwde. Zijn eerste vrouw, Regine Francisca Roelandts, was te Ursel overleden in november 1835. Hij bleef niet lang weduwnaar want drie maanden later trouwde hij al met Joanne Catharine Lievens in Ursel. Twee jaar later werd Rosalia geboren. Toen was het koppel De Witte-Lievens al naar Knesselare verhuisd. Rosalia was dus een geboren Knesselaarse met roots in Ursel.
 
-><span style="color:darkkhaki">**DE VADERLIJKE FAMILIELIJN VAN OCTAVIA: VERSLUYS**</span>
+><a name="fam_vader_versluys"><span style="color:darkkhaki">**DE VADERLIJKE FAMILIELIJN VAN OCTAVIA: VERSLUYS**</span>
 
 >Voor de kennis van de vaderlijke familielijn van de grootouders van Octavia beschikken we over [vijf oude, belangrijke akten](/officiele-stukken) - van drie op elkaar volgende generaties Versluys. Die akten vormen, anno 2021 de verste sporen in de tijd van de familie Versluys van Knesselare.
 
@@ -59,11 +82,11 @@ Op 4 mei 1904 trouwden twee oudere zussen van Octavia. Maria Hirma (‘Irma’) 
 
 >De oude kerkelijk akten leren dat de familie Versluys een echte Knesselaarse familie is. We komen ze immers al tegen in Knesselare tijdens de tweede helft van de 17de eeuw. Over de tijd daarvoor hebben we vooralsnog geen verdere data kunnen vinden. De enige aanwijzing is de [trouwakte](/officiele-stukken) van Petrus Versluys en Joanna Maenhaut. Daar vinden we de naam Isidorus Versluys. Het zou de grootvader-peter kunnen zijn van Petrus en de vader van Jacobus. Indien dit het geval zou zijn, dan bezitten we een spoor van nog een generatie voor Jacobus. Maar daarover hebben we geen enkele zekerheid. Gerekend vanaf Jacobus  tot aan Octavia tellen we nu zeven generaties Versluys. Tellen we daar de kleinkinderen van Vital De Bleeckere en Octavia Versluys erbij, zij die anno 2021 zestig, zeventig en tachtig zijn, dan komen we al aan negen generaties. Heel wat van hen wonen nog steeds in Knesselare. De kinderen van de kleinkinderen van Octavia vormen de tiende generatie nakomelingen van de Knesselaarse familie Versluys.
 
-## Zussen en broers
+## Zussen en broers<a name="fam_zussen">
 
 >Carolus Ludovicus Versluys en Rosalia De Witte stichtten te Knesselare een gezin dat 12 kinderen telde: 7 dochters en 5 zonen, geboren in loop van twee decennia, tussen 1861 en 1881. Jaartallen vertolken de menselijke realiteit niet. Dat geldt zeker voor het gezin van Charles Louis en Rosalia. In de realiteit werden slechts 9 van de 12 kinderen volwassen: 5 dochters en 4 zonen. Bij het bekijken van de voornamen van de kinderen, valt er direct iets op. De oudste en jongste dochter, Ludovica en Octavia, alsook de meisjes Elisa en Hirma kregen dezelfde eerste voornaam: Maria. Hiermee eerden de ouders de nagedachtenis van hun eerst geborene: Maria Ludovica. Zij werd amper een jaar oud.
 
-><span style="color:darkkhaki">**DE VROEG GESTORVENEN**</span>
+><a name="fam_vroeg"><span style="color:darkkhaki">**DE VROEG GESTORVENEN**</span>
 
 >Dat de ouders van Octavia 12 kinderen kregen, is anno 2022 moeilijk te vatten, maar in de tweede helft van de 19de eeuw was dit eerder het normaal. Octavia is duidelijk in de voetsporen van haar moeder gestapt want ze werd zelf moeder van [11 kinderen](/1878-octavia-versluys/mozaik/2-huwelijk). Wat veel voorkwam in die grote gezinnen, was kindersterfte. De ouders van Octavia hebben drie kinderen op jonge leeftijd zien sterven. Hun eerste twee kinderen hebben ze moeten ‘afgeven’ zoals de volksmond dat toen formuleerde. Het zijn Maria Ludovica en Emma. De eerst geborene van het gezin, Maria Ludovica, zag op 1 april 1861 het levenslicht. Haar tweede voornaam, Ludovica, verwees naar haar vader Ludovicus. Hij was 35 jaar toen hij op 11 mei 1862 naar de gemeente moest om Maria’s overlijden te laten registreren. Maria’s moeder, Rosalia, moest toen nog 23 jaar worden. Haar meisje was juist een jaar oud geworden. De akte noteert dat Maria Ludovica ‘om acht uur ’s morgens’ is overleden ‘zonder bedrijf’ (!) (d.w.z. ‘zonder beroep’) en ‘ongehuwd’ (!). Dat was in die tijd de administratieve geplogenheid, ook al klinkt dat vandaag cynisch.
 
@@ -79,7 +102,7 @@ Voor het jonge koppel Rosalia en Ludovicus was dat gebeuren een erg tragisch voo
 
 >In chronologische volgorde zijn de volgende kinderen volwassen geworden in het gezin Versluys-De Witte: Leonia, Augustus, Hendrik, Maria Elisa, Alphonsus, Romania, Aloysius, Maria Hirma en Maria Octavia. Van zes van deze negen kinderen hebben we een vrij duidelijk beeld. Octavia niet meegeteld, blijven er vijf over van wie we door officiële documenten en bevoorrechte getuigen een vrij concreet portret hebben kunnen vormen. Eerst komt Leonia in beeld.
 
-><span style="color:darkkhaki">**LEONIA**</span>
+><a name="fam_leonia"><span style="color:darkkhaki">**LEONIA**</span>
 
 >Het derde kind werd te Knesselare op zondag 3 januari 1864 geboren. Wegens het overlijden van de eerste twee kinderen groeide Leonia op als de oudste van het gezin. Haar geboorteakte leert dat ze om 22u00 is geboren. Wat nog opvalt, is dat haar voornaam met een accent werd geschreven: Léonia. Later, in haar huwelijksakte, is dat accent weggevallen. Wat de twee getuigen bij de aangifte van de geboorte van Leonia betreft valt er iets op. Het waren de gebroeders Verbiest. De jongste, Hyppolyte, was ‘schrijver’ en woonde te Gent; de oudste, Augustus Jan, was gemeentesecretaris te Knesselare. Wellicht was Hyppolyte die dag op bezoek bij zijn broer. ‘Schrijver’ Hyppolyte Verbiest heeft echter geen literair spoor in het landschap van de Vlaamse letteren achtergelaten.
 
@@ -124,7 +147,7 @@ Leonia werd de bruid van Alphonsus Van den Broecke. Over de schrijfwijze van de 
 
 >![kmt](kmt.jpg)
 
-><span style="color:darkkhaki">**AUGUSTUS**</span>
+><a name="fam_augustus"><span style="color:darkkhaki">**AUGUSTUS**</span>
 
 Het was 5 september 1866 toen de tweede Belgische koning, Leopold II, en zijn echtgenote Marie Henriëtte van Oostenrijk op de markt van Tongeren verschenen. Ze kwamen er de inhuldiging van het standbeeld van de Gallische leider Ambiorix glans bijzetten. Het beeld staat er nog steeds. Enkele maanden eerder was er ook reden tot vreugde, weliswaar zonder enige koninklijke aanwezigheid, in het gezin Versluys-De Witte: de geboorte van hun eerste jongen, Augustus die het levenslicht zag op 5 maart 1866 te Knesselare. Hij werd de oudste broer van Octavia. Toen hij poseerde voor [de gezinsfoto van Versluys-De Witte](/onderzoek-familiefoto%20versluys) was hij 38 jaar en reeds getrouwd. 
 
@@ -188,11 +211,11 @@ Tussen de twee gezinnen van de zonen van Augustus is er altijd een hechte famili
 
 Was er ook een onderlinge familieband tussen de tak van Augustus en die van Octavia? Augustus heeft het grootste deel van zijn leven gewoond en gewerkt in de Kneukelstraat, in de wijk Hoekestraat. Dit was erg dichtbij het huis en boerderij van Octavia en haar man Vitalis De Bleeckere. Ze waren praktisch elkaars buren. Hetzelfde geldt voor Victor, de oudste zoon van Augustus, en zijn gezin; hij had immers de boerderij van zijn vader overgenomen. Die nabijheid heeft de twee gezinnen zeker geholpen om elkaar niet uit het oog te verliezen. Het gezin van de tweede zoon van Augustus, Alphonse, woonde verder, in Ruiselede. Om bij elkaar te komen, moesten ze door het dorp Sint-Maria-Aalter. We hebben een getuigenis van Godelieve Versluys, de kloosterzuster, met wie Johan Versluys, de kleinzoon van Augustus, over dit onderwerp anno 2022 heeft gesproken. Johan sprak ook met de zus van Godelieve, Rachel, eveneens kloosterzuster. We verwezen eerder al naar haar getuigenis over haar ‘prompte’ oom Victor. Beide getuigenissen bevestigen de familiale band tussen Versluys-Ruiselede en Versluys-Knesselare. Godelieve verklaarde dat ze haar grootvader Augustus slechts enkele keren heeft ontmoet. Er waren dus familiale contacten met de Knesselaarse familie, maar die waren voor en tijdens de Tweede Wereldoorlog beperkt. Volgens Godelieve waren die contacten schaars mede omdat Augustus tijdens de periode van zijn tweede huwelijk in Brugge woonde. Zo’n verre familiebezoeken waren in die tijd niet vanzelfsprekend. Ze voegde er nog aan toe: ‘De meeste mensen hadden genoeg werk met het opvoeden van de vele kinderen en de noeste arbeid voor het dagelijkse brood op de plank.’ Godelieve wist wel dat Yvonne, de dochter van haar oom Victor, bij Augustus in Brugge heeft verbleven. Tekenen van die familiale band was ook het feit dat Victor in 1930 de dooppeter werd van de latere kloosterzuster Godelieve. Rita Versluys herinnert zich anno 2022 nog zeer levendig dat zij, haar man Etienne en haar moeder-weduwe Maria in de jaren zestig van vorige eeuw regelmatig op bezoek zijn geweest bij het gezin van oom Alphonse, de schoonbroer van haar moeder-weduwe, in hun toenmalige huis in Sint-Maria-Aalter op de grens met Ruiselede. Het gezin Victor Versluys werd ook uitgenodigd naar de begrafenis van zowel Alphonse als Maria. Tot slot, de oude Godelieve wist ook nog te vertellen aan Johan Versluys dat ze Vitalis De Bleeckere en haar tante Octavia Versluys heeft gekend. 
 
-><span style="color:darkkhaki">**HENDRIK**</span>
+><a name="fam_hendrik"><span style="color:darkkhaki">**HENDRIK**</span>
 
-><span style="color:darkkhaki">**ELISA**</span>
+><a name="fam_elisa"><span style="color:darkkhaki">**MARIA ELISA**</span>
 
-><span style="color:darkkhaki">**ALPHONSUS**</span>
+><a name="fam_alphonsus"><span style="color:darkkhaki">**ALPHONSUS**</span>
 
 >![mj](mj.jpg)
 
@@ -228,4 +251,6 @@ _‘Duurbare kinderen, niets liet vermoeden dat ik zo rap Moeder op de weg van d
 Kleinzoon Jozef Van Haver bevestigt dat zijn grootvader Alfons en zijn grootmoeder Elisa in Brug-Zuid het café Estaminet uitbaatten. Het café werd nadien Café Prefaliet genoemd omdat de arbeiders van de fabriek na het werk in het café kwamen drinken. Het huis bestaat nog maar is verbouwd.
 Rita Versluys, de dochter van Augustus Versluys, de oudere broer van Alfons, herinnert zich dat zij met haar ouders – Victor, de zoon van Augustus, en zijn vrouw Maria Magdalena De Jaeger -  te voet naar Aalter-Brug zijn gegaan om er Nieuwjaar te gaan wensen aan de familie. Ook Lucien De Bleeckere, de oudste zoon van Maurits De Bleeckere, zoon van Octavia, herinnert zich dat hij als kind thuis in Knesselare Jozef Van Haver te hebben gezien voor de levering van vlees. Jozef hielp hiermee zijn vader Maurits van Haver die de beenhouwerij van zijn schoonvader Alfons had overgenomen in 1950. Dat betekent dat er in de jaren vijftig van vorige eeuw een tijdje toch een band is geweest tussen de kinderen van Octavia en die van haar broers. Die familieband is in de jaren zestig van vorige eeuw geleidelijk eerder onzichtbaar geworden. De nieuwe tijdgeest van de ‘sixties’ deed de nauwe familiebanden geleidelijk afnemen.
 
-><span style="color:darkkhaki">**HIRMA**</span>
+><a name="fam_romania"><span style="color:darkkhaki">**ROMANIA**</span>
+
+><a name="fam_hirma"><span style="color:darkkhaki">**HIRMA**</span>
