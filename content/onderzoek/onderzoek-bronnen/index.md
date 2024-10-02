@@ -66,6 +66,13 @@ De Pauw, Tineke, Wille, Erik, _Dialect Woordenboek. Zuidwest-Meetjesland en omst
 
 >Tineke De Pauw verzorgde het taalkundige deel, terwijl Erik Wille het deel met de streekverhalen schreef. Het tweede deel is het meest uitgebreide.
 
+De Schaependrijver, Sophie, _De Groote Oorlog – Het Koninkrijk België tijdens de Eerste Wereldoorlog_. Antwerpen – Amsterdam, Atlas, 1997.
+
+De Schaependrijver, Sophie, _Brugge Bolwerk. Bezette Stad in 14-18._ Veurne, Hannibal, 2014.
+
+> Beide studies ondersteunden het onderzoek naar de geschiedenis van de door de Duitsers bezette stad Brugge tijdens de Eerste Wereldoorlog. 
+
+
 Geldhof, Jozef, _Pelgrims, dulle lieden en vondelingen te Brugge (1275-1975). Zeven eeuwen geschiedenis van het Sint-Juliaansgasthuis en van de Psychiatrische Kliniek O.-L.-Vrouw te Brugge-Sint-Michiels_. Brugge, Psychiatrische Kliniek O.-L.-Vrouw, 1975.
 
 >De studie werd geschreven naar aanleiding van de 75ste verjaardag van het huidige PZ Sint-Elisabeth. De studie hielp bij het onderzoek naar [het levensverhaal van Maria Elisa Versluys](https://www.debleeckere.be/1878-octavia-versluys/mozaik/3-versluys).
@@ -73,6 +80,10 @@ Geldhof, Jozef, _Pelgrims, dulle lieden en vondelingen te Brugge (1275-1975). Ze
 Ryserhove, Alfons, _Het Knesselare en Ursel van toen. Een verzameling foto's en prentbriefkaarten aangevuld met beknopte historische gegevens._ Brugge, Uitgeverij Marc Van de Wiele, 1983.
 
 >Het eerste deel handelt over Knesselare en bevat veel historische foto's van de gemeente. Bij de foto's hoort een interessante en leerrijke toelichting, geschreven door Alfons Ryserhove. In de jaren tachtig van vorige eeuw was hij de specialist in de geschiedenis en de volkskunde van Knesselare en omstreken. Het boek bevat 230 foto's en in de begeleidende teksten worden meer dan 2500 bewoners genoemd. In het voorwoord licht de auteur het boek toe als volgt: '_Een eeuw menselijk verleden ligt in dit boek vastgelegd, een eeuw simpel volksleven_.'
+
+Schepers, Luc, _Brugge Bezet. 1914/1918 en 1940/1944. Het leven in een stad tijdens de twee wereldoorlogen._ Tielt, Lannoo, 1985.
+
+>Dit is de eerste grote wetenschappelijke studie over bezet Brugge tijdens de twee wereldoorlogen. 
 
 Stockman, Luc, _Geschiedenis van Aalter_. Aalter, Gemeentebestuur, 1979.
 
