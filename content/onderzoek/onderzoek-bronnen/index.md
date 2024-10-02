@@ -70,7 +70,7 @@ De Schaependrijver, Sophie, _De Groote Oorlog – Het Koninkrijk België tijdens
 
 De Schaependrijver, Sophie, _Brugge Bolwerk. Bezette Stad in 14-18._ Veurne, Hannibal, 2014.
 
-> Beide studies ondersteunden het onderzoek naar de geschiedenis van de door de Duitsers bezette stad Brugge tijdens de Eerste Wereldoorlog. 
+> Beide studies ondersteunden het onderzoek naar de geschiedenis van de door de Duitsers bezette stad Brugge tijdens [de Eerste Wereldoorlog.]((https://www.debleeckere.be/bakermat-Eerste-Wereldoorlog)) 
 
 
 Geldhof, Jozef, _Pelgrims, dulle lieden en vondelingen te Brugge (1275-1975). Zeven eeuwen geschiedenis van het Sint-Juliaansgasthuis en van de Psychiatrische Kliniek O.-L.-Vrouw te Brugge-Sint-Michiels_. Brugge, Psychiatrische Kliniek O.-L.-Vrouw, 1975.
@@ -83,7 +83,7 @@ Ryserhove, Alfons, _Het Knesselare en Ursel van toen. Een verzameling foto's en 
 
 Schepers, Luc, _Brugge Bezet. 1914/1918 en 1940/1944. Het leven in een stad tijdens de twee wereldoorlogen._ Tielt, Lannoo, 1985.
 
->Dit is de eerste grote wetenschappelijke studie over bezet Brugge tijdens de twee wereldoorlogen. 
+>Dit is de eerste grote wetenschappelijke studie over bezet Brugge tijdens [de twee wereldoorlogen.](https://www.debleeckere.be/bakermat-Eerste-Wereldoorlog)
 
 Stockman, Luc, _Geschiedenis van Aalter_. Aalter, Gemeentebestuur, 1979.
 
