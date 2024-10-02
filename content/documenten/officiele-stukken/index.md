@@ -50,6 +50,16 @@ beeld geven van de familie Versluys in Knesselare.
 
 ![vjac](vjac.jpg)
 
+<span style="color:darkkhaki">**BETREFFENDE MARIA ELISA VERSLUYS**</span>
+
+![me](me.jpg)
+
+Het samengestelde beeld toont links ervan een uitsnede van het bijzonder grote en zware collocatieboek van het Asile Notre-Dame, Sint-Michiels, Brugge, waar Maria Elisa verbleef van de zomer 1921 tot aan haar overlijden op 29 september 1933. De uitsnede vermeldt de nummers van de opgenomen patiënten in de jaren 1921-1933. De rechtse uitsnede toont de hoofding van de dubbele pagina die is aangemaakt bij de opname van Maria Elisa in het Asile. De voorgedrukte data zijn kalligrafisch ingevuld. Maria Elisa kreeg het patiëntennummer 699 en ze werd opgeschreven als ‘Versluys Marie’.
+
+![mev](mev.jpg)
+
+Tussen de twee grote bladzijden van het Logboek nummer 699 steken twee handgeschreven doktersbriefjes van de Brugse geneesheer Eugeen Veys. In de Brugse Noordzandstraat 53 had hij zijn eigen privépraktijk voor oor-, neus- en keelziekten. Hij werkte tevens als hoofdgeneesheer in het Asile Sainte-Marie. Die twee doktersbriefjes zijn bijzonder uitzonderlijk daar Sylvain ter plaatse heeft kunnen vaststellen in het bijzijn van archivaris Anne Vanhoutte dat dergelijke doktersbriefjes enkel in het Logboek bij Maria Elisa aanwezig zijn. Het eerste doktersbriefje is tweezijdig beschreven en dateert van 29 november 1921. Het tweede, hierboven afgebeeld, is eenzijdig beschreven op 11 maart 1922. Dr. Veys noteert dat Maria Elisa nog niet is genezen en nog niet in vrijheid kan worden gesteld. Uiteindelijk zou die toestand zo blijven tot aan haar overlijden in 1933.
+
 ## Familie De Bleeckere
 
 
