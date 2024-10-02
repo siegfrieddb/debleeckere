@@ -3,7 +3,7 @@ author: "sylvain"
 date: "2019-01-25"
 gallerij_titel: "Bronnen"
 ---
-Onderzoek zonder bronnen is onbestaande. Dat geldt bij uitstek voor genealogisch en historisch onderzoek in het algemeen. Op de diverse pagina's van deze site is er geen directe bronvermelding van beelden en teksten. Heel wat actuele beelden zijn door [Sylvain](1950-sylvain-de-bleeckere) zelf gemaakt, sommige ook door [Emeric](1946-emeric-de-bleeckere).
+Onderzoek zonder bronnen is onbestaande. Dat geldt bij uitstek voor genealogisch en historisch onderzoek in het algemeen.
 
 Sylvain is de auteur van de teksten. Hij verzorgt de eindredactie van teksten van anderen die altijd met naam worden genoemd. Ook de namen van getuigen worden altijd vermeld. Wanneer het iemand van de drie generaties De Bleeckere-Versluys betreft, wordt enkel de voornaam vermeld met een directe link naar de pagina van die persoon. Letterlijke citaten worden cursief en met aanhaling gepubliceerd. De bronnen voor teksten en beelden die verder reiken dan de data van de familie De Bleeckere-Versluys worden hier in deze rubriek onder '_Publieke bronnen_' vermeld en voorgesteld. 
 
@@ -15,7 +15,7 @@ Voor deze site zijn de bevoorrechte getuigen onmisbaar. Dat zijn hier eerst en v
 
  Sinds december 2018 voert Emeric verschillende gesprekken met nichten en neven, en verzamelt hij ook documenten uit verschillende familiearchieven. Hij ondersteunt sinds die tijd Sylvain bij het verder verzamelen van getuigenissen van de derde generatie. 
 
- Sarah, de oudste dochter van Sylvain, en haar dochter Thirza die aan de Rijksuniversiteit geschiedenis studeert, ondersteunen het onderzoek naar digitale en geschreven data over de historische en geografische context, eigen aan de familie De Bleeckere-Versluys. 
+ Sarah, de oudste dochter van Sylvain, en haar dochter Thirza, master in de geschiedenis (RUG), ondersteunen het onderzoek naar digitale en geschreven data over de historische en geografische context, eigen aan de familie De Bleeckere-Versluys. 
 
  Tijdens het onderzoek naar de familiefoto Versluys kwam Sylvain in contact met enkele kleinkinderen van leden van het gezin Versluys-De Witte. Die staan vermeld in het verslag van [het onderzoek](https://www.debleeckere.be/onderzoek-familiefoto%20versluys), op deze site geplaatst in maart 2021. 
 
@@ -41,7 +41,6 @@ Vandaag staan er heel veel en belangrijke bronnen ter beschikking van wie wil op
 
   [Het Land van de Woestijne](https://erfgoedaalter.be/land-van-de-woestyne/) Hier bevindt zich de digitale toegang tot alle nummers van het tijdschrift _Het Land van de Woestijne_, het tijdschrift van de Vereniging voor heemkunde en geschiedenis, vanaf de 1ste jrg 1977-78 tot en met de laatste, de 41ste jrg 2018.
 
-
   [Forum Eerste Wereldoorlog](http://www.forumeerstewereldoorlog.nl) verzamelt en ontsluit de data die betrekking hebben op de Grote Oorlog.
 
   De archieven van de volgende gemeenten bevatten data die voor de familie De Bleeckere-Versluys zeer belangrijk zijn: [Gemeente Beernem](https://www.beernem.be/product/1287/archief-van-de-gemeente) bevat het archief van Sint-Joris-ten-Distel, [Gemeente Aalter](https://www.aalter.be/archief) bevat het archief van de gemeenten Knesselare en Aalter.
@@ -51,9 +50,9 @@ Vandaag staan er heel veel en belangrijke bronnen ter beschikking van wie wil op
 
   ## Geschreven bronnen
 
-  Luc Stockman, _Geschiedenis van Aalter_. Aalter, Gemeentebestuur, 1979.
+Casselman,Joris, _Albert De Haene (1910-1961) en Hubert Ronse (1928-2010.) Honderd jaar Psychiatrisch Ziekenhuis Onze-Lieve-Vrouw Brugge (1910-2010) met voorgeschiedenis vanaf de twaalfde eeuw._ Antwerpen, Garant, 2013.
 
->Dit is het belangrijkste, wetenschappelijke werk over de geschiedenis van de gemeente Aalter, met zijn drie dorpen: Aalter-Centrum, Sint-Maria-Aalter en Aalter-Brug. Het is geschreven na grondige studie van de toen beschikbare studies in opdracht van het schepencollege naar aanleiding van het twintigjarig ambtsjubeleum (1915-1979) van burgermeester Jan De Crem. Het lijvige boek verscheen in 1979.
+>Deze studie kwam tot stand naar aanleiding van de 100ste verjaardag van het huidige PS Sint-Elisabeth. Die studie speelde een rol in het onderzoek naar [het levensverhaal van Maria Elisa Versluys](https://www.debleeckere.be/1878-octavia-versluys/mozaik/3-versluys).
 
  Jan Camerlinckx, _Van Velt Houck tot parochie Sint-Maria-Aalter_. Aalter, Heemkundige Kring Arthur Verhoutstraete, 2001.
 
@@ -67,9 +66,17 @@ Tineke De Pauw, Erik Wille, _Dialect Woordenboek. Zuidwest-Meetjesland en omstre
 
 >Tineke De Pauw verzorgde het taalkundige deel, terwijl Erik Wille het deel met de streekverhalen schreef. Het tweede deel is het meest uitgebreide.
 
+Geldhof, Jozef, _Pelgrims, dulle lieden en vondelingen te Brugge (1275-1975). Zeven eeuwen geschiedenis van het Sint-Juliaansgasthuis en van de Psychiatrische Kliniek O.-L.-Vrouw te Brugge-Sint-Michiels_. Brugge, Psychiatrische Kliniek O.-L.-Vrouw, 1975.
+
+>De studie werd geschreven naar aanleiding van de 75ste verjaardag van het huidige PZ Sint-Elisabeth. De studie hielp bij het onderzoek naar [het levensverhaal van Maria Elisa Versluys](https://www.debleeckere.be/1878-octavia-versluys/mozaik/3-versluys).
+
 Alfons Ryserhove, _Het Knesselare en Ursel van toen. Een verzameling foto's en prentbriefkaarten aangevuld met beknopte historische gegevens._ Brugge, Uitgeverij Marc Van de Wiele, 1983.
 
 >Het eerste deel handelt over Knesselare en bevat veel historische foto's van de gemeente. Bij de foto's hoort een interessante en leerrijke toelichting, geschreven door Alfons Ryserhove. In de jaren tachtig van vorige eeuw was hij de specialist in de geschiedenis en de volkskunde van Knesselare en omstreken. Het boek bevat 230 foto's en in de begeleidende teksten worden meer dan 2500 bewoners genoemd. In het voorwoord licht de auteur het boek toe als volgt: '_Een eeuw menselijk verleden ligt in dit boek vastgelegd, een eeuw simpel volksleven_.'
+
+Stockman, Luc, _Geschiedenis van Aalter_. Aalter, Gemeentebestuur, 1979.
+
+>Dit is het belangrijkste, wetenschappelijke werk over de geschiedenis van de gemeente Aalter, met zijn drie dorpen: Aalter-Centrum, Sint-Maria-Aalter en Aalter-Brug. Het is geschreven na grondige studie van de toen beschikbare studies in opdracht van het schepencollege naar aanleiding van het twintigjarig ambtsjubeleum (1915-1979) van burgermeester Jan De Crem. Het lijvige boek verscheen in 1979.
 
 Athur Verhoustraete, Alfons Ryserhove, _Leenroerig overzicht van Aalter en Knesselare_. Maldegem, Standaert-Van Steene, 1965.
 
@@ -86,3 +93,5 @@ Jan Van de Casteele, Paul Verhoestraete, _Over fotografen en fotografie_, in: Id
 Jan Van de Casteele, _Van baljuw tot timmerman-fotograaf._ Knesselare, 1995. 
 
 >Het boek handelt over de geschiedenis van de fotografenfamilie [Hooft](bakermat-'Knesseloare') van Knesselare.
+
+
