@@ -50,19 +50,19 @@ Vandaag staan er heel veel en belangrijke bronnen ter beschikking van wie wil op
 
   ## Geschreven bronnen
 
-Casselman,Joris, _Albert De Haene (1910-1961) en Hubert Ronse (1928-2010.) Honderd jaar Psychiatrisch Ziekenhuis Onze-Lieve-Vrouw Brugge (1910-2010) met voorgeschiedenis vanaf de twaalfde eeuw._ Antwerpen, Garant, 2013.
+Casselman, Joris, _Albert De Haene (1910-1961) en Hubert Ronse (1928-2010.) Honderd jaar Psychiatrisch Ziekenhuis Onze-Lieve-Vrouw Brugge (1910-2010) met voorgeschiedenis vanaf de twaalfde eeuw._ Antwerpen, Garant, 2013.
 
 >Deze studie kwam tot stand naar aanleiding van de 100ste verjaardag van het huidige PS Sint-Elisabeth. Die studie speelde een rol in het onderzoek naar [het levensverhaal van Maria Elisa Versluys](https://www.debleeckere.be/1878-octavia-versluys/mozaik/3-versluys).
 
- Jan Camerlinckx, _Van Velt Houck tot parochie Sint-Maria-Aalter_. Aalter, Heemkundige Kring Arthur Verhoutstraete, 2001.
+ Camerlinckx, Jan, _Van Velt Houck tot parochie Sint-Maria-Aalter_. Aalter, Heemkundige Kring Arthur Verhoutstraete, 2001.
 
 >Dit werk vertelt de geschiedenis van Sint-Maria-Aalter naar aanleiding van de viering van 150 jaar Parochie Sint-Maria-Aalter op 15 september 2001.
 
-Jan Camerlinckx, _De vroeger bezittingen van de jezuïeten te Aalter, de verdere evolutie van het domein na de afschaffing van de orde en de openbare verkoping van hun goederen in 1780_. Aalter, Heemkundige Kring Arthur Verhoutstraete, 2018. 
+Camerlinckx, Jan, _De vroeger bezittingen van de jezuïeten te Aalter, de verdere evolutie van het domein na de afschaffing van de orde en de openbare verkoping van hun goederen in 1780_. Aalter, Heemkundige Kring Arthur Verhoutstraete, 2018. 
 
 >Dit werk bevat de resultaten van het onderzoek van de auteur naar de geschiedenis van het domein van jezuïeten, het domein aan de Blekkervijver van het latere Sint-Maria-Aalter.
 
-Tineke De Pauw, Erik Wille, _Dialect Woordenboek. Zuidwest-Meetjesland en omstreken_. Aalter, Erik Wille, 2013.
+De Pauw, Tineke, Wille, Erik, _Dialect Woordenboek. Zuidwest-Meetjesland en omstreken_. Aalter, Erik Wille, 2013.
 
 >Tineke De Pauw verzorgde het taalkundige deel, terwijl Erik Wille het deel met de streekverhalen schreef. Het tweede deel is het meest uitgebreide.
 
@@ -70,7 +70,7 @@ Geldhof, Jozef, _Pelgrims, dulle lieden en vondelingen te Brugge (1275-1975). Ze
 
 >De studie werd geschreven naar aanleiding van de 75ste verjaardag van het huidige PZ Sint-Elisabeth. De studie hielp bij het onderzoek naar [het levensverhaal van Maria Elisa Versluys](https://www.debleeckere.be/1878-octavia-versluys/mozaik/3-versluys).
 
-Alfons Ryserhove, _Het Knesselare en Ursel van toen. Een verzameling foto's en prentbriefkaarten aangevuld met beknopte historische gegevens._ Brugge, Uitgeverij Marc Van de Wiele, 1983.
+Ryserhove, Alfons, _Het Knesselare en Ursel van toen. Een verzameling foto's en prentbriefkaarten aangevuld met beknopte historische gegevens._ Brugge, Uitgeverij Marc Van de Wiele, 1983.
 
 >Het eerste deel handelt over Knesselare en bevat veel historische foto's van de gemeente. Bij de foto's hoort een interessante en leerrijke toelichting, geschreven door Alfons Ryserhove. In de jaren tachtig van vorige eeuw was hij de specialist in de geschiedenis en de volkskunde van Knesselare en omstreken. Het boek bevat 230 foto's en in de begeleidende teksten worden meer dan 2500 bewoners genoemd. In het voorwoord licht de auteur het boek toe als volgt: '_Een eeuw menselijk verleden ligt in dit boek vastgelegd, een eeuw simpel volksleven_.'
 
@@ -78,19 +78,19 @@ Stockman, Luc, _Geschiedenis van Aalter_. Aalter, Gemeentebestuur, 1979.
 
 >Dit is het belangrijkste, wetenschappelijke werk over de geschiedenis van de gemeente Aalter, met zijn drie dorpen: Aalter-Centrum, Sint-Maria-Aalter en Aalter-Brug. Het is geschreven na grondige studie van de toen beschikbare studies in opdracht van het schepencollege naar aanleiding van het twintigjarig ambtsjubeleum (1915-1979) van burgermeester Jan De Crem. Het lijvige boek verscheen in 1979.
 
-Athur Verhoustraete, Alfons Ryserhove, _Leenroerig overzicht van Aalter en Knesselare_. Maldegem, Standaert-Van Steene, 1965.
+Verhoustraete,Athur, Ryserhove, Alfons, _Leenroerig overzicht van Aalter en Knesselare_. Maldegem, Standaert-Van Steene, 1965.
 
 >Het boek bevat twee delen: Leenroerig Overzicht van Aalter en Feodaal Knesselare. 
 
-Jan Van de Casteele, Paul Verhoestraete, _Over Knesselare Gesproken. Babbels in de aders van ons dorp._ Knesselare, 2011. 
+Van de Casteele, Jan, Verhoestraete, Paul, _Over Knesselare Gesproken. Babbels in de aders van ons dorp._ Knesselare, 2011. 
 
 >Dit is het eerste gezamenlijke boek dat de auteurs over Knesselare schreven. 
 
-Jan Van de Casteele, Paul Verhoestraete, _Over fotografen en fotografie_, in: Idem, _Over Knesselare gesproken. Foto’s en feiten uit een beeld-schoon dorp._ 2014.
+Van de Casteele, Jan, Verhoestraete, Paul, _Over fotografen en fotografie_, in: Idem, _Over Knesselare gesproken. Foto’s en feiten uit een beeld-schoon dorp._ 2014.
 
 >Het boek telt dertig hoofdstukken die via woord en beeld handelen over landschap, taal, verdwenen bedrijven, oude winkels, verenigingsleven, sport, stoeten, processies, cafés, feesten, muziek. Jan Van de Casteele verduidelijkt het boek in een interview met Het Nieuwsblad (april 2013): '_De historische foto's zijn een selectie uit wat we voorlopig al vonden in het archief van de dorpsfotografen Hooft, van perscorrespondent Jozef Vanthuyne en van amateur-fotograaf Edgard Van de Casteele. Die drie geven - samen met beelden uit koekendozen - toch wel een goed beeld van hoe een samenleving er op relatief korte tijd toch helemaal anders ging uitzien. De meeste actuele beelden komen van Paul Verhoestraete, die niet alleen via zijn foto's meewerkte aan het boek, maar ook de beeldbank van de familie Hooft doornam en deels digitaliseerde._’
 
-Jan Van de Casteele, _Van baljuw tot timmerman-fotograaf._ Knesselare, 1995. 
+Van de Casteele, Jan, _Van baljuw tot timmerman-fotograaf._ Knesselare, 1995. 
 
 >Het boek handelt over de geschiedenis van de fotografenfamilie [Hooft](bakermat-'Knesseloare') van Knesselare.
 
