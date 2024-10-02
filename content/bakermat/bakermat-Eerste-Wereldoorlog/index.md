@@ -7,6 +7,7 @@ gallerij_titel: "De Eerste Wereldoorlog"
 <span style="color:darkkhaki">**HET 'DUITSE' BRUGGE VAN MARIA ELISA VERSLUYS**</span> 
 
 ![bm](bm.jpg)
+
 Duitse soldaten op de Markt Brugge 1915 (Beelbank Brugge)
 
 Toen in 2014-2018 de honderdste verjaardag van WO I werd herdacht, stond vooral de regio van de historische Ieper Boog (Ypres Salient) in de schijnwerpers. De Vlaamse en regionale overheden investeerden flink om de Westhoek een toeristische boost te geven. Het met soldatenkerkhoven bezaaide landschap van Flanders Fields werd op die manier een economische hefboom. Het vernieuwde Ieperse ‘In Flanders Fields’-museum fungeerde als centraal steunpunt. Deze visie had echter een keerzijde: één zijde van de oorlogsmedaille werd overbelicht, waardoor de andere zijde praktisch volledig werd vergeten. Aldus werd de reeds bestaande blinde vlek in het collectieve oorlogsgeheugen vergroot: het lot van de Belgische burgers die vier jaar lang ― meer dan 50 maanden en drie hongerwinters ― moesten zien te overleven onder de zware militaire bezetting door het leger van de Duitse Keizer Wilhelm II. Het liberale, jonge België veranderde plots in een Pruisische politiestaat.
