@@ -6,7 +6,7 @@ gallerij_titel: "Brugge"
 ---
 <span style="color:darkkhaki">**HET GRAND CAFE CHARLEMAGNE**</span>
 
-Het belangrijkste deel van het actieve leven van [Maria Elisa Versluys]((https://www.debleeckere.be/1878-octavia-versluys/mozaik/3-versluys)) is nauw verbonden met Grand Café Charlemagne. In de eerste twee decennia van de 20ste eeuw was het geen gewone volkscafé. Het was een etablissement met prestige. De lange Franse naam getuigt daarvan. Het neoclassicistische breedhuis met horecafunctie, alsook de aanpalende huizenrij in dezelfde neoclassitische stijl, was ontworpen door niemand minder dan de toenmalige gevierde stadsarchitect Louis Delacenserie. Het hele project, het breedhuis en huizenrij, dateert van de laatste periode van diens carrière. Hij stierf in september 1909.
+Het belangrijkste deel van het actieve leven van [Maria Elisa Versluys](https://www.debleeckere.be/1878-octavia-versluys/mozaik/3-versluys) is nauw verbonden met Grand Café Charlemagne. In de eerste twee decennia van de 20ste eeuw was het geen gewone volkscafé. Het was een etablissement met prestige. De lange Franse naam getuigt daarvan. Het neoclassicistische breedhuis met horecafunctie, alsook de aanpalende huizenrij in dezelfde neoclassitische stijl, was ontworpen door niemand minder dan de toenmalige gevierde stadsarchitect Louis Delacenserie. Het hele project, het breedhuis en huizenrij, dateert van de laatste periode van diens carrière. Hij stierf in september 1909.
 
 ![ogc](ogc.jpg)
 
