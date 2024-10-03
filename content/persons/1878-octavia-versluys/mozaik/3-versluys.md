@@ -16,6 +16,7 @@ De voorstelling van het gezin Versluys heeft de volgende titels waarop men kan k
    - [Maria Elisa](#fam_maria elisa)
    - [Alphonsus](#fam_alphonsus)
    - [Romania](#fam_romania)
+   - [Aloysius](#fam_aloysius)
    - [Hirma](#fam_hirma)
 
 
@@ -309,6 +310,9 @@ Kleinzoon Jozef Van Haver bevestigt dat zijn grootvader Alfons en zijn grootmoed
 Rita Versluys, de dochter van Augustus Versluys, de oudere broer van Alfons, herinnert zich dat zij met haar ouders – Victor, de zoon van Augustus, en zijn vrouw Maria Magdalena De Jaeger -  te voet naar Aalter-Brug zijn gegaan om er Nieuwjaar te gaan wensen aan de familie. Ook Lucien De Bleeckere, de oudste zoon van Maurits De Bleeckere, zoon van Octavia, herinnert zich dat hij als kind thuis in Knesselare Jozef Van Haver te hebben gezien voor de levering van vlees. Jozef hielp hiermee zijn vader Maurits van Haver die de beenhouwerij van zijn schoonvader Alfons had overgenomen in 1950. Dat betekent dat er in de jaren vijftig van vorige eeuw een tijdje toch een band is geweest tussen de kinderen van Octavia en die van haar broers. Die familieband is in de jaren zestig van vorige eeuw geleidelijk eerder onzichtbaar geworden. De nieuwe tijdgeest van de ‘sixties’ deed de nauwe familiebanden geleidelijk afnemen.
 
 ><a name="fam_romania"><span style="color:darkkhaki">**ROMANIA**</span>
+
+
+><a name="fam_aloysius"><span style="color:darkkhaki">**ALOYSIUS**</span>
 
 
 ><a name="fam_hirma"><span style="color:darkkhaki">**HIRMA**</span>
