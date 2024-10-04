@@ -22,6 +22,8 @@ De meesten van de derde generatie, de kleinkinderen van Vitalis en Octavia, hebb
 
 Meer duiding volgt later.
 
+## Trouwfoto van 1933
+
 ![foto3](foto3.jpg)
 
 De groepsfoto dateert van 1933. Een duiding volgt later.
