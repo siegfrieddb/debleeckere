@@ -21,3 +21,7 @@ De bespreking van de foto volgt later.
 De meesten van de derde generatie, de kleinkinderen van Vitalis en Octavia, hebben deze foto niet eerder gezien. Het is via toedoen van Emeric dat deze foto aan de oppervlakte is gekomen. De vier zussen De Bleeckere poseren hier volgens leeftijd (van rechts naar links): [Maria](1908-maria-de-bleeckere), [Irma](1913-irma-de-bleeckere), [Berta](1914-berta-de-bleeckere) en [Lea](1922-lea-de-bleeckere) met op de achtergrond een nog ongekende grapjas in spookkostuum.
 
 Meer duiding volgt later.
+
+![foto3](foto3.jpg)
+
+De groepsfoto dateert van 1933. Een duiding volgt later.
