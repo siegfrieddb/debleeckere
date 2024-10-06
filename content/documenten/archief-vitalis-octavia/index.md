@@ -4,7 +4,7 @@ date: "2019-01-25"
 gallerij_titel: "archief-vitalis-octavia"
 titel: "Archief Vitalis-Octavia"
 ---
-Het familiearchief bevat documenten die zijn aangetroffen in de eigen documentatie van en over de familie, die de diverse kinderen van [Vitalis](1879-vitalis-de-bleeckere) en [Octavia](1878-octavia-versluys) hebben bewaard. De belangrijkste foto uit het archief is de openingsfoto van deze website. Ontdek hier nog andere foto's.
+Het familiearchief bevat documenten die zijn aangetroffen in de eigen documentatie van en over de familie, die de diverse kinderen en kleinkinderen van [Vitalis](1879-vitalis-de-bleeckere) en [Octavia](1878-octavia-versluys) hebben bewaard. De belangrijkste foto uit het archief is de openingsfoto van deze website.
 
 ## Groepsfoto op een zonnige dag
 
@@ -22,7 +22,7 @@ De meesten van de derde generatie, de kleinkinderen van Vitalis en Octavia, hebb
 
 Meer duiding volgt later.
 
-## Trouwfoto van 1933
+## Familiefoto van 1933
 
 ![foto3](foto3.jpg)
 
