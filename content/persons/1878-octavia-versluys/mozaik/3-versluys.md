@@ -34,7 +34,7 @@ We hebben het geluk dat we van onze tak Versluys een belangrijke historische fam
 
 We weten dat de foto dateert van 1904 en in menig opzicht echt speciaal is. Het betreft namelijk een dubbele huwelijksfoto. Bij de feestelijke gelegenheid van twee huwelijken op een en dezelfde dag besliste het gezin Versluys een voor die tijd nog ongewone gezinsfoto te laten maken. De dag van het dubbele huwelijk was 4 mei 1904: het ene werd voltrokken in de voormiddag in het gemeentehuis van Knesselare, het andere vond plaats in de namiddag in dat van Maldegem. De foto moet wellicht die dag op de middag – tussen beide huwelijken in - zijn gemaakt omwille van het noodzakelijke zonlicht. De toen nog vrij primitieve fotografie had toen veel zonlicht nodig. Ziehier het resultaat van het onderzoek naar de foto.  
 
-![namen](namen.jpg)
+![nam](nam.jpg)
 
 Op 4 mei 1904 trouwden twee oudere zussen van Octavia. Maria Hirma (‘Irma’) Versluys trouwde in Knesselare met Ivo De Dobbelaere, terwijl Romania Versluys op diezelfde dag in Maldegem huwde met Eduardus Danneels. De twee bruiden zitten vooraan op een stoel met hun oude moeder-weduwe tussen hen. De echtgenoten, zij die vanzelfsprekend geen Versluysen waren, staan aan de zijkanten: De Dobbelaere helemaal rechts zittend, terwijl Danneels helemaal links bovenaan staat nabij zijn bruid Romania op de stoel. Het valt op dat de twee trouwzussen veel op elkaar lijken. Ze hadden wellicht een sterke band, wat kan helpen begrijpen dat ze op dezelfde dag wilden trouwen. Wat hierna volgt, laten we door Octavia zelf vertellen.
 
