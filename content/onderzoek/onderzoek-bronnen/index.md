@@ -105,4 +105,6 @@ Van de Casteele, Jan, _Van baljuw tot timmerman-fotograaf._ Knesselare, 1995.
 
 >Het boek handelt over de geschiedenis van de fotografenfamilie [Hooft](bakermat-'Knesseloare') van Knesselare.
 
+Warnier, Dave, _De gecombineerde raids op Zeebrugge en Oostende_, in: De Vos, Luc, Simoens, Tom, Warnier Dave, Bostyn, Franky, _14-18 Oorlog in België._ Leuven, Davidsfonds, 2014, pp. 449-459. Idem, _Marinekorps Fandern_, in: o.c., pp.  460-462.
 
+>Het lijvige boek behandelt de aanloop van de Eerste Wereldoorlog in Europa (deel 1) en van het verloop ervan in België (deel 2 en 3). Daarna zoomen de auteurs in op 'Andere fronten' (deel 4), 'Het laatste oorlogsjaar (deel 5) en 'Het afsluiten van de oorlog' (deel 6). Dave Warnier behandelt in deel 5 de rol en de betekenis van het Brugge Marinekorps en de Britse bombardementen op de Duitse verdediginsdriehoek Brugge,Zeebrugge en Oostende.
