@@ -4,6 +4,7 @@ date: "2019-01-25"
 titel: "Foto Brugge Maria Elisa Versluys"
 gallerij_titel: "Foto Brugge Maria Elisa Versluys"
 ---
+
 ![chm](chm.jpg)
 
 Waar staat Grand Café Charlemagne? Bestaat het nog? En de vrouw bij het gebouw, wie is zij? Welke band heeft ze ermee? Waarom bevindt die kleine foto zich in het archief van de kleinzoon van [Alfons Versluys](https://www.debleeckere.be/1878-octavia-versluys/mozaik/3-versluys)?
