@@ -1,6 +1,7 @@
 ---
 author: "sylvain"
 date: "2019-01-25"
+titel: "Bronnen"
 gallerij_titel: "Bronnen"
 ---
 Onderzoek zonder bronnen is onbestaande. Dat geldt bij uitstek voor genealogisch en historisch onderzoek in het algemeen.
@@ -13,11 +14,9 @@ Voor deze site zijn de bevoorrechte getuigen onmisbaar. Dat zijn hier eerst en v
 
  Sylvain heeft in de periode 1980-1990 talrijke uitgebreide interviews afgenomen van zijn vader [Maurits](1916-maurits-de-bleeckere) en moeder Flora Verscheure. De aantekeningen ervan zijn neergeschreven in een Atoma-schrift. In de periode 1990-2019 heeft hij eveneens verschillende gesprekken gevoerd met zijn oudste broer [Lucien](1994- lucien-de-bleeckere), zijn tante Louisa van moederszijde, zijn oudere neef Emeric, alsook met Clara De Bleeckere, de jongste dochter van Hendricus De Bleeckere, de oudste broer van Vitalis. 
 
- Sinds december 2018 voert Emeric verschillende gesprekken met nichten en neven, en verzamelt hij ook documenten uit verschillende familiearchieven. Hij ondersteunt sinds die tijd Sylvain bij het verder verzamelen van getuigenissen van de derde generatie. 
-
  Sarah, de oudste dochter van Sylvain, en haar dochter Thirza, master in de geschiedenis (RUG), ondersteunen het onderzoek naar digitale en geschreven data over de historische en geografische context, eigen aan de familie De Bleeckere-Versluys. 
 
- Tijdens het onderzoek naar de familiefoto Versluys kwam Sylvain in contact met enkele kleinkinderen van leden van het gezin Versluys-De Witte. Die staan vermeld in het verslag van [het onderzoek](https://www.debleeckere.be/onderzoek-familiefoto%20versluys), op deze site geplaatst in maart 2021. 
+ Tijdens het onderzoek naar de familiefoto Versluys kwam Sylvain in contact met enkele kleinkinderen van gezinsleden Versluys-De Witte. Die staan vermeld in het verslag van [het onderzoek](https://www.debleeckere.be/onderzoek-familiefoto%20versluys), op deze site geplaatst in maart 2021. 
 
 ## Online bronnen
 

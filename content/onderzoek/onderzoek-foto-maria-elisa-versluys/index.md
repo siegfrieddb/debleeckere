@@ -1,8 +1,8 @@
 ---
 author: "sylvain"
 date: "2019-01-25"
-titel: "Foto Brugge Maria Elisa Versluys"
-gallerij_titel: "Foto Brugge Maria Elisa Versluys"
+titel: "Foto Maria Elisa Versluys"
+gallerij_titel: "Foto Maria Elisa Versluys"
 ---
 
 ![chm](chm.jpg)
