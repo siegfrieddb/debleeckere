@@ -8,7 +8,7 @@ gallerij_titel: "'Knesseloare'"
 
 In _'Knesseloare'_ - de lokale uitspraak voor de officiële naam 'Knesselare' -  heeft zich het grootste deel van het leven van Vitalis De Bleeckere en Octavia Versluys afgespeeld, alsook dat van hun kinderen en de meeste van hun kleinkinderen. Ze situeren zich vooral in en rond Hoekestraat, het zuidwesten van Knesselare. Deze zeer oude prentkaart toont de Kerkstraat, een weg die vanuit Hoekestraat, zoals de naam zegt, recht naar het centrum van het dorp loopt en in T-vorm recht op de kerk uitkomt. Die weg is ontelbare keren afgelegd door het gezin De Bleeckere-Versluys. Hier volgen verhalen die direct of indirect de gezinnen De Bleeckere en Versluys betreffen in relatie tot hun dorp Knesselare. Dit is het overzicht met de links naar de verschillende verhalen over 'Knesseloare'
 
-[De komst van de fotografie naar Knesselare](kom_foto)
+[De komst van de fotografie naar Knesselare](#kom_foto)
 
 ['Verslagenheid en vrees'](#ver_vrees)
 
