@@ -5,7 +5,7 @@ gallerij_titel: "Officiële stukken"
 titel: "Officiële stukken"
 ---
 
-Dit is verzamelplaats voor officiële stukken die betrekking hebben op de familie [Vitalis De Bleeckere](1878-vitalis-de-bleeckere) en [Octavia Versluys](1879-octavia-versluys). 
+Overzicht met links naar een aantal bijzondere officiële stukken die betrekking hebben op de familie [Vitalis De Bleeckere](/1878-vitalis-de-bleeckere) en [Octavia Versluys](/1879-octavia-versluys). 
 
 [Familie Versluys](#fam_versluys)
 
