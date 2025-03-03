@@ -101,7 +101,7 @@ Er is een vreemd detail in de akte te lezen in verband met de volledige naam van
 
 Toen de burgemeester Soudan-Canoot de akte ondertekende in 1839 was hij nog net geen twee jaar burgemeester. Hij was namelijk in juli 1837 tot burgemeester benoemd. Onder zijn burgemeesterschap (1837-1848) kreeg de gemeente Aalter zijn eerste gemeenteschool en trad in 1844 de allereerste gemeente-onderwijzer in dienst. Onder zijn bestuur maakte de gemeente een begin van de bestrating van Aalter. In zijn laatste ambtsjaar (1848) brak er in Aalter een tyfusepidemie uit. Die gegevens geven een inzicht in het feit dat in de beginjaren van de staat België het gewone volk ongeletterd was. Er bestond absoluut geen structureel onderwijs voor het gewone volk. Er bestonden immers geen scholen. Het aantal geletterde mensen was dus ook in Aalter erg beperkt. De levensomstandigheden van de gewone mensen, denk aan het gevaar van epidemiën, maakten hun dagelijks leven ook nog erg onzeker. 
 
-><span style="color:darkkhaki">**DE GEBOORTEAKTE VAN MATHILDE VANDEVOORDE**</span><a name=""></<a name="akte_mathilde"></a>
+><span style="color:darkkhaki">**DE GEBOORTEAKTE VAN MATHILDE VANDEVOORDE**</span><a name=""><a name="akte_mathilde"></a>
 
 ![gbakte51](gbakte51.jpg)
 
