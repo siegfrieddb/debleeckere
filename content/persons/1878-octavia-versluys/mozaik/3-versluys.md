@@ -2,7 +2,7 @@
 De voorstelling van het gezin Versluys heeft de volgende titels waarop men kan klikken.
 
 - [De familienaam Versluys](#fam_versluys)
-- [De historische familiefoto](#fam_foto)
+- [De historische familiefoto 1904](#fam_foto)
 - [Ouders en voorouders](#fam_ouders)
    - [Carolus Ludovicus en Rosalia De Witte](#fam_carolus_rosalia)
    - [Weduwe Rosalia](#fam_rosalia)
@@ -18,9 +18,6 @@ De voorstelling van het gezin Versluys heeft de volgende titels waarop men kan k
    - [Romania](#fam_romania)
    - [Aloysius](#fam_aloysius)
    - [Hirma](#fam_hirma)
-
-
-
 
 ## De familienaam Versluys<a name="fam_versluys"></a>
 
