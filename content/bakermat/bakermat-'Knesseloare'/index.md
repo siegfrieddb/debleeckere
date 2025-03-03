@@ -6,9 +6,17 @@ gallerij_titel: "'Knesseloare'"
 ---
 ![kerkstraat](kerkstraat.jpg)
 
-In _'Knesseloare'_ - de lokale uitspraak voor de officiële naam 'Knesselare' -  heeft zich het grootste deel van het leven van [Vitalis](1879-vitalis-de-bleeckere) en [Octavia](1878-octavia-versluys) afgespeeld, alsook dat van hun kinderen en de meeste van hun kleinkinderen. Ze situeren zich vooral in en rond Hoekestraat, het zuidwesten van Knesselare. Deze zeer oude prentkaart toont de Kerkstraat, een weg die vanuit Hoekestraat, zoals de naam zegt, recht naar het centrum van het dorp loopt en in T-vorm recht op de kerk uitkomt. Die weg is ontelbare keren afgelegd door het gezin De Bleeckere-Versluys. Hier volgen verhalen die direct of indirect de gezinnen De Bleeckere en Versluys betreffen in relatie tot hun dorp Knesselare. De bijzondere gebeurtenissen in Knesselare tijdens de Tweede Wereldoorlog staan op [de gelijknamige pagina van het domein Bakermat](/bakermat-Tweede-Wereldoorlog).   
+In _'Knesseloare'_ - de lokale uitspraak voor de officiële naam 'Knesselare' -  heeft zich het grootste deel van het leven van Vitalis De Bleeckere en Octavia Versluys afgespeeld, alsook dat van hun kinderen en de meeste van hun kleinkinderen. Ze situeren zich vooral in en rond Hoekestraat, het zuidwesten van Knesselare. Deze zeer oude prentkaart toont de Kerkstraat, een weg die vanuit Hoekestraat, zoals de naam zegt, recht naar het centrum van het dorp loopt en in T-vorm recht op de kerk uitkomt. Die weg is ontelbare keren afgelegd door het gezin De Bleeckere-Versluys. Hier volgen verhalen die direct of indirect de gezinnen De Bleeckere en Versluys betreffen in relatie tot hun dorp Knesselare. Dit is het overzicht met de links naar de verschillende verhalen over 'Knesseloare'
 
-# De komst van de fotografie naar Knesselare
+[De komst van de fotografie naar Knesselare](kom_foto)
+
+['Verslagenheid en vrees'](#ver_vrees)
+
+[Knesselare onder vuur](#knes_vuur)
+
+[Familie Verhoestraete in de keuken, achter de toog en aan het gareel](#fam_ver)
+
+# De komst van de fotografie naar Knesselare<a name="kom_foto"></a>
 
 De [familiefoto van Versluys](/1878-octavia-versluys/mozaik/3-versluys) dateert van 1904. Dat is zo een tachtig jaar nadat de eerste foto-opname letterlijk het levenslicht zag in 1826. Natuurlijk de eerste decennia van de moderne fotografie waren experimenteel. De nieuwe kunst van ‘het licht’ moest nog een hele weg afleggen tot die in Knesselare aankwam. Dat dit gebeurde, was vooral te danken aan August De Jaeger (°1846-+1909). Die zijn we ook tegen gekomen bij ons onderzoek naar de dubbele huwelijksfoto van het gezin Versluys. August De Jaeger was toen namelijk de burgemeester die het huwelijk van Irma Versluys en Ivo De Dobbelaere in het gemeentehuis van Knesselare heeft bekrachtigd. Zijn naam komt voor op de [huwelijksakte](/onderzoek-familiefoto versluys) van het koppel Irma-Ivo. De Jaeger bestuurde Knesselare van 1897 tot 1908, de periode waarin zich de familiefoto Versluys situeert. In zijn hoofdstuk ‘Over fotografen en fotografie’ noemt auteur [Jan Van de Casteele](/onderzoek-bronnen) August De Jaeger ‘de eerste fotograaf’ van Knesselare. Die zoon van een welgestelde familie had in Leuven geneeskunde gestudeerd; hij was dus goed op de hoogte van wat er toen in wereld omging en hij had ook artistieke talenten. Hij was amateur-schilder, -beeldhouwer én -fotograaf. Toch is August De Jaeger zeker niet de fotograaf die de historische Versluys-foto heeft gemaakt. Zoveel tijd had de geëngageerde burgervader en huisarts niet om zich toe te leggen op de tijdsintensieve fotografie. Maar hij was zich wel bewust van het toekomstige belang ervan. Daarom was hij de man die de noodzakelijke duw in de rug gaf aan de jonge man die de vader en grootvader zou worden van dé fotografiefamilie van Knesselare: de familie Hooft. De Jaeger moedigde namelijk de jongeling Alfons Hooft aan om fotograaf te worden en bestelde voor de jonge man zelfs een bijzondere lens in Londen. Hiermee was de eerste steen gelegd voor de succesrijke professionele fotografie in Knesselare. 
 
@@ -28,7 +36,7 @@ Paul Verhoestraete, de beheerder en de onderzoeker van Knesselares uitgebreid fo
  
  De familiefoto Versluys is eveneens buiten genomen en is ook met een lijnen passe-partout bezorgd. Alleen staat de naam ‘Moriau’ er niet op gedrukt, terwijl Moriau wel die gewoonte had. M.a.w. absolute zekerheid over de fotograaf van foto Versluys kunnen we niet (meer) verkrijgen. De foto demonstreert wel dat het gezin Versluys mee was met zijn tijd en bij de bijzondere, feestelijke gelegenheid van het dubbele huwelijk een speciale financiële inspanning heeft willen doen. Misschien hebben ze wel Alfons Hooft aangesproken om een rondreizende fotograaf voor hen te contacteren. Die was toen immers al vertrouwd met het milieu van de opkomende fotografie want hij stond op het punt om voor zichzelf een eigen zaak te gaan beginnen.
 
-# 'Verslagenheid en vrees' 
+# 'Verslagenheid en vrees'<a name="ver_vrees"></a> 
 
 ![sol](sol.jpg)
 
@@ -56,7 +64,7 @@ Op 20 oktober 1918 was Knesselare bevrijd. Op die dag ‘_zijn onze Belgische so
 
 Haar 61-jarige vader August en haar 33-jarige broer Alfons hebben zich de maandag daarop gemeld op het gemeentehuis om haar overlijden aan te geven. Het landbouwgezin woonde in de wijk Westvoorde, richting Ursel. De overlijdensakte vermeldt dat Romanie, officieel heette ze ‘Maria Romanie’, landwerkster was. De jonge vrouw werkte mee op de boerderij van haar ouders, August Gussé en Marie Louise Verniest. Met haar begrafenisdienst eindigde in Knesselare ‘de verslagenheid en vrees’ van de Eerste Wereldoorlog definitief. Romanie bevond zich op de verkeerde plaats op het verkeerde moment omdat de verliezende Duitsers gekrenkt waren in hun grootheidswaanzin en hun vernederende nederlaag niet konden accepteren. Niemand kon het jonge, beloftevolle leven van Romanie redden van de Duitse obus, ook niet de God van de goede herder, pastoor Van Butsel.
 
-# Knesselare onder vuur
+# Knesselare onder vuur<a name="knes_vuur"></a>
 
 ![wo22](wo22.jpg)
 
@@ -73,7 +81,7 @@ De tweede versie komt dichter bij de reële feiten. Die versie heeft Paul Verhoe
 
 >>_Reeds vroeg in de voormiddag van die bewuste maandag 27 mei 1940 trokken oprukkende Duitsers rond 10 uur Knesselare binnen, komende uit de richting Ursel. Duitse vliegtuigen hebben toen zeker niet blindelings gebombardeerd want ze zouden hun eigen soldaten getroffen hebben. Wel werd Knesselare door Belgische soldaten, die in Beernem en Maria-Aalter (richting Wingene) opgesteld stonden, met kanonnen beschoten, in een poging de Duitsers tegen te houden. Vader Henri en moeder Judith verbleven in hun beveiligde kelder. Er was een extra onderstutting gemaakt en eveneens een nooduitgang, via een weg te nemen kelderraam. Zij hadden enorme schrik, vooral van het instorten van hun huis dat, in centrum dicht bij de kerk gelegen, blijkbaar in de vuurlinie lag. Toen zij plotseling duidelijk hoorden roepen dat er brand was en denkend dat hun huis getroffen was, vluchtten zij de kelder uit, de achtertuin in. Er was inderdaad brand, maar het was het huis van Maurits de Brauwer, iets verderop. Hun buur, Remi Cooreman, zag hen vanuit zijn kelderraam  wegvluchten en probeerde hen binnen te roepen. Henri en Judith gingen daar niet op in, wederom door de schrik van brand en instorting. Iets verderop viel de fatale obus. Waarschijnlijk werden Henri en Judith gedood door Belgische obussen, afgeschoten vanuit  Beernem. En welke kanonnen stonden er in Beernem? Kanonnen die toebehoorden aan het 13e Artillerie uit Brugge, de eenheid waar André deel van uitmaakte. André was toen weliswaar niet meer in Beernem maar andere Belgische soldaten hadden die kanonnen overgenomen. Mogelijks kan de beschieting ook gebeurd zijn vanuit de grens tussen Beernem en Knesselare, daar stonden 7.5 mm kanonnen, die van André’s eenheid waren 15.5 mm kanonnen._ 
 
-# Familie Verhoestraete in de keuken, achter de toog en aan het gareel
+# Familie Verhoestraete in de keuken, achter de toog en aan het gareel<a name="fam_ver"></a>
 
 <span style="color:darkkhaki">**DEN APPEL**</span>
 
@@ -89,7 +97,7 @@ Charles Verhoestraete bewoonde het centraal gelegen gebouwencomplex samen met zi
 
 Henri en Judith kregen vijf kinderen: Gisèle, Gerard, Willy, Gentiel, André, allen geboren tussen 1910 en 1921. Met hen was de nodige opvolging verzekerd. De kinderen leerden thuis wat hard werken betekende en ze groeiden op in een erg boeiende, sociale omgeving want ‘Den Appel’ werd een echt begrip in Knesselare. Ideaal gelegen in een driehoek met de kerk en het gemeentehuis aan De Plaats, werkte ‘Den Appel’ als een sociale magneet. Trouwers, rouwenden, jubileumvierders, verenigingen allen vonden ze hun plek in ‘Den Appel’.
 
-<span style="color:darkkhaki">**iN 'T BURGERWELZIJN**</span>
+<span style="color:darkkhaki">**IN 'T BURGERWELZIJN**</span>
 
 Op 21 juni 1933 vond het huwelijksfeest van Maria Elisa Versluys en Raymond Beuselinck plaats in de herberg  en feestzaal ‘In ‘t Burgerwelzijn’. De familiefoto van 1933 (link) maakt deel uit van het reilen en zeilen van het publieke leven van de Knesselaren in die tussenoorlogse tijd. In 1933 begonnen de nare herinneringen aan de ‘Groote Oorlog’ te vervagen, was er van ‘een tweede wereldoorlog’ nog geen teken aan de horizon te bespeuren en begon het economische leven na de voorbije jaren van de Grote Depressie wegens de grote beurscrash van 1929 in Wall Street, NY,  terug wat zuurstof te krijgen. Ook in Knesselare durfden de mensen terug voorwaarts kijken. De geest van optimisme waaide weer op. Wat kon daar beter uitdrukking aan geven dan een groot trouwfeest?
 
