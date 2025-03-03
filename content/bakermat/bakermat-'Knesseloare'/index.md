@@ -30,7 +30,7 @@ Paul Verhoestraete, de beheerder en de onderzoeker van Knesselares uitgebreid fo
 
 # 'Verslagenheid en vrees' 
 
-![wo21](wo21.jpg)
+![sol](sol.jpg)
 
 _‘Het uitbreken van den oorlog veroorzaakte algemeen verslagenheid en vrees.’_ De woorden komen van de Knesselaarse pastoor Edmond Van Butsel. Hij was amper een jaar in dienst toen de aanstormende Duitsers in 1914 zijn pad en dat van zijn parochianen kruisten. Hij zag het zelf gebeuren en ondervond dat ook aan de lijve. De gebeurtenissen moeten hem diep hebben geraakt want hij typte er kort na de oorlog twee volle bladzijden over. Als gewezen leraar beschikte hij over een vlotte pen. Hij voegde zijn uitgebreid verslag losbladig toe aan de jaarboeken van de kerkraad van Knesselare. Die bevinden zich in het Rijksarchief Gent. Daar heeft Thirza Vandenabeele ze opgespoord en Sylvain een kopie ervan bezorgd. Hij stelt hier het unieke ooggetuigenverslag voor. De citaten zijn de letterlijke weergave van de  pastoor, met behoud van de toen geldende spelling. Enkele citaten uit het verslag van de pastoor verschenen eerder op de site van [Knesselare Nieuws](/onderzoek-bronnen) onder de titel _Herinnering aan “den grooten oorlog”, deel I en deel II_. 'Knesselare Nieuws' publiceerde ook nog de dagboeknotities over de Eerste Wereldoorlog in Knesselare van mevrouw Odile Arnaut uit de Kloosterstraat, de dochter van onderwijzer Jules Arnaut, tevens gemeentesecretaris.
 
