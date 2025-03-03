@@ -7,13 +7,26 @@ titel: "Officiële stukken"
 
 Dit is verzamelplaats voor officiële stukken die betrekking hebben op de familie [Vitalis De Bleeckere](1878-vitalis-de-bleeckere) en [Octavia Versluys](1879-octavia-versluys). 
 
-## Familie Versluys
+[Familie Versluys](#fam_versluys)
 
-We beschikken over verschillende officiële stukken die betrekking hebben op de ouders en de voorouders van Octavia. Met de akten van de vaderlijke afstamming van het geslacht Versluys in Knesselare keren we ver terug in de tijd. De voorstelling van de akten verloopt van dichtbij naar veraf. 
+>>[De ouders van Octavia Versluys](#ou_versluys)
+>>[De vijf oude akten van de vaderlijke familielijn van Octavia Versluys](#vijf_versluys)
+>>[Maria Elisa Versluys](#mar_versluys)
 
-<span style="color:darkkhaki">**DE OUDERS VAN OCTAVIA**</span>
+[Familie De Bleeckere](#fam_bleeckere)
 
-Hier volgt de drieledige voorstelling van de huwelijksakte van de ouders van Octavia.
+>>[De geboorteakte van Carolus Ludovicus De Bleecker(e)](#akte_carolus)
+>>[De geboorteakte van Mathilde Vandevoorde](#akte_mathilde)
+
+## Familie Versluys<a name="fam_versluys"></a>
+
+
+We beschikken over verschillende officiële stukken die betrekking hebben op de ouders en de voorouders van Octavia versluys. Met de akten van de vaderlijke afstamming van het geslacht Versluys in Knesselare keren we ver terug in de tijd. De voorstelling van de akten verloopt van dichtbij naar veraf. 
+
+<span style="color:darkkhaki">**DE OUDERS VAN OCTAVIA**</span><a name="ou_versluys"></a>
+
+
+Hier volgt de huwelijksakte van de ouders van Octavia versluys.
 
 ![hw1](hw1.jpg)
 
@@ -21,13 +34,14 @@ Hier volgt de drieledige voorstelling van de huwelijksakte van de ouders van Oct
 
 ![hw3](hw3.jpg)
 
-Hier volgt de voorstelling van de overlijdensksakte van de vader van Octavia.
+Hierna staat de overlijdensksakte van de vader van Octavia versluys.
 
 ![oclv](oclv.jpg)
 
-<span style="color:darkkhaki">**DE 5 OUDE AKTEN VAN DE VADERLIJKE FAMILIELIJN VAN OCTAVIA: VERSLUYS**</span>
+<span style="color:darkkhaki">**DE vijf OUDE AKTEN VAN DE VADERLIJKE FAMILIELIJN VAN OCTAVIA  VERSLUYS**</span><a name="vijf_versluys"></a>
 
-Hier volgt de voorstelling van de 5 oude akten die ons een historisch en officieel
+
+Dit zijn de vijf oude akten die ons een historisch en officieel
 beeld geven van de familie Versluys in Knesselare.
 
 <span style="color:olive">**1765**</span>
@@ -50,7 +64,8 @@ beeld geven van de familie Versluys in Knesselare.
 
 ![vjac](vjac.jpg)
 
-<span style="color:darkkhaki">**BETREFFENDE MARIA ELISA VERSLUYS**</span>
+<span style="color:darkkhaki">**MARIA ELISA VERSLUYS**</span><a name="mar_versluys"></a>
+
 
 ![me](me.jpg)
 
@@ -60,10 +75,11 @@ Het samengestelde beeld toont links ervan een uitsnede van het bijzonder grote e
 
 Tussen de twee grote bladzijden van het Logboek nummer 699 steken twee handgeschreven doktersbriefjes van de Brugse geneesheer Eugeen Veys. In de Brugse Noordzandstraat 53 had hij zijn eigen privépraktijk voor oor-, neus- en keelziekten. Hij werkte tevens als hoofdgeneesheer in het Asile Sainte-Marie. Die twee doktersbriefjes zijn bijzonder uitzonderlijk daar Sylvain ter plaatse heeft kunnen vaststellen in het bijzijn van archivaris Anne Vanhoutte dat dergelijke doktersbriefjes enkel in het Logboek bij Maria Elisa aanwezig zijn. Het eerste doktersbriefje is tweezijdig beschreven en dateert van 29 november 1921. Het tweede, hierboven afgebeeld, is eenzijdig beschreven op 11 maart 1922. Dr. Veys noteert dat Maria Elisa nog niet is genezen en nog niet in vrijheid kan worden gesteld. Uiteindelijk zou die toestand zo blijven tot aan haar overlijden in 1933.
 
-## Familie De Bleeckere
+## Familie De Bleeckere<a name="fam_bleeckere"></a>
 
 
-><span style="color:darkkhaki">**DE GEBOORTEAKTE VAN CAROLUS LUDOVICUS DE BLEECKER(E)**</span>
+><span style="color:darkkhaki">**DE GEBOORTEAKTE VAN CAROLUS LUDOVICUS DE BLEECKER(E)**</span><a name="akte_carolus"></a>
+
 
 ![gbakte39](gbakte39.jpg)
 
@@ -81,7 +97,7 @@ Er is een vreemd detail in de akte te lezen in verband met de volledige naam van
 
 Toen de burgemeester Soudan-Canoot de akte ondertekende in 1839 was hij nog net geen twee jaar burgemeester. Hij was namelijk in juli 1837 tot burgemeester benoemd. Onder zijn burgemeesterschap (1837-1848) kreeg de gemeente Aalter zijn eerste gemeenteschool en trad in 1844 de allereerste gemeente-onderwijzer in dienst. Onder zijn bestuur maakte de gemeente een begin van de bestrating van Aalter. In zijn laatste ambtsjaar (1848) brak er in Aalter een tyfusepidemie uit. Die gegevens geven een inzicht in het feit dat in de beginjaren van de staat België het gewone volk ongeletterd was. Er bestond absoluut geen structureel onderwijs voor het gewone volk. Er bestonden immers geen scholen. Het aantal geletterde mensen was dus ook in Aalter erg beperkt. De levensomstandigheden van de gewone mensen, denk aan het gevaar van epidemiën, maakten hun dagelijks leven ook nog erg onzeker. 
 
-## Geboorteakte van Mathilde Vandevoorde
+><span style="color:darkkhaki">**DE GEBOORTEAKTE VAN MATHILDE VANDEVOORDE**</span><a name=""></<a name="akte_mathilde"></a>
 
 ![gbakte51](gbakte51.jpg)
 
