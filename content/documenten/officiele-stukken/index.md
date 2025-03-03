@@ -27,10 +27,10 @@ Overzicht met links naar een aantal bijzondere officiële stukken die betrekking
 
 We beschikken over verschillende officiële stukken die betrekking hebben op de ouders en de voorouders van Octavia versluys. Met de akten van de vaderlijke afstamming van het geslacht Versluys in Knesselare keren we ver terug in de tijd. De voorstelling van de akten verloopt van dichtbij naar veraf. 
 
-<span style="color:darkkhaki">**DE OUDERS VAN OCTAVIA**</span><a name="ou_versluys"></a>
+<span style="color:darkkhaki">**DE OUDERS VAN OCTAVIA VERSLUYS**</span><a name="ou_versluys"></a>
 
 
-Hier volgt de huwelijksakte van de ouders van Octavia versluys.
+De huwelijksakte van haar ouders
 
 ![hw1](hw1.jpg)
 
@@ -38,7 +38,7 @@ Hier volgt de huwelijksakte van de ouders van Octavia versluys.
 
 ![hw3](hw3.jpg)
 
-Hierna staat de overlijdensksakte van de vader van Octavia versluys.
+De overlijdensksakte van haar vader 
 
 ![oclv](oclv.jpg)
 
