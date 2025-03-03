@@ -10,13 +10,17 @@ Dit is verzamelplaats voor officiële stukken die betrekking hebben op de famili
 [Familie Versluys](#fam_versluys)
 
 >>[De ouders van Octavia Versluys](#ou_versluys)
+
 >>[De vijf oude akten van de vaderlijke familielijn van Octavia Versluys](#vijf_versluys)
+
 >>[Maria Elisa Versluys](#mar_versluys)
 
 [Familie De Bleeckere](#fam_bleeckere)
 
 >>[De geboorteakte van Carolus Ludovicus De Bleecker(e)](#akte_carolus)
+
 >>[De geboorteakte van Mathilde Vandevoorde](#akte_mathilde)
+
 
 ## Familie Versluys<a name="fam_versluys"></a>
 
