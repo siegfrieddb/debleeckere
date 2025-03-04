@@ -1,7 +1,7 @@
 ---
 voornaam: "Albert"
 achternaam: "De Bleeckere"
-persoon: "1800-albert-de-bleeckere"
+persoon: "1918-albert-de-bleeckere"
 geslacht: "man"
 author: sylvain
 geboren: "1800-XX-XX"
