@@ -12,14 +12,14 @@ Het is voor haar kleinkinderen en achterkleinkinderen die allen zijn opgegroeid 
 
 ![mwgr](mwgr.jpg)
 
-Octavia en haar nog inwonende zonen, [Alfons](1911-alfons-de-bleeckere) en [Omer](1912-omer-de-bleeckere), verhuisden na de Tweede Wereldoorlog, meer bepaald in 1950 naar een zijstraat van de Hoekestraat, de Molenwegel 82. Op de kaart verbindt de groene lijn de twee huizen. Het is anno 2021 nog steeds een zeer smalle, doodlopende steeg, met op het einde twee relatief kleine landelijke woningen. Haar zoon [Maurits](1916-maurits-de-bleeckere) en zijn vrouw Flora Verscheure woonden al in het huis ernaast, nummer 80, sinds het voorjaar 1942. Dat huurhuis is het rechterhuis op de luchtfoto. Het huis nr. 82 is het linkerhuis. 
+Octavia en haar nog inwonende zonen, [Alfons](/1911-alfons-de-bleeckere) en [Omer](/1912-omer-de-bleeckere), verhuisden na de Tweede Wereldoorlog, meer bepaald in 1950 naar een zijstraat van de Hoekestraat, de Molenwegel 82. Op de kaart verbindt de groene lijn de twee huizen. Het is anno 2021 nog steeds een zeer smalle, doodlopende steeg, met op het einde twee relatief kleine landelijke woningen. Haar zoon [Maurits](/1916-maurits-de-bleeckere) en zijn vrouw Flora Verscheure woonden al in het huis ernaast, nummer 80, sinds het voorjaar 1942. Dat huurhuis is het rechterhuis op de luchtfoto. Het huis nr. 82 is het linkerhuis. 
 
-Octavia heeft het huis gekocht met de opbrengst van het eerste huis in Hoekestraat 148 dat ze had verkocht. In dat huis aan de Molenwegel heeft ze nog een dertien jaar kunnen leven. Ze was daar goed omringd door haar twee ongehuwde zonen Alfons en Omer. Haar gehuwde dochters [Maria](1914-maria-de-bleeckere) en [Irma](1913-irma-de-bleeckere) woonden vlakbij, en op een kleine twee kilometers woonden haar gehuwde zonen Maurits en [Albert](1918-albert-de-bleeckere). Ze is in het huis overleden.
+Octavia heeft het huis gekocht met de opbrengst van het eerste huis in Hoekestraat 148 dat ze had verkocht. In dat huis aan de Molenwegel heeft ze nog een dertien jaar kunnen leven. Ze was daar goed omringd door haar twee ongehuwde zonen Alfons en Omer. Haar gehuwde dochters [Maria](/1914-maria-de-bleeckere) en [Irma](/1913-irma-de-bleeckere) woonden vlakbij, en op een kleine twee kilometers woonden haar gehuwde zonen Maurits en [Albert](/1918-albert-de-bleeckere). Ze is in het huis overleden.
 
 ![82](82.jpg) 
 
 Dit is het huis nummer 82 van de Molenwegel. Het huis is gerenoveerd met behoud van de vorm en het uitzicht. De voordeur bevindt zich in het midden van de gevel. De buitendeur opende in de grote woonkamer rechts van de deur. Aan de linkerkant van de deur bevond zich de slaapkamer. De deur ervan bevond zich in de woonkamer. 
 
-Om te weten waar de naam 'Molenwegel' vandaan komt, zie in het domein [Bakermat](https://www.debleeckere.be/bakermat-Brugse%20Vaart).  
+Om te weten waar de naam 'Molenwegel' vandaan komt, zie in het domein [Bakermat](/bakermat-De Vaart).  
 
 ## 
