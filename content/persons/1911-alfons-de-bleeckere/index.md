@@ -13,7 +13,8 @@ moeder: "1878-octavia-versluys"
 verblijfplaatsen:
 ---
 # Alfons De Bleeckere
-Alfons is de derde zoon van [Vitalis](1879-vitalis-de-bleeckere) en [Octavia](1878-octavia-versluys). 
+
+Alfons is de derde zoon van Vitalis De Bleeckere en Octavia Versluys. 
 
 
 

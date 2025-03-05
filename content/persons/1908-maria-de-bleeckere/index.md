@@ -14,7 +14,8 @@ verblijfplaatsen:
   
 ---
 # Maria De Bleeckere
-Maria is de eerst geboren dochter en het tweede kind van [Vitalis](1879-vitalis-de-bleeckere) en [Octavia](1878-octavia-de-bleeckere).
+
+Maria is de eerst geboren dochter en het tweede kind van Vitalis De Bleeckere en Octavia Versluys.
 
 
 

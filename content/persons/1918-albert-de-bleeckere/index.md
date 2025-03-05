@@ -11,7 +11,7 @@ moeder: "1878-octavie-versluys"
 ---
 # Albert De Bleeckere
 
-Albert is het negende kind en de zesde zoon van [Vitalis](1879-vital-de-bleecker) en [Octavia](1878-octavie-versluys).
+Albert is het negende kind en de zesde zoon van Vitalis De Bleeckere en Octavia Versluys.
 
 
 

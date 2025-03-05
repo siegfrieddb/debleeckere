@@ -13,7 +13,8 @@ moeder: "1878-octavia-versluys"
 verblijfplaatsen:
 ---
 # Maurits De Bleeckere
-Maurits is het achtste kind en de vijfde zoon van [Vitalis](1879-vital-de-bleeckere) en [Octavia](1878-octavia-versluy). 
+
+Maurits is het achtste kind en de vijfde zoon van Vitalis De Bleeckere en Octavia Versluys. 
 
 
 

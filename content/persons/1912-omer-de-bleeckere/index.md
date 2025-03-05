@@ -13,7 +13,8 @@ moeder: "1878-octavia-versluys"
 verblijfplaatsen:
 ---
 # Omer De Bleeckere
-Omer is de vierde zoon van [Vitalis](1879-vitalis-de-bleeckere) en [Octavia](1879-vitalis-de-bleeckere). 
+
+Omer is de vierde zoon van Vitalis De Bleeckere en Octavia Versluys. 
 
 
 

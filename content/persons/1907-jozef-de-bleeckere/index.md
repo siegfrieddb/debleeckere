@@ -12,7 +12,8 @@ vader: "1879-vital-de-bleeckere"
 moeder: "1878-octavia-versluys"   
 ---
 # Jozef De Bleeckere
-Jozef is het eerste kind van [Vitalis](1879-vital-de-bleeckere) en [Ocatavia](1879-vital-de-bleeckere).
+
+Jozef is het eerste kind van Vitalis De Bleeckere en Octavia Versluys.
 
 
 

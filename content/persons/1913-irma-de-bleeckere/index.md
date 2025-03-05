@@ -14,7 +14,8 @@ verblijfplaatsen:
 ---
 
 # Irma De Bleeckere
-Irma is het zesde kind en de tweede dochter van [Vitalis](1879-vitalis-de-bleeckere) en [Octiavia](1878-octavia-versluys). 
+
+Irma is het zesde kind en de tweede dochter van Vitalis De Bleeckere en Octavia Versluys. 
 
 
 

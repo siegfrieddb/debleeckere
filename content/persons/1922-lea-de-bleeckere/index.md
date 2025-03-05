@@ -13,7 +13,8 @@ moeder: "1878-octavia-versluys"
 verblijfplaatsen:
 ---
 # Lea De Bleeckere
-Lea is het jongste kind van [Vitalis](1879-vitalis-de-bleeckere) en [Octavia](1878-octavia-versluys).
+
+Lea is het jongste kind van Vitalis De Bleeckere en Octavia Versluys.
 
 
 

@@ -14,9 +14,7 @@ verblijfplaatsen:
 ---
 # Vitalis De Bleeckere
 
-![huis](huis.jpg)
-
-Vitalis huwde met [Octavia](1878-octavia-versluys) Versluys. Hij werd de vader van 11 kinderen en de grootvader van 24 kleinkinderen.
+Vitalis huwde met Octavia Versluys. Hij werd de vader van 11 kinderen en de grootvader van 24 kleinkinderen.
 
 
 
