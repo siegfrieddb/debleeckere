@@ -1,14 +1,14 @@
 ## De foto's
 
+Hier komt de tekst.
 
 ## Beroep
 
-<span style="color:olive">**SIMONE**</span>
+Hier komt de tekst.
 
 ## Ziekte
 
-<span style="color:olive">**LUCIEN**</span>
-
+Hier komt de tekst.
 
 
 

@@ -2,9 +2,11 @@
 
 Octavia is geboren in Knesselare op zondag 10 november van het jaar 1878 als elfde en voorlaatste kind van het gezin Versluys-De Witte. Het was de laatste dag dat toen de zevende wereldtentoonstelling in Parijs was geopend. Octavia bereikte een hoge leeftijd. Ze werd 84 jaar, op iets meer dan twee maanden van haar 85ste verjaardag. Ze overleed te Knesselare in de oogstmaand, op 26 augustus 1963. Haar jongste kleinkind, Marnix, was het jaar voordien geboren. De oudere generaties van haar kleinkinderen hebben haar gekend. Als ze over haar spraken, noemden ze haar 'meetje Bleeckers', uitgesproken op zijn Knesselaars, 'Bléékers'. 
 
-<span style="color:olive">**SIMONE**</span>
+<span style="color:olive">**SIMONA, NOËL, GERARD, EDGARD **</span>
 
-Simone De Bleeckere, haar oudste kleinkind, dochter van haar oudste zoon Jozef, herinnert zich de vele bezoeken aan het huis van ‘meetje Bleeckers’ en noemt haar op zijn Knesselaars ‘een broaf wijveke’. (14 april 2018, interview door Sylvain).
+De oudste zoon van Octavia heet Jozef. Zijn zoon Gerard heeft een dochter, Ann De Bleeckere. Zij heeft in de herfst van 2025, vier kinderen van Jozef geïnterviewd over hun herinneringen aan hun grootmoeder Octavia. Het zijn Anns tante, vader en nonkels Noël en Edgard. Ann bezorgde Sylvain de volgende synthese van haar gesprekken.
+
+>>_Ze herinneren zich nog dat ze langs de weiden, via de kerkwegels naar 'meetje Bleeckers' gingen. Zo kwamen ze direct uit aan haar huisje. Ook al woonden ze zo dichtbij, toch gingen ze niet zo veel naar de [Molenwegel](/1878-octavia-versluys/mozaik/4-weduwe). Ze hadden niet echt een reden om te gaan en iedereen had zijn eigen werk. 't Was alleszins 'een broaf wijveke', 'een goeie' die al haar kinderen even liefhad. Echt waar, een broave! Ze was ook steeds omringd door' Mèr' [Omer] en Fons die ‘jong’ zijn gebleven. Vooral Fons, die een beetje boer was. Omer was niet zo veel aanwezig omdat hij aan de ‘route’ (spoorweg) werkte. Op nieuwjaarsdag kwamen alle kinderen en kleinkinderen altijd samen. Octavia was de doopmeter van Noël. Zo kregen ze elk hun nieuwjaargeld en een appel. Alle tantes en nonkels gaven op die dag ook aan alle kleinkinderen hun nieuwjaargeld. Op haar oude dag ging Octavia niet veel buiten maar zat vooral in haar zetel bij de Leuvense stoof. Een grote bende die altijd goed overeenkwam._ 
 
 <span style="color:olive">**LUCIEN**</span>
 

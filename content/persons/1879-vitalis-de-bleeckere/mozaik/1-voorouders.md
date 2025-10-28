@@ -1,14 +1,9 @@
 ## De voorouders
 
-Octavia 
+Hier komt de tekst.
 
-<span style="color:olive">**SIMONE**</span>
 
-Simone
 
-<span style="color:olive">**LUCIEN**</span>
-
-Lucien 
 
 
 

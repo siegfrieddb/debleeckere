@@ -10,14 +10,14 @@ De voorstelling van het gezin Versluys heeft de volgende titels waarop men kan k
    - [De vaderlijke familielijn van Octavia: Versluys](#fam_vader_versluys)
 - [Zussen en broers](#fam_zussen)
    - [De vroeg gestorvenen](#fam_vroeg)
-   - [Leonia](#fam_leonia)
-   - [Augustus](#fam_augustus)
-   - [Hendrik](#fam_hendrik)
-   - [Maria Elisa](#fam_maria_elisa)
-   - [Alphonsus](#fam_alphonsus)
-   - [Romania](#fam_romania)
-   - [Aloysius](#fam_aloysius)
-   - [Hirma](#fam_hirma)
+   - [Leonia en Merelbeke](#fam_leonia)
+   - [Augustus en Brugge](#fam_augustus)
+   - [Hendrik en Seraing](#fam_hendrik)
+   - [Maria Elisa en Brugge](#fam_maria_elisa)
+   - [Alphonsus en Aalter-Brug](#fam_alphonsus)
+   - [Romania en Maldegem](#fam_romania)
+   - [Aloysius en de buitenlanden](#fam_aloysius)
+   - [Hirma en Knesselare](#fam_hirma)
 
 ## De familienaam Versluys<a name="fam_versluys"></a>
 
@@ -104,7 +104,7 @@ Voor het jonge koppel Rosalia en Ludovicus was dat gebeuren een erg tragisch voo
 
 >In chronologische volgorde zijn de volgende kinderen volwassen geworden in het gezin Versluys-De Witte: Leonia, Augustus, Hendrik, Maria Elisa, Alphonsus, Romania, Aloysius, Maria Hirma en Maria Octavia. Van zes van deze negen kinderen hebben we een vrij duidelijk beeld. Octavia niet meegeteld, blijven er vijf over van wie we door officiële documenten en bevoorrechte getuigen een vrij concreet portret hebben kunnen vormen. Eerst komt Leonia in beeld.
 
-><a name="fam_leonia"></a><span style="color:darkkhaki">**LEONIA**</span>
+><a name="fam_leonia"></a><span style="color:darkkhaki">**LEONIA EN MERELBEKE**</span>
 
 >Het derde kind werd te Knesselare op zondag 3 januari 1864 geboren. Wegens het overlijden van de eerste twee kinderen groeide Leonia op als de oudste van het gezin. Haar geboorteakte leert dat ze om 22u00 is geboren. Wat nog opvalt, is dat haar voornaam met een accent werd geschreven: Léonia. Later, in haar huwelijksakte, is dat accent weggevallen. Wat de twee getuigen bij de aangifte van de geboorte van Leonia betreft valt er iets op. Het waren de gebroeders Verbiest. De jongste, Hyppolyte, was ‘schrijver’ en woonde te Gent; de oudste, Augustus Jan, was gemeentesecretaris te Knesselare. Wellicht was Hyppolyte die dag op bezoek bij zijn broer. ‘Schrijver’ Hyppolyte Verbiest heeft echter geen literair spoor in het landschap van de Vlaamse letteren achtergelaten.
 
@@ -151,7 +151,7 @@ Leonia werd de bruid van Alphonsus Van den Broecke. Over de schrijfwijze van de 
 
 
 
-><a name="fam_augustus"></a><span style="color:darkkhaki">**AUGUSTUS**</span>
+><a name="fam_augustus"></a><span style="color:darkkhaki">**AUGUSTUS EN BRUGGE**</span>
 
 Het was 5 september 1866 toen de tweede Belgische koning, Leopold II, en zijn echtgenote Marie Henriëtte van Oostenrijk op de markt van Tongeren verschenen. Ze kwamen er de inhuldiging van het standbeeld van de Gallische leider Ambiorix glans bijzetten. Het beeld staat er nog steeds. Enkele maanden eerder was er ook reden tot vreugde, weliswaar zonder enige koninklijke aanwezigheid, in het gezin Versluys-De Witte: de geboorte van hun eerste jongen, Augustus die het levenslicht zag op 5 maart 1866 te Knesselare. Hij werd de oudste broer van Octavia. Toen hij poseerde voor [de gezinsfoto van Versluys-De Witte](/onderzoek-familiefoto%20versluys) was hij 38 jaar en reeds getrouwd. 
 
@@ -215,7 +215,7 @@ Tussen de twee gezinnen van de zonen van Augustus is er altijd een hechte famili
 
 Was er ook een onderlinge familieband tussen de tak van Augustus en die van Octavia? Augustus heeft het grootste deel van zijn leven gewoond en gewerkt in de Kneukelstraat, in de wijk Hoekestraat. Dit was erg dichtbij het huis en boerderij van Octavia en haar man Vitalis De Bleeckere. Ze waren praktisch elkaars buren. Hetzelfde geldt voor Victor, de oudste zoon van Augustus, en zijn gezin; hij had immers de boerderij van zijn vader overgenomen. Die nabijheid heeft de twee gezinnen zeker geholpen om elkaar niet uit het oog te verliezen. Het gezin van de tweede zoon van Augustus, Alphonse, woonde verder, in Ruiselede. Om bij elkaar te komen, moesten ze door het dorp Sint-Maria-Aalter. We hebben een getuigenis van Godelieve Versluys, de kloosterzuster, met wie Johan Versluys, de kleinzoon van Augustus, over dit onderwerp anno 2022 heeft gesproken. Johan sprak ook met de zus van Godelieve, Rachel, eveneens kloosterzuster. We verwezen eerder al naar haar getuigenis over haar ‘prompte’ oom Victor. Beide getuigenissen bevestigen de familiale band tussen Versluys-Ruiselede en Versluys-Knesselare. Godelieve verklaarde dat ze haar grootvader Augustus slechts enkele keren heeft ontmoet. Er waren dus familiale contacten met de Knesselaarse familie, maar die waren voor en tijdens de Tweede Wereldoorlog beperkt. Volgens Godelieve waren die contacten schaars mede omdat Augustus tijdens de periode van zijn tweede huwelijk in Brugge woonde. Zo’n verre familiebezoeken waren in die tijd niet vanzelfsprekend. Ze voegde er nog aan toe: ‘De meeste mensen hadden genoeg werk met het opvoeden van de vele kinderen en de noeste arbeid voor het dagelijkse brood op de plank.’ Godelieve wist wel dat Yvonne, de dochter van haar oom Victor, bij Augustus in Brugge heeft verbleven. Tekenen van die familiale band was ook het feit dat Victor in 1930 de dooppeter werd van de latere kloosterzuster Godelieve. Rita Versluys herinnert zich anno 2022 nog zeer levendig dat zij, haar man Etienne en haar moeder-weduwe Maria in de jaren zestig van vorige eeuw regelmatig op bezoek zijn geweest bij het gezin van oom Alphonse, de schoonbroer van haar moeder-weduwe, in hun toenmalige huis in Sint-Maria-Aalter op de grens met Ruiselede. Het gezin Victor Versluys werd ook uitgenodigd naar de begrafenis van zowel Alphonse als Maria. Tot slot, de oude Godelieve wist ook nog te vertellen aan Johan Versluys dat ze Vitalis De Bleeckere en haar tante Octavia Versluys heeft gekend. 
 
-><a name="fam_hendrik"></a><span style="color:darkkhaki">**HENDRIK**</span>
+><a name="fam_hendrik"></a><span style="color:darkkhaki">**HENDRIK EN SERAING**</span>
 
 ><span style="color:blue">Geboorte</span>
 
@@ -248,7 +248,7 @@ Hendrik verloor zijn vrouw Marie Léontine op 18 juli 1926. Ze overleed op 54-ja
 
 Wie er van de familie van Knesselare afgereisd is naar Seraing voor de begrafenis van Hendrik, weten we niet. Zijn neef Henri De Dobbelare, de zoon van Hendriks jongere zus, Hirma, die ook in Seraing woonde en werkte, was er zeker bij. Feit is dat Hendrik zelf altijd sterk verbonden is gebleven met zijn ouderlijke thuis in Knesselare. Dat blijkt al uit de familiefoto van 1904 naar aanleiding van het dubbele trouwfeest van zijn zussen Hirma en Romania. Hendrik woonde en werkte toen al in Seraing. Hij wilde aanwezig zijn op die heugelijke dag voor het gezin. Op de gezinsfoto staat hij achter zijn moeder-weduwe en hij legt zijn rechterhand op haar linkerschouder, een diepmenselijk gebaar van verbondenheid. Hendrik is zeker ook naar Knesselare afgereisd voor de begrafenis van zijn moeder in de wintermaand januari van 1912. We weten eveneens dat Hendrik het grote trouwfeest van Maria Elisa De Dobbelaere, in 1933 te Knesselare heeft willen bijwonen. De [historische familiefoto van 1933](/documenten/archief-vitalis-octavia) leert ons dat weduwnaar Hendrik toen samen met Henri De Dobbelaere van Seraing naar Knesselare zijn gereisd. De bruid Maria Elisa was immers de halfzus van Henri en Hendrik was de oom van de bruid. Hendrik stierf drie jaar na zijn wellicht laatste bezoek aan zijn familie in Knesselare in 1936.
  
-><a name="fam_maria_elisa"></a><span style="color:darkkhaki">**MARIA ELISA**</span>
+><a name="fam_maria_elisa"></a><span style="color:darkkhaki">**MARIA ELISA EN BRUGGE**</span>
 
 ><span style="color:blue">Geboorte</span>
 
@@ -306,7 +306,7 @@ We beschikken over [een uitzonderlijk handgeschreven document van dr. Veys](/off
 
 Uit de maandelijkse notities van dr. Veys en vanaf september 1925 van dr. Michel Vanden Weghe in het medische logboek blijkt dat Maria Elisa zich tijdens haar verblijf in het Asile erg isoleerde en in zichzelf was gekeerd. Soms deed ze wat bezigheidstherapie onder andere in de tuin van het Asile, wat haar wellicht herinnerde aan haar tijd in Merelbeke. Dr. Veys verwijst in zijn persoonlijke nota wel naar de therapeutische ‘stoel’ voor het toedienen van elektroshocks’. Dergelijke therapie had, zoals geweten is, hoofdpijn als bijwerking. Met die therapie kon de dokter de woedeaanvallen wegens de achtervolgingswaan onderdrukken, wat als gevolg had dat Maria Elisa zich in zichzelf keerde en sociale contacten met haar lotgenoten vermeed. Op 11 maart 1922 noteerde dr. Veys dat de toestand van de patiënte geen tekenen van genezing vertoonde en dat de achtervolgingswaan zeer hardnekkig voortduurde zodat er geen sprake kon zijn van een mogelijke invrijheidstelling. Die diagnose veranderde de jaren daarop niet meer, wat niet hoeft te verwonderen daar er geen echte therapie bestond. De notities in het medisch logboek veranderden vanaf juni 1933. Dr. Vanden Weghe noteerde toen dat de patiënte leverklachten vertoonde. Uit het vervolg kunnen we afleiden dat Maria Elisa van juni tot aan haar overlijden op 29 september erg ziek is geworden wegens een toenemend levergezwel. De dokter vermeldt geen enkele medische behandeling. Hij vermeldt enkel dat ze is overleden aan leverkanker. 
 
-><a name="fam_alphonsus"></a><span style="color:darkkhaki">**ALPHONSUS**</span>
+><a name="fam_alphonsus"></a><span style="color:darkkhaki">**ALPHONSUS EN AALTER-BRUG**</span>
 
 >![mj](mj.jpg)
 
@@ -341,7 +341,7 @@ _‘Duurbare kinderen, niets liet vermoeden dat ik zo rap Moeder op de weg van d
  
 Kleinzoon Jozef Van Haver bevestigt dat zijn grootvader Alfons en zijn grootmoeder Elisa in Brug-Zuid het café Estaminet uitbaatten. Het café werd nadien Café Prefaliet genoemd omdat de arbeiders van de fabriek na het werk in het café kwamen drinken. Het huis bestaat nog maar is verbouwd. Rita Versluys, de dochter van Augustus Versluys, de oudere broer van Alfons, herinnert zich dat zij met haar ouders – Victor, de zoon van Augustus, en zijn vrouw Maria Magdalena De Jaeger -  te voet naar Aalter-Brug zijn gegaan om er Nieuwjaar te gaan wensen aan de familie. Ook Lucien De Bleeckere, de oudste zoon van Maurits De Bleeckere, zoon van Octavia, herinnert zich dat hij als kind thuis in Knesselare Jozef Van Haver te hebben gezien voor de levering van vlees. Jozef hielp hiermee zijn vader Maurits van Haver die de beenhouwerij van zijn schoonvader Alfons had overgenomen in 1950. Dat betekent dat er in de jaren vijftig van vorige eeuw een tijdje toch een band is geweest tussen de kinderen van Octavia en die van haar broers. Die familieband is in de jaren zestig van vorige eeuw geleidelijk eerder onzichtbaar geworden. De nieuwe tijdgeest van de ‘sixties’ deed de nauwe familiebanden geleidelijk afnemen.
 
-><a name="fam_romania"></a><span style="color:darkkhaki">**ROMANIA**</span>
+><a name="fam_romania"></a><span style="color:darkkhaki">**ROMANIA EN MALDEGEM**</span>
 
 ><span style="color:blue">Geboren in het grote gezin</span>
 
@@ -381,7 +381,7 @@ Romania overleed te Maldegem op 20 september 1949 op 76-jarige leeftijd na ‘ee
 
 Romain Verstringe heeft ons tevens bevestigt dat Maurits, de jongste zoon van Romania en Eduard,  tot aan zijn overlijden in 2003 trouw het graf van zijn moeder heeft onderhouden. Dat is een sterk teken van de blijvende band van de jongste zoon Maurits met zijn moeder Romania. De foto toont de 27-jarige Maurits op zijn trouwfoto van 1944. Anno 2025 bestaat het graf van zijn moeder nog steeds. 
 
-><a name="fam_aloysius"></a><span style="color:darkkhaki">**ALOYSIUS**</span>
+><a name="fam_aloysius"></a><span style="color:darkkhaki">**ALOYSIUS EN DE BUITENLANDEN**</span>
 
 ><span style="color:blue">Geboorte</span>
 
@@ -403,7 +403,7 @@ Op het ritme van de vele verhuizingen veranderde Aloysius ook verschillende kere
 Van alle broers en zussen van Octavia weten we het minst over Aloysius. Uit de weinige officiële gegevens waarover we beschikken, lijkt Aloysius het buitenbeentje van het gezin te zijn geweest. Van hem hebben we ook geen enkele foto. Hij staat niet op [de gezinsfoto van 1904](/1878-octavia-versluys/mozaik/3-versluys#fam_foto) en ook niet op de grote [familiefoto van 1933](/archief-vitalis-octavia). Wel zien we dat hij zijn eerstgeboren kind, zijn zoon Karel Henri Lodewijk, genoemd heeft naar zijn vader Carolus Ludovicus Versluys en dat hij tussen beide voornamen ook nog de roepnaam van zijn oudste broer Hendrik heeft toegevoegd: Henri. Hij was immer zijn oudere broer naar Seraing gevolgd. Hendrik was ook getuige op de trouw van zijn broer Aloysius in Seraing. Toch is Aloysius daar maar enkele jaren gebleven en is hij na tussenhaltes in Sas van Gent en Zelzate teruggekeerd naar zijn geboortestreek, dicht bij zijn ouderlijke huis in Knesselare. Hij vestigde zich met zijn gezin in de buurtgemeente Aalter, waar zijn andere broer Alfons woonde. Ze moeten er goede onderlinge contacten hebben gehad. Alfons was slager en cafébaas, terwijl Aloysius toen tijdelijk winkelier was. Ze waren voor enige tijd beiden zelfstandigen in Aalter: broers én collega's. Trouwens, Aloysius gaf zijn twee dochters die in Aalter werden geboren dezelfde voornamen als de dochters van Alfons: Germaine en Magdalena. Aloysius nam die voornamen over en voegde er enkel nog een tweede voornaam aan toe: Germaine Louise en Magdalena Maria. Dat alles wijst op een sterke verbondenheid tussen de twee gezinnen Versluys in Aalter in het eerste decennium van de 20ste eeuw. En toch vinden we Aloysius niet terug op de belangrijke gezinsfoto van 1904 ofschoon Hendrik die toen ook van Seraing moest komen, er wel aanwezig was. In 1933 was Aloysius evenmin te zien op het grote trouwfeest van Maria Elisa De Dobbelaere. Daar waren alle andere levende broers en zussen Versluys wel aanwezig: Leonia, August, Hendrik, Alfons, Romania, Hirma, Octavia. Was Aloysius misschien toen al overleden? Of had zijn afwezigheid een andere reden?
 
 
-><a name="fam_hirma"></a><span style="color:darkkhaki">**HIRMA**</span>
+><a name="fam_hirma"></a><span style="color:darkkhaki">**HIRMA EN KNESSELARE**</span>
 
 ><span style="color:blue">Een lentekind</span>
 
