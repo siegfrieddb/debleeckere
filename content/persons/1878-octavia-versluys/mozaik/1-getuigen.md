@@ -2,7 +2,7 @@
 
 Octavia is geboren in Knesselare op zondag 10 november van het jaar 1878 als elfde en voorlaatste kind van het gezin Versluys-De Witte. Het was de laatste dag dat toen de zevende wereldtentoonstelling in Parijs was geopend. Octavia bereikte een hoge leeftijd. Ze werd 84 jaar, op iets meer dan twee maanden van haar 85ste verjaardag. Ze overleed te Knesselare in de oogstmaand, op 26 augustus 1963. Haar jongste kleinkind, Marnix, was het jaar voordien geboren. De oudere generaties van haar kleinkinderen hebben haar gekend. Als ze over haar spraken, noemden ze haar 'meetje Bleeckers', uitgesproken op zijn Knesselaars, 'Bléékers'. 
 
-<span style="color:olive">**SIMONA, NOËL, GERARD, EDGARD **</span>
+<span style="color:olive">SIMONA, NOËL, GERARD, EDGARD</span>
 
 De oudste zoon van Octavia heet Jozef. Zijn zoon Gerard heeft een dochter, Ann De Bleeckere. Zij heeft in de herfst van 2025, vier kinderen van Jozef geïnterviewd over hun herinneringen aan hun grootmoeder Octavia. Het zijn Anns tante, vader en nonkels Noël en Edgard. Ann bezorgde Sylvain de volgende synthese van haar gesprekken.
 

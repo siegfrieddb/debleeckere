@@ -12,11 +12,13 @@ Sylvain is de auteur van de teksten. Hij verzorgt de eindredactie van teksten va
 
 Voor deze site zijn de bevoorrechte getuigen onmisbaar. Dat zijn hier eerst en vooral de kinderen zelf en de kleinkinderen, plus familieleden van [Vitalis](1879-vitalis-de-bleeckere) en [Octavia](1878-octavia-versluys). Ze kennen de familieverhalen. Enkele van die bevoorrechte getuigen spelen voor deze site een hoofdrol.
 
- Sylvain heeft in de periode 1980-1990 talrijke uitgebreide interviews afgenomen van zijn vader [Maurits](1916-maurits-de-bleeckere) en moeder Flora Verscheure. De aantekeningen ervan zijn neergeschreven in een Atoma-schrift. In de periode 1990-2019 heeft hij eveneens verschillende gesprekken gevoerd met zijn oudste broer [Lucien](1994- lucien-de-bleeckere), zijn tante Louisa van moederszijde, zijn oudere neef Emeric, alsook met Clara De Bleeckere, de jongste dochter van Hendricus De Bleeckere, de oudste broer van Vitalis. 
-
+ Sylvain heeft in de periode 1980-1990 talrijke uitgebreide interviews afgenomen van zijn vader Maurits en moeder Flora Verscheure. De aantekeningen ervan zijn neergeschreven in een Atoma-schrift. In de periode 1990-2019 heeft hij eveneens verschillende gesprekken gevoerd met zijn oudste broer Lucien, zijn tante Louisa van moederszijde, zijn oudere neef Emeric, alsook met Clara De Bleeckere, de jongste dochter van Hendricus De Bleeckere, de oudste broer van Vitalis. 
+ 
  Sarah, de oudste dochter van Sylvain, en haar dochter Thirza, master in de geschiedenis (RUG), ondersteunen het onderzoek naar digitale en geschreven data over de historische en geografische context, eigen aan de familie De Bleeckere-Versluys. 
 
  Tijdens het onderzoek naar de familiefoto Versluys kwam Sylvain in contact met enkele kleinkinderen van gezinsleden Versluys-De Witte. Die staan vermeld in het verslag van [het onderzoek](https://www.debleeckere.be/onderzoek-familiefoto%20versluys), op deze site geplaatst in maart 2021. 
+
+Voor het verhaal van de derde generatie van het gezin De Bleeckere-Versluys kreeg Sylvain de gewaardeerde medewerking van zijn neef Emeric die enkele familiealbums heeft gedocumenteerd. Voor het verhaal van Jozef en Irma, twee kinderen van Vitalis en Octavia, kreeg Sylvain zowel beeldende als auditieve informatie en documenten uit de eerste hand van Ann, de kleindochter van Jozef. Via haar verkreeg Sylvain voor het Domein Bakermat belangrijke getuigenissen van haar vader Gerard, haar ooms Noël en Edgar, en haar tante Simona. 
 
 ## Online bronnen
 
