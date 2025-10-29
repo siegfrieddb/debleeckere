@@ -18,7 +18,7 @@ Voor deze site zijn de bevoorrechte getuigen onmisbaar. Dat zijn hier eerst en v
 
  Tijdens het onderzoek naar de familiefoto Versluys kwam Sylvain in contact met enkele kleinkinderen van gezinsleden Versluys-De Witte. Die staan vermeld in het verslag van [het onderzoek](https://www.debleeckere.be/onderzoek-familiefoto%20versluys), op deze site geplaatst in maart 2021. 
 
-Voor het verhaal van de derde generatie van het gezin De Bleeckere-Versluys kreeg Sylvain de gewaardeerde medewerking van zijn neef Emeric die enkele familiealbums heeft gedocumenteerd. Voor het verhaal van Jozef en Irma, twee kinderen van Vitalis en Octavia, kreeg Sylvain zowel beeldende als auditieve informatie en documenten uit de eerste hand van Ann, de kleindochter van Jozef. Via haar verkreeg Sylvain voor het Domein Bakermat belangrijke getuigenissen van haar vader Gerard, haar ooms Noël en Edgar, en haar tante Simona. 
+Voor het verhaal van de derde generatie van het gezin De Bleeckere-Versluys kreeg Sylvain de gewaardeerde medewerking van zijn neef Emeric die enkele familiealbums heeft gedocumenteerd. Voor het verhaal van Jozef en Irma, twee kinderen van Vitalis en Octavia, kreeg Sylvain zowel beeldende als auditieve informatie en documenten uit de eerste hand van Ann, de kleindochter van Jozef. Via haar verkreeg Sylvain voor het Domein Bakermat belangrijke getuigenissen van haar vader Gerard, haar ooms Noël en Edgard, en haar tante Simona. 
 
 ## Online bronnen
 
